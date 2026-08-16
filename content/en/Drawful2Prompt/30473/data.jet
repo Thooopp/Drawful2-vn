@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Salad nui và con rắn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "snake and pasta salad|a snake and pasta salad|pasta salad and snake|snake & pasta salad|a snake & pasta salad|pasta salad & snake",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

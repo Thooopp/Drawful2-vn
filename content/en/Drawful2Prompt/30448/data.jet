@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xả hết suy nghĩ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mind-dump|mindump|a mind dump",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

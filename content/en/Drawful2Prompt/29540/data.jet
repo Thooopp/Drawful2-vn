@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lòng hiếu khách miền Nam",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "southern hospitaltiy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Oh bless your heart.",
+            "t": "A",
+            "v": "446869_1f",
+            "n": "JokeAudio"
+        }
+    ]
+}

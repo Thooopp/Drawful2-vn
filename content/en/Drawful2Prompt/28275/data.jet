@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhà khoa học tên lửa cưới bác sĩ phẫu thuật não",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "brain surgeon marrying a rocket scientist|a rocket scientist marrying a brain surgeon|a brain surgeon marrying a rocket scientist|a brain surgeon getting married to a rocket scientist|a rocket scientist getting married to a brain surgeon",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "tôi đang theo dõi đấy, anh bạn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "i’m watching you man|i’m watching you, man|i am watching you man|i’m watching you|i am watching you",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

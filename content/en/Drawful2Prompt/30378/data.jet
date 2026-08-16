@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Châu chấu tò mò",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "curious grass hopper|curious grasshoper|a curious grasshopper|curious grashopper",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

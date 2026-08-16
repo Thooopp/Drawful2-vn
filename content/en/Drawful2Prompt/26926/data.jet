@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Những con gấu mèo nhìn chằm chằm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "racoons staring at you|raccoons starring at you",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

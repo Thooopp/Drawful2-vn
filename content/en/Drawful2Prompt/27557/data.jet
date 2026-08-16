@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nghệ sĩ giải trí trên du thuyền",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cruse ship entertainer|cruiseship entertainer|a cruise ship entertainer|a cruiseship entertainer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

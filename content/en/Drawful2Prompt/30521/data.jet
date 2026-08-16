@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phòng gym kiểu xưa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "old-timey gym|old timy gym|an old timey gym",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

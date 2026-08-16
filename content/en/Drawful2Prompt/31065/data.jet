@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "áp phích truyền cảm hứng dở tệ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a bad motivational poster",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Super inspiring.",
+            "t": "A",
+            "v": "451451_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

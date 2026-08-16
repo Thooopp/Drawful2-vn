@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hoài Linh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Will Ferrel|Will Ferell|Will Ferral|Will Feral|Will Ferrall",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Để tóc mái",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "rockin some bangs|rockin’ some bangs",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

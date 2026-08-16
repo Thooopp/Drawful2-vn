@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngủ chung với chuột túi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sleeping with a kangaro",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

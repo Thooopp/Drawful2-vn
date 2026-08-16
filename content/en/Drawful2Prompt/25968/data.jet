@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bộ xương của Snoopy",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "skeleton of Snoopy|Snoopy skeleton",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chú chó tóc mullet",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mulet dog|a mullet dog",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I’m gonna call him Jeff Dogsworthy.",
+            "t": "A",
+            "v": "446950_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

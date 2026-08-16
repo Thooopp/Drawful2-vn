@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bay mất răng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "my teth flew away|teeth flew away",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "But if your teeth truly love you, they’ll come flying back.",
+            "t": "A",
+            "v": "439592_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gửi rác lên Mặt Trời",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sending our garbage to the sun",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

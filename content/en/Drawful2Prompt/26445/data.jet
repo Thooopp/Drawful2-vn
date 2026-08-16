@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pinata đầy ong",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pinta full of bees|pinata ful of bees|a pinata full of bees",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "It’s still better than a piñata full of candy corn.",
+            "t": "A",
+            "v": "437093_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

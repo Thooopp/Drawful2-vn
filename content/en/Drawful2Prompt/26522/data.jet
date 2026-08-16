@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cuộc rượt đuổi tốc độ rùa bò",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lowspeed chase|low-speed chase",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

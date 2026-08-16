@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người hâm mộ đô vật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "wresteling fans|westling fans",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

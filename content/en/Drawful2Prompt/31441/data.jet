@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đám cưới khoa học viễn tưởng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "science-fiction wedding|sci fi wedding|sci-fi wedding|a science fiction wedding",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "True love is the greatest science fiction of them all. But, enough about my life.",
+            "t": "A",
+            "v": "452579_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

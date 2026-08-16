@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đừng đào chỗ đó!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dont dig there|do not dig there|do not dig there!|don’t dig there",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

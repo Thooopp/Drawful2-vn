@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Một đống chữ X",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a bunch of x’s|bunch of Xs|bunch of X’s",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

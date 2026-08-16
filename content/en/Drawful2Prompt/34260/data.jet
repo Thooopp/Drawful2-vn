@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tê chân nên không đứng dậy khỏi bồn cầu được!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "my legs fell asleep and I cannot get of the toilet",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "The pain is real, people. It is real!",
+            "t": "A",
+            "v": "471566_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

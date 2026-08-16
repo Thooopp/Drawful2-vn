@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bỏ thịt xông khói vào xe cút kít",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "put the bacon in the wheel barrow|put bacon in the wheelbarrow",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cảnh sát nổi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "good cop good cop",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

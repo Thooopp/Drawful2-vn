@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Máy sấy tay kỳ quặc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "wierd hair dryer|weird hair drier|wierd hand dryer|weird hand drier",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kem eggnog",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "egg nog ice cream|eggnog icecream|egg nog icecream",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Somehow still not as thick as normal eggnog.",
+            "t": "A",
+            "v": "452492_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

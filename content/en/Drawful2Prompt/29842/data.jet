@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xe chụp X-quang bí mật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "secret xray van|secret x ray van|a secret x-ray van",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

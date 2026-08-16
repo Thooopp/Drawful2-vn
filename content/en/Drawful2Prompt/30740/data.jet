@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "xơ vải",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Or, as I call it, nature’s belly button warmer.",
+            "t": "A",
+            "v": "450473_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mất trí nhớ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "amensa|amnesia",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

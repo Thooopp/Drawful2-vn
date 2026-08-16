@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thẩm phán khỉ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "monkie judge",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

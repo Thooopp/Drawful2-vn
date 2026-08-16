@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ăn một quả thông",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "eating a pinecone|eating pine cone",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Pine cone is the new kale.",
+            "t": "A",
+            "v": "437102_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

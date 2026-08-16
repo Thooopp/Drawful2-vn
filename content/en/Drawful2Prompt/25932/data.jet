@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chiếc võng gợi cảm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "võng sexy|chiếc võng sexy|cái võng gợi cảm|cái võng sexy|võng gợi cảm",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

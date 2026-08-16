@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Speed dating",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "speed-dating|speeddating",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

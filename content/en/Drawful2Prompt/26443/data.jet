@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tiệc dưới cống",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sewr party|sewur party|sewer partee|a sewer party",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

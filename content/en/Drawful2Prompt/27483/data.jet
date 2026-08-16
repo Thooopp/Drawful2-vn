@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chết vì kèn túi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "death by bag pipe|death by bag-pipe",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

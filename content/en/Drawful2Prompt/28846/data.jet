@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chuyện tình tại quán cà phê",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "coffe shop romance|cofee shop romance|coffeeshop romance",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

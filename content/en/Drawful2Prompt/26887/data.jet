@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gian lận khi chơi bài",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cheatin at cards|cheeting at cards",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

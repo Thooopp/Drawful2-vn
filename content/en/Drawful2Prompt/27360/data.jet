@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ánh đèn đêm thứ Sáu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "friday nights lights|frday night lights",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Clear eyes, full hearts and something... something else. I’m only on Season One right now.",
+            "t": "A",
+            "v": "439838_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

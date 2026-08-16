@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đừng tự đấm mình nữa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "stop punching your self",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

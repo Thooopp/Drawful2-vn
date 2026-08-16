@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đài phun máu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fountin of blood|a fountain of blood",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

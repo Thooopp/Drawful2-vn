@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mary Poppins bị cảnh sát dừng xe",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "She was caught carrying a spoonful of sugar, if you know what I mean.",
+            "t": "A",
+            "v": "450419_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

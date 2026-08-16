@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi sẽ cưới chiếc gậy nhún này!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "i’m marying this pogo stick|i am marrying this pogo stick|i am marrying this pogo stick!|i’m marrying this pogostick!|i’m marrying this pogostick|i am marrying this pogostick",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

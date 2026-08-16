@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cơn giận dỗi nhẹ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "minor tempertantrum|a minor temper tantrum",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

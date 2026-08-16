@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tiêu diệt con gấu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "destory a bear|destroy a bare|destroy bear",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

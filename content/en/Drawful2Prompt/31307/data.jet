@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phật sử dụng internet",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "washington uses the internet",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

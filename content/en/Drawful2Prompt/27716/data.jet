@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Có một con nhện trong tai tôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "theres a spider in my ear|their’s a spider in my ear|theirs a spider in my ear",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Buổi hòa nhạc Miley Cyrus",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "jimmy buffett concert|jimmy bufett concert|jimmie buffet concert|a Jimmy Buffet concert",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

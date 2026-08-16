@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Săn người để giải trí",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "huntin humans for sport",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Ugh... one day I’ll be rich enough.",
+            "t": "A",
+            "v": "439781_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

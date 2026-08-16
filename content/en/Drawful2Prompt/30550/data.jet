@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngôi sao YouTube",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "you tube star|a youtube star",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

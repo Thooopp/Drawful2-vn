@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đừng kéo ngón tay tôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dont pull my finger|do not pull my finger",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

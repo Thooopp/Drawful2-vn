@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi ăn hình tam giác",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "I eat trangles|I eat tringles",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

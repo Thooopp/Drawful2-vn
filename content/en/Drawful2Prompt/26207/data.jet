@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cày phim",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "binj watching|bing watching",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

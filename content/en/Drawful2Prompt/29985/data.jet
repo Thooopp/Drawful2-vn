@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Có con khỉ trong túi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a monkey in my pocket|monkey in my poket",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mèo samurai kêu meo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cat samrai meow",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Oh yeah, that makes perfect sense.",
+            "t": "A",
+            "v": "443872_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

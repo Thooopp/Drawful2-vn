@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cầu thủ ném gà",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "qb throwing a turkey|quater back throwing a turkey",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

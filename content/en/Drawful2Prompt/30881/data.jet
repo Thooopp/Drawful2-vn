@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gái độc thân quyến rũ gần bạn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sexy singles in youre area|sexy singles in ur area",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

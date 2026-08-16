@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chuyện phiếm trong thang máy",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "elevater small talk|elevator smalltalk|elevater smalltalk|lift small talk",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

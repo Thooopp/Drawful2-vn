@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Photoshop lỗi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bad photo shop|bad photo-shop|a bad photoshop",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

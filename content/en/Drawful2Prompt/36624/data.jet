@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "ăn salad thỏa thích",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "going to town on salad|go to town on a salad",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

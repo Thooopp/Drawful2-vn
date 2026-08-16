@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "xoắn não",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Criss Angel|Criss Angel mind freak|mind freek|mindfreak",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

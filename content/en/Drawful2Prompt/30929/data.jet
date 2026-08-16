@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sữa này có vị lạ đúng không?",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "does this milk taste bad to u|does this milk taste bad to you|this milk taste bad to you?",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

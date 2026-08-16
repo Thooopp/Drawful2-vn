@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Một phút mặc niệm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "moment of silence",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

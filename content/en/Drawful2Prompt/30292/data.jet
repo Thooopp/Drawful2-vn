@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Căn hộ độc thân",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bachlor pad|a bachelor pad",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

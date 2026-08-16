@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trẻ hoang dã",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ferrel children|ferel children|feral kids|farel children",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

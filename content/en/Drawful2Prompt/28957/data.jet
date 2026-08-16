@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chăn có tay khổng lồ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "giant snuggy|a giant snuggie|giant snugie",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

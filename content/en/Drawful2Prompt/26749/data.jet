@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Làm rơi kính áp tròng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dropped a contact|drop a contact lens",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

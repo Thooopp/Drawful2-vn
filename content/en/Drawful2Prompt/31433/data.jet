@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ông già Noel dành cho người lớn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Santa for grownups",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "You could’ve just drawn Matlock.",
+            "t": "A",
+            "v": "452555_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

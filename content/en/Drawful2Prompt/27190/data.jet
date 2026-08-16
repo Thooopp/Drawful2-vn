@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chàng cao bồi cách một cây",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cowboy from a mile away|cow boy from a mile away",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

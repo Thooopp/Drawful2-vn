@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quả bom thịt xông khói",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "baconbomb|bacon bom|a bacon bomb",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

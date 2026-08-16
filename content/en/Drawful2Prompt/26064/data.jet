@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cù lét tôi đi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tickel me",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đồ ngủ trong trại giam",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Prison PJs|Prison PJ’s|Prison P.J.s|Prison P.J.’s",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

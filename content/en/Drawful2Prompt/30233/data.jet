@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bồi thẩm đoàn không nhất trí",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hungjury|a hung jury",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

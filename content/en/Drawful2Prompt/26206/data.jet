@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "thám tử lạc đà",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "camle detective|camel det",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "If there’s a mystery, camel detective has a hunch.",
+            "t": "A",
+            "v": "436376_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

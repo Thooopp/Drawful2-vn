@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Zombie Katy Perry",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Zombie Katie Perry|Katy Perry zombie|Katie Perry zombie|Zombie Katie Parry|Katie Parry Zombie|Thây ma Katy Perry|xác sống Katy Perry",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

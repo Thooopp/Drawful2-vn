@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đám cưới ảo thuật gia",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Magican wedding|magician weddin|magican weding|magicians wedding|magician’s wedding",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Convincing someone to spend the rest of their life with you is the greatest trick of all.",
+            "t": "A",
+            "v": "438416_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

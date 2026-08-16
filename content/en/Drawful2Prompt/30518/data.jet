@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nắm đấm bơ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "butter fist|butter fist|butterfist|butterfists",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I believe that’s Paula Deen’s boxing name.",
+            "t": "A",
+            "v": "449807_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "chia hóa đơn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "spliting a check|split a check|spliting the check|split the check|splitting a check",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

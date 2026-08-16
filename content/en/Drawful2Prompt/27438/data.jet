@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sinh đôi cưới sinh đôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "twins married to twins|twins marying twins|twins getting married to twins",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

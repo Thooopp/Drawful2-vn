@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bắp cải nóng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hot cabage",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

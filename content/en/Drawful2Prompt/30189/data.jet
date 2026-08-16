@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lỗ rốn của tôi là bánh mì vòng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "my bellybutton is a bagel|my belly button’s a bagel|belly button’s a bagel|belly button is a bagel",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

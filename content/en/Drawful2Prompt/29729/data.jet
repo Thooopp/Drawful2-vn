@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pizza xúc tu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tentacale pizza|tentcle pizza|tentacle piza|tenticle pizza",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

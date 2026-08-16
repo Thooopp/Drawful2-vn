@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sữa lắc từ cây sữa lắc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "milkshake from milkshake tree|milkshake from the milkshake tree|milk shake from the milk shake tree",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Do not plant a milkshake tree or everyone will come to your yard.",
+            "t": "A",
+            "v": "436766_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

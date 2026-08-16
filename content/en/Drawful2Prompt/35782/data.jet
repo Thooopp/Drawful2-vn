@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mấy bông hoa này mùi kinh quá",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "flowers smell awful|these flowers smell bad|these flowers smell|flowers smell bad|those flowers smell awful|those flowers smell bad",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

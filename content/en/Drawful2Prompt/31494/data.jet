@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "chết vì sô cô la",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I wish! LOL! Am I right?! Huh. See, I think a man wrote this joke for me. But, you know the thing is women are more than just lovers of chocolate, alright?! Although, you know what? To be fair, I really, really do love chocolate.",
+            "t": "A",
+            "v": "452738_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

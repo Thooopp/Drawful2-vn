@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bị kẹt trong chiếc bánh rán lớn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "stuck in a large doughnut|Stuck in a big donut",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

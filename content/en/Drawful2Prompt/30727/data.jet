@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dầu cho người tập thể hình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "body builder oil|body-builder oil|bodybuilding oil",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

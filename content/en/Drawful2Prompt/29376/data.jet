@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đôi tai có đôi cánh nhỏ xíu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tiny ears with wings|ears with little wings",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

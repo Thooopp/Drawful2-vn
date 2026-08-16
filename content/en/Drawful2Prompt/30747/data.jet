@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thìa canh bên cạnh thìa cà phê",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "table spoon next to a tea spoon|teaspoon next to a tablespoon|tablespoon and teaspoon|teaspoon and tablespoon|tablespoon & teaspoon|teaspoon & tablespoon",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quà cưới mua phút chót",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "last-minute wedding gift|a last minute wedding gift",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

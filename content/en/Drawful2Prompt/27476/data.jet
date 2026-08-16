@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thợ cơ khí ngựa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "horse mecanic|a horse mechanic",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

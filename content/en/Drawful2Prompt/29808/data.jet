@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người hâm mộ bí mật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "secret amirer|a secret admirer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

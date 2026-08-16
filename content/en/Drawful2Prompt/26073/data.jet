@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nước cam nhiều tép",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pulpy oj",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vừa mới tỉnh giấc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "barly awake|barley awake|barely a wake",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

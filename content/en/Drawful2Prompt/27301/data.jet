@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Khiêu vũ trong đêm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dancin in the dark|dancing in dark|dance in the dark",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

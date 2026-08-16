@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngón tay cái có ngón tay cái",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "thumb with thumb|thums with thums|tumbs with thumbs",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "This would revolutionize hitchhiking.",
+            "t": "A",
+            "v": "453143_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

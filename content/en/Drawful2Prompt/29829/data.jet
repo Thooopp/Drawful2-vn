@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lính cầm quả bơ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "soldeir with an avocado|soldier with avocado",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

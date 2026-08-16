@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quá sung sướng để bị áp lực",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "2 blessed 2 be stressed|2 blessed 2 B stressed|too blessed to stress|to blessed to be stressed",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

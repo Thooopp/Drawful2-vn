@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nách phát ra âm nhạc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "musicel armpits|musical arm pits|musical arm-pits|musical armpit",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

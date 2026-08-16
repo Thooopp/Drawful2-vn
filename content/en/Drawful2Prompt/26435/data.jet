@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hình nền đáng sợ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "scary wall paper|scary wall-paper",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

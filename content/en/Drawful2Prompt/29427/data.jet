@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thuyền trưởng phấn khích",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "excited sea captin|exited sea captain|excited seacaptain",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

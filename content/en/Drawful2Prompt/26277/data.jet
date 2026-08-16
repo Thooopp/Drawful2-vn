@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vụ án mạng đầu đời của em bé",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "baby’s 1st murder|baby first murder|baby 1st murder|babys first murder|babys 1st murder|a baby’s first murder",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

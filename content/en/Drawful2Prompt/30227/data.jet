@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sự cố kem cạo râu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "shaveing cream accident|shaving cream acident|a shaving cream accident",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Knowing safety procedures can help shave a life.",
+            "t": "A",
+            "v": "448934_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

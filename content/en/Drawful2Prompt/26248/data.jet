@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ý nghĩa cuộc sống",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "meaning of life",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Huh, so now we know.",
+            "t": "A",
+            "v": "436502_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

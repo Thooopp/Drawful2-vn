@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nem kẹt dưới ghế sofa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a pizza roll stuck in a couch|pizza roll stuck in the couch|a pizza roll stuck in a couch",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

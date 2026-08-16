@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "bị kẹt cùng HKT",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "trapped with ICP|trapped with the insane clown pose|trapped with Insane Clown Posse",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

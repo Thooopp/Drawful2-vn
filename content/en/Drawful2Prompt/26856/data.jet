@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mô hình hồi sức cấp cứu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "C.P.R. dummy|CPR dummi|cpr dummie|a CPR dummy|a C.P.R. dummy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

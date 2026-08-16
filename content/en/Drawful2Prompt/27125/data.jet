@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hoàng tử rùng rợn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a creepy prince",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

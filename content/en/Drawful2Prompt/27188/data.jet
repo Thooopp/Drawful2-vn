@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "E ngại trước ống kính",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "camra shy|camera-shy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "There’s no shame in being camera shy, you can always be a voice in a video game!",
+            "t": "A",
+            "v": "439322_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

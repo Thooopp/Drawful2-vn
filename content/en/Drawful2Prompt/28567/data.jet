@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "không rõ mấy con sóc chuột này có thân thiện không",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "not sure if these chimpmunks are friendly|i’m not sure if these chipmunks are friendly",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

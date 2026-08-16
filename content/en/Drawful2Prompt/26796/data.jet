@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "nhà phao bị xì",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "de-flated bounce house|deflated bouncehouse|deflated bouncey house|a deflated bounce house",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

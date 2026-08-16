@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kết thúc có hậu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "happy endng|a happy ending",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

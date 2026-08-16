@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vĩnh hằng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "eternety|an eternity",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

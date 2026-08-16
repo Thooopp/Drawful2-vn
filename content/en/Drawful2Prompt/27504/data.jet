@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhảm nhí",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "non-sense|non sense",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

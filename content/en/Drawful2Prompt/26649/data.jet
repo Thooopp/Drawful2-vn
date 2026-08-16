@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhân viên sở thú bất tài",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "incomptent zoo keeper|incompetent zookeeper|Incompatent zoo keeper|an incompetent zoo keeper",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

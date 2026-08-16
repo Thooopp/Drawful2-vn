@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tất cả các loại phô mai",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "all of cheese",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "If I saw that on a menu, I’d order it.",
+            "t": "A",
+            "v": "447881_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

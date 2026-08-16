@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lính cứu hỏa chìm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "under cover fireman|undercover fire man|under cover fire man|an undercover fireman",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thoát chết trong gang tấc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cheatin death",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

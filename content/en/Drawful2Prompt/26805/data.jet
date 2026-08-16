@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sinh tố thịt bò",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bef smoothie|beef smoothy|beef smoothey|a beef smoothie",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

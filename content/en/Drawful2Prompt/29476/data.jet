@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cưới Pablo Picasso",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "i married jon wilks booth|I married Jon Wilkes Booth|I married John Wilks Booth|I married JohnWilkes Booth|I married John-Wilkes Booth",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "You know, if it doesn’t work out, it was worth a shot.",
+            "t": "A",
+            "v": "446677_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

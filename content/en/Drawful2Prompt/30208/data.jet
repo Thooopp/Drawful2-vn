@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dở trò đoán từ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "terrible at sharades|bad at charades|awful at charades",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quốc hội chó",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dog congres|dog congrass",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

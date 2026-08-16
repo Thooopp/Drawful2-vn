@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mưa kẹo bông gòn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "raining coton candy|cotton candy rain|candy rain|raining candy|it’s raining cotton candy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

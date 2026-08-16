@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "chồn đất châu Phi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cầy meerkat|chồn meerkat|chồn đất|cầy đất|cầy meer kat|chồn meer kat|cầy đất châu Phi|con cầy meerkat|con chồn meerkat|con chồn đất|con cầy đất|con cầy meer kat|con chồn meer kat|con cầy đất châu Phi|con chồn đất châu Phi",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

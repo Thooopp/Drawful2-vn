@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thực hành hôn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "practise kiss|practice kis|a practice kiss",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

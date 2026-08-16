@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quả bóng bowling lơ lửng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "floting bowling ball|floating bowlingball|floating boling ball|a floating bowling ball",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

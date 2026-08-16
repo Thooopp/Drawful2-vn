@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người sang đường ẩu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "j walker|jay walker|jay-walker|a jaywalker",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

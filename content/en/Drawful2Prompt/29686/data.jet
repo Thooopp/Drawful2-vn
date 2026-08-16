@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Buổi hẹn dạ hội buồn bã",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I’m pretty sure that was the actual theme of my senior prom.",
+            "t": "A",
+            "v": "447310_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

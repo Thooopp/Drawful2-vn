@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bánh quy khiến mông bạn rụng rời ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cookies that make you’re butt fall off",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

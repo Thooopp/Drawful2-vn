@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nuốt một chiếc gối",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "swalowing a pillow|swallow a pillow|swalow a pillow|swallowing a pillo",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "That still makes more sense than sleeping on your back.",
+            "t": "A",
+            "v": "452831_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

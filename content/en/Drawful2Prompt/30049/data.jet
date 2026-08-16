@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Anh giao hàng lén lút",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a sneaky delivery man|sneaky delivery guy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

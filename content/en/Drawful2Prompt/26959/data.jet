@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sọ bò biết nói",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "talking cow skul|talking cow-skull",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

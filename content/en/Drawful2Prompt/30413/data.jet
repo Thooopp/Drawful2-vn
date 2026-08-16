@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "nhét bơ vào nách",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sticking butter in my arm pit|putting butter in my armpit",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đống đầu búp bê Barbie",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pile of Barby heads|pile of barbey heads|a pile of barbie heads",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "One day that will be America’s currency.",
+            "t": "A",
+            "v": "441695_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

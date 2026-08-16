@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lưỡi acid",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "acid tunge|acid tung",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Truyện tranh hươu cao cổ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "girafe comic|gyraffe comic|a giraffe comic",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

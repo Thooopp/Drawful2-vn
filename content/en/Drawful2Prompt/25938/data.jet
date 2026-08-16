@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quên mất định nói gì",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "quên điều định nói|quên nói gì|quên định nói gì",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

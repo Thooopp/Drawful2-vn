@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người sói tuổi teen",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "teen wolf 2|teenwolf 2|teenwolf too|teen wolf to",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

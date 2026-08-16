@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hội nữ sinh buồn thiu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sad sorrority|unhappy sorority|sad sorority girls|sad sorority house|a sad sorority",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

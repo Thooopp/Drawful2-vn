@@ -1,0 +1,7310 @@
+{
+    "content": [
+        {
+            "category": "râu xồm xoàm nhưng tóc mượt",
+            "id": 31712,
+            "x": false
+        },
+        {
+            "category": "<RANDOM_PLAYER_NAME> nhảy",
+            "id": 31678,
+            "x": false
+        },
+        {
+            "category": "Tắm giùm cái đi?",
+            "id": 31650,
+            "x": false
+        },
+        {
+            "category": "Ngón tay cái có ngón tay cái",
+            "id": 31629,
+            "x": false
+        },
+        {
+            "category": "3 Sherlock Holmes",
+            "id": 31624,
+            "x": false
+        },
+        {
+            "category": "chết vì kèn trombone",
+            "id": 31623,
+            "x": false
+        },
+        {
+            "category": "ma cà rồng làm podcast",
+            "id": 31609,
+            "x": false
+        },
+        {
+            "category": "ảo thuật gia sơ sinh",
+            "id": 31607,
+            "x": false
+        },
+        {
+            "category": "chiếc áo miễn phí đổi đời tôi",
+            "id": 31591,
+            "x": false
+        },
+        {
+            "category": "Tôi cần phải vào trường mỹ thuật",
+            "id": 31590,
+            "x": false
+        },
+        {
+            "category": "Xman tệ nhất",
+            "id": 31588,
+            "x": false
+        },
+        {
+            "category": "ai đó gọi nhân sự đi",
+            "id": 31587,
+            "x": false
+        },
+        {
+            "category": "xin lỗi qua loa",
+            "id": 31586,
+            "x": false
+        },
+        {
+            "category": "bà già đang bốc cháy",
+            "id": 31585,
+            "x": true
+        },
+        {
+            "category": "xương rồng hình bàn tay",
+            "id": 31584,
+            "x": false
+        },
+        {
+            "category": "thích hít thở",
+            "id": 31583,
+            "x": false
+        },
+        {
+            "category": "mọi con hải cẩu đều lên thiên đàng",
+            "id": 31582,
+            "x": true
+        },
+        {
+            "category": "sang chấn tâm lý thời thơ ấu",
+            "id": 31581,
+            "x": true
+        },
+        {
+            "category": "mắm chưng thịt trứng",
+            "id": 31580,
+            "x": false
+        },
+        {
+            "category": "Chơi khăm thị trưởng",
+            "id": 31578,
+            "x": false
+        },
+        {
+            "category": "Vịnh hẹp",
+            "id": 31575,
+            "x": false
+        },
+        {
+            "category": "Chân máy kéo",
+            "id": 31567,
+            "x": false
+        },
+        {
+            "category": "Món tối ăn cho bữa sáng",
+            "id": 31558,
+            "x": false
+        },
+        {
+            "category": "U50 phong độ",
+            "id": 31557,
+            "x": false
+        },
+        {
+            "category": "Thứ Chúa thấy khi soi gương",
+            "id": 31556,
+            "x": false
+        },
+        {
+            "category": "Lạc đà bốn bướu",
+            "id": 31553,
+            "x": false
+        },
+        {
+            "category": "Ca sĩ nhạc jazz già",
+            "id": 31552,
+            "x": false
+        },
+        {
+            "category": "Chuyên gia mạng xã hội",
+            "id": 31550,
+            "x": false
+        },
+        {
+            "category": "Đừng đánh thức bố",
+            "id": 31548,
+            "x": false
+        },
+        {
+            "category": "Đùi gà tây bên giường",
+            "id": 31547,
+            "x": false
+        },
+        {
+            "category": "Cây chả lụa",
+            "id": 31544,
+            "x": false
+        },
+        {
+            "category": "Jane Goodall",
+            "id": 31543,
+            "x": false
+        },
+        {
+            "category": "Đó không phải bác sĩ của tôi!",
+            "id": 31542,
+            "x": false
+        },
+        {
+            "category": "Bánh xèo trong túi",
+            "id": 31541,
+            "x": false
+        },
+        {
+            "category": "Nhà tù ngựa vằn",
+            "id": 31531,
+            "x": false
+        },
+        {
+            "category": "Tổng hợp các pha thể thao",
+            "id": 31526,
+            "x": false
+        },
+        {
+            "category": "Nuốt một chiếc gối",
+            "id": 31525,
+            "x": false
+        },
+        {
+            "category": "Luật pháp Thụy Điển",
+            "id": 31524,
+            "x": false
+        },
+        {
+            "category": "Mới ly hôn",
+            "id": 31523,
+            "x": true
+        },
+        {
+            "category": "Tiệc củ cải",
+            "id": 31520,
+            "x": false
+        },
+        {
+            "category": "Trang phục công sở thoải mái",
+            "id": 31517,
+            "x": false
+        },
+        {
+            "category": "Giám đốc tài chính",
+            "id": 31515,
+            "x": false
+        },
+        {
+            "category": "Cá hồi hun khói",
+            "id": 31514,
+            "x": false
+        },
+        {
+            "category": "Ông bố sành điệu",
+            "id": 31503,
+            "x": false
+        },
+        {
+            "category": "Brendan Fraser vỗ tay",
+            "id": 31502,
+            "x": false
+        },
+        {
+            "category": "chết vì sô cô la",
+            "id": 31494,
+            "x": false
+        },
+        {
+            "category": "Sợ cỏ lăn",
+            "id": 31492,
+            "x": false
+        },
+        {
+            "category": "Quan tài đầy bánh donut",
+            "id": 31483,
+            "x": false
+        },
+        {
+            "category": "Đấu thìa",
+            "id": 31478,
+            "x": false
+        },
+        {
+            "category": "Nâng ly chúc mừng Dracula",
+            "id": 31455,
+            "x": false
+        },
+        {
+            "category": "Răng hôi",
+            "id": 31451,
+            "x": false
+        },
+        {
+            "category": "Gãy xương cụt",
+            "id": 31448,
+            "x": false
+        },
+        {
+            "category": "Hóa đơn siêu dài",
+            "id": 31445,
+            "x": false
+        },
+        {
+            "category": "Mưa axit!!!",
+            "id": 31444,
+            "x": false
+        },
+        {
+            "category": "Đám cưới khoa học viễn tưởng",
+            "id": 31441,
+            "x": false
+        },
+        {
+            "category": "một cảnh trong vở kịch Macbeth",
+            "id": 31440,
+            "x": false
+        },
+        {
+            "category": "Những đồng xu khóc lóc",
+            "id": 31439,
+            "x": false
+        },
+        {
+            "category": "Người bán cào tận nhà",
+            "id": 31437,
+            "x": false
+        },
+        {
+            "category": "món súp sang chảnh",
+            "id": 31435,
+            "x": false
+        },
+        {
+            "category": "Vũ công tài ba",
+            "id": 31431,
+            "x": false
+        },
+        {
+            "category": "Một hạt đậu thận trong bát đậu Hà Lan",
+            "id": 31430,
+            "x": false
+        },
+        {
+            "category": "Đi tất với xăng đan",
+            "id": 31427,
+            "x": false
+        },
+        {
+            "category": "Con nhím hói",
+            "id": 31420,
+            "x": false
+        },
+        {
+            "category": "Mưa kẹo bông gòn",
+            "id": 31370,
+            "x": false
+        },
+        {
+            "category": "Răng kim loại",
+            "id": 31368,
+            "x": false
+        },
+        {
+            "category": "bộ ga giường đẹp",
+            "id": 31359,
+            "x": false
+        },
+        {
+            "category": "Cào và ngửi",
+            "id": 31345,
+            "x": false
+        },
+        {
+            "category": "Buôn lậu phô mai",
+            "id": 31315,
+            "x": false
+        },
+        {
+            "category": "Photoshop lỗi",
+            "id": 31313,
+            "x": false
+        },
+        {
+            "category": "Tóc bò liếm",
+            "id": 31311,
+            "x": false
+        },
+        {
+            "category": "Ăn củ hành sống",
+            "id": 31309,
+            "x": false
+        },
+        {
+            "category": "Phật sử dụng internet",
+            "id": 31307,
+            "x": false
+        },
+        {
+            "category": "Bút tàng hình",
+            "id": 31305,
+            "x": false
+        },
+        {
+            "category": "Giọt nước mắt hạnh phúc",
+            "id": 31294,
+            "x": false
+        },
+        {
+            "category": "Hết hơi",
+            "id": 31293,
+            "x": false
+        },
+        {
+            "category": "Ném thịt viên",
+            "id": 31287,
+            "x": false
+        },
+        {
+            "category": "Chọc chọc",
+            "id": 31278,
+            "x": false
+        },
+        {
+            "category": "Trình chặn trang web",
+            "id": 31272,
+            "x": false
+        },
+        {
+            "category": "Lén theo dõi hàng xóm",
+            "id": 31266,
+            "x": false
+        },
+        {
+            "category": "ôm một con dê",
+            "id": 31265,
+            "x": false
+        },
+        {
+            "category": "chia hóa đơn",
+            "id": 31262,
+            "x": false
+        },
+        {
+            "category": "Hầm trú ẩn hạt nhân",
+            "id": 31257,
+            "x": false
+        },
+        {
+            "category": "Isaac đẫm mồ hôi",
+            "id": 31255,
+            "x": false
+        },
+        {
+            "category": "Thẻ tín dụng của bạn đã bị từ chối",
+            "id": 31230,
+            "x": false
+        },
+        {
+            "category": "Hoảng loạn ở tiệm tạp hóa",
+            "id": 31221,
+            "x": false
+        },
+        {
+            "category": "vua mạng",
+            "id": 31220,
+            "x": false
+        },
+        {
+            "category": "Hai người phụ nữ say khướt",
+            "id": 31219,
+            "x": true
+        },
+        {
+            "category": "Đấm một con cá",
+            "id": 31218,
+            "x": false
+        },
+        {
+            "category": "Ngoáy mũi bằng dao",
+            "id": 31215,
+            "x": false
+        },
+        {
+            "category": "Xét nghiệm dị ứng",
+            "id": 31210,
+            "x": true
+        },
+        {
+            "category": "Chết đuối trong nhà bóng",
+            "id": 31183,
+            "x": false
+        },
+        {
+            "category": "Thông báo đẩy",
+            "id": 31180,
+            "x": false
+        },
+        {
+            "category": "Cháy dầu mỡ",
+            "id": 31178,
+            "x": false
+        },
+        {
+            "category": "mọi người tức giận trong buổi họp",
+            "id": 31153,
+            "x": false
+        },
+        {
+            "category": "Ợ ngược",
+            "id": 31152,
+            "x": false
+        },
+        {
+            "category": "Bi đá trên băng",
+            "id": 31134,
+            "x": false
+        },
+        {
+            "category": "Quá trời ngũ cốc",
+            "id": 31131,
+            "x": false
+        },
+        {
+            "category": "Quần jean em bé",
+            "id": 31126,
+            "x": false
+        },
+        {
+            "category": "thế chiến thứ nhất",
+            "id": 31124,
+            "x": false
+        },
+        {
+            "category": "Chấn thương cổ",
+            "id": 31122,
+            "x": false
+        },
+        {
+            "category": "Khăn quàng mùa hè",
+            "id": 31118,
+            "x": false
+        },
+        {
+            "category": "Hai chấm to và một quả chuối",
+            "id": 31114,
+            "x": false
+        },
+        {
+            "category": "Máy sấy tay kỳ quặc",
+            "id": 31111,
+            "x": false
+        },
+        {
+            "category": "không qua máy phát hiện nói dối",
+            "id": 31104,
+            "x": false
+        },
+        {
+            "category": "cà rốt quyền năng",
+            "id": 31099,
+            "x": false
+        },
+        {
+            "category": "17 xu",
+            "id": 31091,
+            "x": false
+        },
+        {
+            "category": "xoắn não",
+            "id": 31090,
+            "x": false
+        },
+        {
+            "category": "Một phút mặc niệm",
+            "id": 31089,
+            "x": false
+        },
+        {
+            "category": "Vết bỏng do thảm",
+            "id": 31075,
+            "x": false
+        },
+        {
+            "category": "Ớt ma",
+            "id": 31074,
+            "x": false
+        },
+        {
+            "category": "Microsoft Excel",
+            "id": 31069,
+            "x": false
+        },
+        {
+            "category": "áp phích truyền cảm hứng dở tệ",
+            "id": 31065,
+            "x": false
+        },
+        {
+            "category": "Quần tập yoga",
+            "id": 31064,
+            "x": false
+        },
+        {
+            "category": "Phán xét âm thầm",
+            "id": 31061,
+            "x": false
+        },
+        {
+            "category": "Bộ râu lửa",
+            "id": 31060,
+            "x": false
+        },
+        {
+            "category": "Đi ngủ sớm",
+            "id": 31055,
+            "x": false
+        },
+        {
+            "category": "mũ đi nhà thờ",
+            "id": 31052,
+            "x": false
+        },
+        {
+            "category": "Thắng cả cõi mạng",
+            "id": 31048,
+            "x": false
+        },
+        {
+            "category": "Chuyến du thuyền của rapper",
+            "id": 31035,
+            "x": false
+        },
+        {
+            "category": "Nghệ nhân thổi thủy tinh",
+            "id": 31030,
+            "x": false
+        },
+        {
+            "category": "anh chàng ngầu lòi thổi sáo một mình",
+            "id": 31026,
+            "x": false
+        },
+        {
+            "category": "Sai sót y tế",
+            "id": 31019,
+            "x": false
+        },
+        {
+            "category": "Teo cơ",
+            "id": 30998,
+            "x": false
+        },
+        {
+            "category": "Quái vật thích ôm",
+            "id": 30973,
+            "x": false
+        },
+        {
+            "category": "Hai người vào, ba người ra",
+            "id": 30959,
+            "x": false
+        },
+        {
+            "category": "Người hâm mộ đô vật",
+            "id": 30958,
+            "x": false
+        },
+        {
+            "category": "Người giám hộ",
+            "id": 30957,
+            "x": false
+        },
+        {
+            "category": "Thuốc gây ợ",
+            "id": 30956,
+            "x": false
+        },
+        {
+            "category": "Nông dân trồng cỏ",
+            "id": 30949,
+            "x": false
+        },
+        {
+            "category": "Đồ ngủ trong trại giam",
+            "id": 30946,
+            "x": true
+        },
+        {
+            "category": "Sợi tóc xoăn trên bánh mì",
+            "id": 30934,
+            "x": true
+        },
+        {
+            "category": "Khôn lỏi",
+            "id": 30932,
+            "x": false
+        },
+        {
+            "category": "Sữa này có vị lạ đúng không?",
+            "id": 30929,
+            "x": false
+        },
+        {
+            "category": "Nụ hôn ướt át",
+            "id": 30927,
+            "x": false
+        },
+        {
+            "category": "Sơn Tùng trên tàu lượn siêu tốc",
+            "id": 30926,
+            "x": false
+        },
+        {
+            "category": "Con hải mã xỉa răng",
+            "id": 30922,
+            "x": false
+        },
+        {
+            "category": "Băng cá nhân dùng dở",
+            "id": 30907,
+            "x": false
+        },
+        {
+            "category": "Súp tiệc tùng",
+            "id": 30904,
+            "x": false
+        },
+        {
+            "category": "Truyện tranh hươu cao cổ",
+            "id": 30895,
+            "x": false
+        },
+        {
+            "category": "Bọn tay sai",
+            "id": 30893,
+            "x": false
+        },
+        {
+            "category": "Phim Noir",
+            "id": 30892,
+            "x": false
+        },
+        {
+            "category": "Tắm bằng bọt biển",
+            "id": 30891,
+            "x": true
+        },
+        {
+            "category": "Kiểu tóc thảm họa",
+            "id": 30888,
+            "x": false
+        },
+        {
+            "category": "Căn hộ penthouse",
+            "id": 30885,
+            "x": true
+        },
+        {
+            "category": "Speed dating",
+            "id": 30882,
+            "x": false
+        },
+        {
+            "category": "Gái độc thân quyến rũ gần bạn",
+            "id": 30881,
+            "x": true
+        },
+        {
+            "category": "Xúc xắc 12 mặt",
+            "id": 30774,
+            "x": false
+        },
+        {
+            "category": "Thổi bong bóng từ thiện",
+            "id": 30764,
+            "x": false
+        },
+        {
+            "category": "Tôi đi đái ra nốt nhạc",
+            "id": 30751,
+            "x": true
+        },
+        {
+            "category": "Thìa canh bên cạnh thìa cà phê",
+            "id": 30747,
+            "x": false
+        },
+        {
+            "category": "Túi đựng vật chứng",
+            "id": 30745,
+            "x": false
+        },
+        {
+            "category": "Kẻ nhìn lén",
+            "id": 30743,
+            "x": false
+        },
+        {
+            "category": "xơ vải",
+            "id": 30740,
+            "x": false
+        },
+        {
+            "category": "Bị kẹt trong chiếc bánh rán lớn",
+            "id": 30739,
+            "x": false
+        },
+        {
+            "category": "Xe cứu thương đi ngược chiều",
+            "id": 30738,
+            "x": false
+        },
+        {
+            "category": "Ma cà rồng chơi nhạc jazz",
+            "id": 30735,
+            "x": false
+        },
+        {
+            "category": "Ba hạt cát",
+            "id": 30734,
+            "x": false
+        },
+        {
+            "category": "Hẹn hò ăn sushi",
+            "id": 30733,
+            "x": false
+        },
+        {
+            "category": "Tủ đựng đồ",
+            "id": 30730,
+            "x": false
+        },
+        {
+            "category": "đội ngũ tin buổi sáng",
+            "id": 30728,
+            "x": false
+        },
+        {
+            "category": "Dầu cho người tập thể hình",
+            "id": 30727,
+            "x": true
+        },
+        {
+            "category": "Andy Warhol",
+            "id": 30725,
+            "x": true
+        },
+        {
+            "category": "Mary Poppins bị cảnh sát dừng xe",
+            "id": 30722,
+            "x": true
+        },
+        {
+            "category": "Ba miếng thịt gà ướp nhẹ gia vị",
+            "id": 30719,
+            "x": false
+        },
+        {
+            "category": "kẹo ngô ngon lành",
+            "id": 30716,
+            "x": false
+        },
+        {
+            "category": "Cười giả tạo",
+            "id": 30712,
+            "x": false
+        },
+        {
+            "category": "Em có mùi như kẹo bông gòn",
+            "id": 30711,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông không cảm xúc",
+            "id": 30708,
+            "x": false
+        },
+        {
+            "category": "Nổi da gà",
+            "id": 30706,
+            "x": false
+        },
+        {
+            "category": "Người dùng Reddit",
+            "id": 30705,
+            "x": false
+        },
+        {
+            "category": "Bê chào đời",
+            "id": 30695,
+            "x": true
+        },
+        {
+            "category": "Chết trong mê cung ngô",
+            "id": 30689,
+            "x": true
+        },
+        {
+            "category": "Thương hại bản thân",
+            "id": 30685,
+            "x": false
+        },
+        {
+            "category": "Dị ứng pizza",
+            "id": 30682,
+            "x": false
+        },
+        {
+            "category": "liên hệ công ty truyền hình cáp",
+            "id": 30675,
+            "x": false
+        },
+        {
+            "category": "Tổng thống Freddy Krueger",
+            "id": 30674,
+            "x": false
+        },
+        {
+            "category": "Mấy kẻ ngốc nghếch",
+            "id": 30672,
+            "x": false
+        },
+        {
+            "category": "Vừa mới tỉnh giấc",
+            "id": 30670,
+            "x": false
+        },
+        {
+            "category": "Cách làm Trà xanh không độ",
+            "id": 30668,
+            "x": false
+        },
+        {
+            "category": "Mỉa mai",
+            "id": 30663,
+            "x": false
+        },
+        {
+            "category": "Sức mạnh bộ xương",
+            "id": 30653,
+            "x": false
+        },
+        {
+            "category": "Bùa yêu thất bại",
+            "id": 30642,
+            "x": false
+        },
+        {
+            "category": "Ăn một quả thông",
+            "id": 30639,
+            "x": false
+        },
+        {
+            "category": "Cứu hộ đường bộ",
+            "id": 30626,
+            "x": false
+        },
+        {
+            "category": "Tô chứa ngón tay",
+            "id": 30625,
+            "x": true
+        },
+        {
+            "category": "Úp rổ hụt",
+            "id": 30623,
+            "x": false
+        },
+        {
+            "category": "Địa ngục mèo",
+            "id": 30621,
+            "x": true
+        },
+        {
+            "category": "Đứa trẻ quan trọng",
+            "id": 30618,
+            "x": false
+        },
+        {
+            "category": "Áo ngực bốc mùi",
+            "id": 30607,
+            "x": true
+        },
+        {
+            "category": "Cấm đụng vào chăn",
+            "id": 30601,
+            "x": false
+        },
+        {
+            "category": "Người phán xử",
+            "id": 30600,
+            "x": false
+        },
+        {
+            "category": "Mùi tươi mát",
+            "id": 30599,
+            "x": false
+        },
+        {
+            "category": "Một móng tay dài",
+            "id": 30597,
+            "x": false
+        },
+        {
+            "category": "Thứ gây ám ảnh",
+            "id": 30592,
+            "x": false
+        },
+        {
+            "category": "Đám mây không đáng tin",
+            "id": 30591,
+            "x": false
+        },
+        {
+            "category": "Giáo sư Chân To",
+            "id": 30578,
+            "x": false
+        },
+        {
+            "category": "Bè đàn piano",
+            "id": 30572,
+            "x": false
+        },
+        {
+            "category": "Tiền bịt miệng",
+            "id": 30569,
+            "x": false
+        },
+        {
+            "category": "Tang lễ Viking",
+            "id": 30567,
+            "x": false
+        },
+        {
+            "category": "Nhà tù Alcatraz",
+            "id": 30556,
+            "x": false
+        },
+        {
+            "category": "Lò vi sóng bằng gỗ",
+            "id": 30555,
+            "x": false
+        },
+        {
+            "category": "Đêm tiệc thịt bò",
+            "id": 30554,
+            "x": false
+        },
+        {
+            "category": "Tôi không phải là phù thủy!",
+            "id": 30553,
+            "x": false
+        },
+        {
+            "category": "mọi người đều cắm mặt vào điện thoại",
+            "id": 30551,
+            "x": false
+        },
+        {
+            "category": "Ngôi sao YouTube",
+            "id": 30550,
+            "x": false
+        },
+        {
+            "category": "La hét thất thanh",
+            "id": 30547,
+            "x": true
+        },
+        {
+            "category": "Đêm Trung thu",
+            "id": 30535,
+            "x": false
+        },
+        {
+            "category": "Lao công kỳ diệu",
+            "id": 30530,
+            "x": false
+        },
+        {
+            "category": "Ăn đất nặn",
+            "id": 30524,
+            "x": false
+        },
+        {
+            "category": "Phòng gym kiểu xưa",
+            "id": 30521,
+            "x": false
+        },
+        {
+            "category": "Tuồng cải lương",
+            "id": 30519,
+            "x": false
+        },
+        {
+            "category": "Nắm đấm bơ",
+            "id": 30518,
+            "x": false
+        },
+        {
+            "category": "Bầu trang trí",
+            "id": 30517,
+            "x": false
+        },
+        {
+            "category": "Sinh nhật cảnh sát người máy",
+            "id": 30516,
+            "x": false
+        },
+        {
+            "category": "mỡ lợn",
+            "id": 30514,
+            "x": false
+        },
+        {
+            "category": "Quần không nhăn",
+            "id": 30508,
+            "x": false
+        },
+        {
+            "category": "Những bông tuyết giống hệt nhau",
+            "id": 30506,
+            "x": false
+        },
+        {
+            "category": "100% đanh đá",
+            "id": 30503,
+            "x": false
+        },
+        {
+            "category": "Bơi trong dung nham",
+            "id": 30502,
+            "x": false
+        },
+        {
+            "category": "Đi xe đạp trên Mặt Trăng",
+            "id": 30501,
+            "x": false
+        },
+        {
+            "category": "Dịch vụ hát mừng",
+            "id": 30499,
+            "x": false
+        },
+        {
+            "category": "Gãy cổ chân",
+            "id": 30486,
+            "x": false
+        },
+        {
+            "category": "Sương mù",
+            "id": 30484,
+            "x": false
+        },
+        {
+            "category": "Nóng khô",
+            "id": 30483,
+            "x": false
+        },
+        {
+            "category": "Ngày tặng quà",
+            "id": 30480,
+            "x": false
+        },
+        {
+            "category": "con bò kiêu kỳ",
+            "id": 30478,
+            "x": false
+        },
+        {
+            "category": "Salad nui và con rắn",
+            "id": 30473,
+            "x": false
+        },
+        {
+            "category": "Kem dưỡng núm vú",
+            "id": 30472,
+            "x": true
+        },
+        {
+            "category": "Cần cẩu bị lật",
+            "id": 30471,
+            "x": false
+        },
+        {
+            "category": "Thanh kiếm ô",
+            "id": 30464,
+            "x": false
+        },
+        {
+            "category": "Tôi sẽ bảo vệ chiếc kèn của mình",
+            "id": 30462,
+            "x": false
+        },
+        {
+            "category": "Người sang đường ẩu",
+            "id": 30461,
+            "x": false
+        },
+        {
+            "category": "Huấn luyện viên giấc ngủ cá nhân",
+            "id": 30457,
+            "x": false
+        },
+        {
+            "category": "Ghế công viên yêu nhau",
+            "id": 30455,
+            "x": false
+        },
+        {
+            "category": "Xả hết suy nghĩ",
+            "id": 30448,
+            "x": false
+        },
+        {
+            "category": "Uống sữa tráng miệng",
+            "id": 30447,
+            "x": true
+        },
+        {
+            "category": "Đường ray thiết kế ẩu",
+            "id": 30445,
+            "x": false
+        },
+        {
+            "category": "Ngộ độc khí Carbon monoxide",
+            "id": 30437,
+            "x": true
+        },
+        {
+            "category": "Đừng đào chỗ đó!",
+            "id": 30436,
+            "x": false
+        },
+        {
+            "category": "múa cột",
+            "id": 30435,
+            "x": true
+        },
+        {
+            "category": "Xe tải của bố dượng",
+            "id": 30433,
+            "x": true
+        },
+        {
+            "category": "Cột muối",
+            "id": 30431,
+            "x": false
+        },
+        {
+            "category": "Giáo sư đại học",
+            "id": 30427,
+            "x": false
+        },
+        {
+            "category": "Tôi thấy người Pháp",
+            "id": 30425,
+            "x": false
+        },
+        {
+            "category": "Nhóm bạn tượng quỷ",
+            "id": 30424,
+            "x": false
+        },
+        {
+            "category": "đập tay với cô căn tin",
+            "id": 30423,
+            "x": false
+        },
+        {
+            "category": "Nhẹ như lông hồng, cứng như tấm gỗ",
+            "id": 30420,
+            "x": false
+        },
+        {
+            "category": "Ông lão la hét vào những đám mây",
+            "id": 30418,
+            "x": false
+        },
+        {
+            "category": "Gói nỗi buồn",
+            "id": 30417,
+            "x": false
+        },
+        {
+            "category": "Chim ưng bịt mắt",
+            "id": 30414,
+            "x": false
+        },
+        {
+            "category": "nhét bơ vào nách",
+            "id": 30413,
+            "x": false
+        },
+        {
+            "category": "Lưới râu",
+            "id": 30412,
+            "x": false
+        },
+        {
+            "category": "Bàn phím máy nướng bánh mì",
+            "id": 30411,
+            "x": false
+        },
+        {
+            "category": "Bị đá ra khỏi ổ chó",
+            "id": 30410,
+            "x": false
+        },
+        {
+            "category": "Những người bạn lông xù",
+            "id": 30408,
+            "x": false
+        },
+        {
+            "category": "Coi chừng mấy cánh tay trên tường",
+            "id": 30406,
+            "x": false
+        },
+        {
+            "category": "Vô sinh",
+            "id": 30405,
+            "x": true
+        },
+        {
+            "category": "Bồn cầu của nhà vua",
+            "id": 30404,
+            "x": true
+        },
+        {
+            "category": "Nếm thử âm nhạc",
+            "id": 30401,
+            "x": false
+        },
+        {
+            "category": "Ẩm thực Anh",
+            "id": 30397,
+            "x": false
+        },
+        {
+            "category": "tủ đựng bằng chứng",
+            "id": 30396,
+            "x": false
+        },
+        {
+            "category": "Tôi không an tâm về người đi quá giang này",
+            "id": 30395,
+            "x": false
+        },
+        {
+            "category": "Ảnh trước đó",
+            "id": 30392,
+            "x": false
+        },
+        {
+            "category": "Giao dịch nội gián",
+            "id": 30389,
+            "x": false
+        },
+        {
+            "category": "Làm mứt",
+            "id": 30388,
+            "x": false
+        },
+        {
+            "category": "20 dấu chấm",
+            "id": 30383,
+            "x": false
+        },
+        {
+            "category": "Dòng sông máu",
+            "id": 30382,
+            "x": false
+        },
+        {
+            "category": "Bạo loạn ở viện dưỡng lão",
+            "id": 30381,
+            "x": true
+        },
+        {
+            "category": "Quá sung sướng để bị áp lực",
+            "id": 30380,
+            "x": false
+        },
+        {
+            "category": "Châu chấu tò mò",
+            "id": 30378,
+            "x": false
+        },
+        {
+            "category": "Mất mạng vì bóng len",
+            "id": 30377,
+            "x": false
+        },
+        {
+            "category": "Ông già Noel vác túi rác",
+            "id": 30373,
+            "x": false
+        },
+        {
+            "category": "Chữ Z nằm trên hình tròn",
+            "id": 30368,
+            "x": false
+        },
+        {
+            "category": "Cánh cửa bí mật",
+            "id": 30366,
+            "x": false
+        },
+        {
+            "category": "Tóc xõa",
+            "id": 30362,
+            "x": false
+        },
+        {
+            "category": "Cảnh sát bữa sáng muộn",
+            "id": 30358,
+            "x": false
+        },
+        {
+            "category": "Nhà trọ sinh viên",
+            "id": 30357,
+            "x": false
+        },
+        {
+            "category": "Gài bẫy tội phạm",
+            "id": 30355,
+            "x": false
+        },
+        {
+            "category": "Du hành qua lỗ sâu",
+            "id": 30353,
+            "x": false
+        },
+        {
+            "category": "Lá lách",
+            "id": 30351,
+            "x": false
+        },
+        {
+            "category": "Gấu nhồi đầy tiền",
+            "id": 30350,
+            "x": false
+        },
+        {
+            "category": "Không có lông mi",
+            "id": 30348,
+            "x": false
+        },
+        {
+            "category": "Lại Văn Sâm",
+            "id": 30347,
+            "x": true
+        },
+        {
+            "category": "Chó Pháp",
+            "id": 30343,
+            "x": false
+        },
+        {
+            "category": "con khủng long đeo cà vạt mảnh",
+            "id": 30339,
+            "x": false
+        },
+        {
+            "category": "Ăn uống vụng về",
+            "id": 30336,
+            "x": false
+        },
+        {
+            "category": "nàng tiên cá hôi miệng",
+            "id": 30335,
+            "x": false
+        },
+        {
+            "category": "Thằng nhóc nào đó",
+            "id": 30334,
+            "x": false
+        },
+        {
+            "category": "Anh đưa thư đẹp trai",
+            "id": 30331,
+            "x": false
+        },
+        {
+            "category": "Webcam",
+            "id": 30328,
+            "x": false
+        },
+        {
+            "category": "Tôi đang hẹn hò với một con gà",
+            "id": 30327,
+            "x": false
+        },
+        {
+            "category": "Bác sĩ ở thị trấn nhỏ",
+            "id": 30325,
+            "x": false
+        },
+        {
+            "category": "Uống nước tắm",
+            "id": 30321,
+            "x": false
+        },
+        {
+            "category": "Phiên họp Quốc hội",
+            "id": 30313,
+            "x": false
+        },
+        {
+            "category": "Fallout",
+            "id": 30311,
+            "x": false
+        },
+        {
+            "category": "Thời điểm kỳ lạ",
+            "id": 30309,
+            "x": false
+        },
+        {
+            "category": "Trần Tiến",
+            "id": 30308,
+            "x": false
+        },
+        {
+            "category": "Turkey trong bowling",
+            "id": 30306,
+            "x": false
+        },
+        {
+            "category": "Núi đậu",
+            "id": 30303,
+            "x": false
+        },
+        {
+            "category": "Nổi loạn",
+            "id": 30301,
+            "x": false
+        },
+        {
+            "category": "Râu quai nón",
+            "id": 30299,
+            "x": false
+        },
+        {
+            "category": "Xe tăng điện",
+            "id": 30298,
+            "x": false
+        },
+        {
+            "category": "Súng gươm",
+            "id": 30297,
+            "x": false
+        },
+        {
+            "category": "Bill Murray xông vào bữa tiệc",
+            "id": 30296,
+            "x": false
+        },
+        {
+            "category": "Nửa người nửa xe ủi",
+            "id": 30295,
+            "x": false
+        },
+        {
+            "category": "Căn hộ độc thân",
+            "id": 30292,
+            "x": false
+        },
+        {
+            "category": "méo tiếng",
+            "id": 30287,
+            "x": false
+        },
+        {
+            "category": "những đứa trẻ quái dị",
+            "id": 30285,
+            "x": false
+        },
+        {
+            "category": "Con ông cháu cha",
+            "id": 30284,
+            "x": false
+        },
+        {
+            "category": "dịch vụ khách hàng kém",
+            "id": 30283,
+            "x": false
+        },
+        {
+            "category": "Cây tí hon bên cạnh bông cải xanh",
+            "id": 30282,
+            "x": false
+        },
+        {
+            "category": "Chiếc hộp xấu hổ",
+            "id": 30279,
+            "x": false
+        },
+        {
+            "category": "Khu vực cấm pizza",
+            "id": 30278,
+            "x": false
+        },
+        {
+            "category": "Đau mắt đỏ",
+            "id": 30275,
+            "x": false
+        },
+        {
+            "category": "Kẻ mạo danh",
+            "id": 30274,
+            "x": false
+        },
+        {
+            "category": "Nhịn đánh rắm",
+            "id": 30265,
+            "x": true
+        },
+        {
+            "category": "Khuôn mặt ngược",
+            "id": 30260,
+            "x": false
+        },
+        {
+            "category": "Cuồng cánh cửa",
+            "id": 30258,
+            "x": true
+        },
+        {
+            "category": "Trứng lạc đà không bướu",
+            "id": 30255,
+            "x": false
+        },
+        {
+            "category": "Mây hình bộ não",
+            "id": 30251,
+            "x": false
+        },
+        {
+            "category": "cảm thấy trống rỗng trong lòng",
+            "id": 30240,
+            "x": false
+        },
+        {
+            "category": "Bồi thẩm đoàn không nhất trí",
+            "id": 30233,
+            "x": false
+        },
+        {
+            "category": "Sự cố kem cạo râu",
+            "id": 30227,
+            "x": false
+        },
+        {
+            "category": "Người sói tuổi teen",
+            "id": 30212,
+            "x": false
+        },
+        {
+            "category": "Cuộc sống mới ở Bắc Cực",
+            "id": 30209,
+            "x": false
+        },
+        {
+            "category": "Dở trò đoán từ",
+            "id": 30208,
+            "x": false
+        },
+        {
+            "category": "Vua Đất",
+            "id": 30200,
+            "x": false
+        },
+        {
+            "category": "Làm ơn hãy thích tôi",
+            "id": 30199,
+            "x": false
+        },
+        {
+            "category": "Quần đùi ngắn",
+            "id": 30194,
+            "x": true
+        },
+        {
+            "category": "Đồng hồ đeo cổ chân",
+            "id": 30192,
+            "x": false
+        },
+        {
+            "category": "Lỗ rốn của tôi là bánh mì vòng",
+            "id": 30189,
+            "x": false
+        },
+        {
+            "category": "Rác ở vườn thú",
+            "id": 30184,
+            "x": false
+        },
+        {
+            "category": "Đảo nôn mửa",
+            "id": 30182,
+            "x": false
+        },
+        {
+            "category": "Lính cứu hỏa chìm",
+            "id": 30176,
+            "x": false
+        },
+        {
+            "category": "Chủ nhà độc ác",
+            "id": 30173,
+            "x": false
+        },
+        {
+            "category": "Bánh chay",
+            "id": 30172,
+            "x": false
+        },
+        {
+            "category": "Lạp xưởng đông đá",
+            "id": 30169,
+            "x": false
+        },
+        {
+            "category": "Bánh bao",
+            "id": 30136,
+            "x": false
+        },
+        {
+            "category": "Ban nhạc toàn đàn banjo",
+            "id": 30124,
+            "x": false
+        },
+        {
+            "category": "Đường chân trời xấu xí",
+            "id": 30107,
+            "x": false
+        },
+        {
+            "category": "Áo cổ kép dựng đứng",
+            "id": 30083,
+            "x": false
+        },
+        {
+            "category": "Sợ súp",
+            "id": 30031,
+            "x": false
+        },
+        {
+            "category": "Song sinh độc ác",
+            "id": 30027,
+            "x": false
+        },
+        {
+            "category": "Phim tài liệu về hàng rào",
+            "id": 30022,
+            "x": false
+        },
+        {
+            "category": "Con chim ướt nhẹp",
+            "id": 30020,
+            "x": false
+        },
+        {
+            "category": "Xuất huyết nội",
+            "id": 30005,
+            "x": true
+        },
+        {
+            "category": "Bình shisha trong tưởng tượng của bạn",
+            "id": 30004,
+            "x": true
+        },
+        {
+            "category": "Súng phun lửa bị hỏng",
+            "id": 29967,
+            "x": false
+        },
+        {
+            "category": "Cuộc sống tuột dốc không phanh",
+            "id": 29941,
+            "x": false
+        },
+        {
+            "category": "Xin lỗi, nhầm số",
+            "id": 29919,
+            "x": false
+        },
+        {
+            "category": "Gương hai chiều",
+            "id": 29915,
+            "x": false
+        },
+        {
+            "category": "Đấu kiếm bằng bánh mì que",
+            "id": 29898,
+            "x": false
+        },
+        {
+            "category": "Nam châm gãy",
+            "id": 29892,
+            "x": false
+        },
+        {
+            "category": "Bóng đái chứa rượu",
+            "id": 29889,
+            "x": true
+        },
+        {
+            "category": "Đừng chết mà!",
+            "id": 29886,
+            "x": false
+        },
+        {
+            "category": "Khoảnh khắc yên bình bên bố",
+            "id": 29885,
+            "x": false
+        },
+        {
+            "category": "Tất cả các loại phô mai",
+            "id": 29876,
+            "x": false
+        },
+        {
+            "category": "Kẻ thất bại số 1",
+            "id": 29869,
+            "x": true
+        },
+        {
+            "category": "Cảm giác khi nghe nhạc jazz",
+            "id": 29866,
+            "x": false
+        },
+        {
+            "category": "Móng tay đã cắt",
+            "id": 29858,
+            "x": false
+        },
+        {
+            "category": "Chiến tranh bikini",
+            "id": 29856,
+            "x": true
+        },
+        {
+            "category": "bà ngoại nhảy breakdance",
+            "id": 29854,
+            "x": false
+        },
+        {
+            "category": "Tôi nghĩ là có rò rỉ khí gas",
+            "id": 29850,
+            "x": false
+        },
+        {
+            "category": "Phân và nước tiểu",
+            "id": 29844,
+            "x": true
+        },
+        {
+            "category": "Xe chụp X-quang bí mật",
+            "id": 29842,
+            "x": false
+        },
+        {
+            "category": "Văn phòng thần thoại",
+            "id": 29833,
+            "x": false
+        },
+        {
+            "category": "Lính cầm quả bơ",
+            "id": 29829,
+            "x": false
+        },
+        {
+            "category": "Không hối tiếc điều gì",
+            "id": 29824,
+            "x": false
+        },
+        {
+            "category": "Đau đầu nhẹ",
+            "id": 29823,
+            "x": false
+        },
+        {
+            "category": "Vận động viên thể dục bị mũi tên cắm vào lưng",
+            "id": 29821,
+            "x": false
+        },
+        {
+            "category": "Lòng bàn tay đổ mồ hôi",
+            "id": 29814,
+            "x": false
+        },
+        {
+            "category": "Kỳ trăng mật đã kết thúc",
+            "id": 29812,
+            "x": false
+        },
+        {
+            "category": "Lưỡi sắc sảo",
+            "id": 29783,
+            "x": false
+        },
+        {
+            "category": "Vĩnh hằng",
+            "id": 29782,
+            "x": false
+        },
+        {
+            "category": "Y học toàn diện",
+            "id": 29779,
+            "x": false
+        },
+        {
+            "category": "Karate cùi bắp",
+            "id": 29777,
+            "x": false
+        },
+        {
+            "category": "Cổng phép thuật sau cửa hàng Jolliebee",
+            "id": 29743,
+            "x": false
+        },
+        {
+            "category": "Rock gào thét",
+            "id": 29738,
+            "x": false
+        },
+        {
+            "category": "Chế tạo bom hạt nhân",
+            "id": 29730,
+            "x": true
+        },
+        {
+            "category": "Phòng cách âm",
+            "id": 29725,
+            "x": false
+        },
+        {
+            "category": "Bộ xương gớm ghiếc",
+            "id": 29721,
+            "x": false
+        },
+        {
+            "category": "Tôi và ny",
+            "id": 29692,
+            "x": true
+        },
+        {
+            "category": "Nấm mốc",
+            "id": 29684,
+            "x": false
+        },
+        {
+            "category": "Cải xoăn này ăn là mê luôn!",
+            "id": 29680,
+            "x": false
+        },
+        {
+            "category": "Cây búa tạ của bố",
+            "id": 29671,
+            "x": false
+        },
+        {
+            "category": "Quan tài trơn trượt",
+            "id": 29670,
+            "x": false
+        },
+        {
+            "category": "Ho ra hạt cườm",
+            "id": 29653,
+            "x": false
+        },
+        {
+            "category": "Mất trí nhớ",
+            "id": 29645,
+            "x": false
+        },
+        {
+            "category": "Tiệc phô mai dưới hầm",
+            "id": 29644,
+            "x": false
+        },
+        {
+            "category": "Kẻ giả mạo",
+            "id": 29637,
+            "x": false
+        },
+        {
+            "category": "Tiêu diệt con gấu",
+            "id": 29611,
+            "x": false
+        },
+        {
+            "category": "Phong bì đầy nhện",
+            "id": 29603,
+            "x": false
+        },
+        {
+            "category": "Tạm dừng",
+            "id": 29544,
+            "x": false
+        },
+        {
+            "category": "Môn golf tương lai",
+            "id": 29534,
+            "x": false
+        },
+        {
+            "category": "Một đường kẻ dày trên máy tính",
+            "id": 29512,
+            "x": false
+        },
+        {
+            "category": "Thời trang thập niên 90",
+            "id": 29510,
+            "x": false
+        },
+        {
+            "category": "Sự trống rỗng",
+            "id": 29492,
+            "x": false
+        },
+        {
+            "category": "Sự kiện furry",
+            "id": 29482,
+            "x": true
+        },
+        {
+            "category": "Găng tay tắm",
+            "id": 29456,
+            "x": false
+        },
+        {
+            "category": "Nín hắt hơi",
+            "id": 29452,
+            "x": false
+        },
+        {
+            "category": "kính nóng",
+            "id": 29450,
+            "x": false
+        },
+        {
+            "category": "Áo choàng cỡ XL",
+            "id": 29446,
+            "x": false
+        },
+        {
+            "category": "Lỗ rốn gian ác",
+            "id": 29426,
+            "x": false
+        },
+        {
+            "category": "suy nghĩ đen tối",
+            "id": 29423,
+            "x": false
+        },
+        {
+            "category": "đường gạch giữa chiếc giày và cái lược",
+            "id": 29411,
+            "x": false
+        },
+        {
+            "category": "Kim cương giả",
+            "id": 29392,
+            "x": false
+        },
+        {
+            "category": "Chú hề không đáng sợ",
+            "id": 29382,
+            "x": false
+        },
+        {
+            "category": "Đôi tai có đôi cánh nhỏ xíu",
+            "id": 29376,
+            "x": false
+        },
+        {
+            "category": "Mạng lag",
+            "id": 29375,
+            "x": false
+        },
+        {
+            "category": "Nhún vai",
+            "id": 29374,
+            "x": false
+        },
+        {
+            "category": "Chó con cho mọi người!",
+            "id": 29373,
+            "x": false
+        },
+        {
+            "category": "Phẫu thuật mặt trước",
+            "id": 29369,
+            "x": true
+        },
+        {
+            "category": "Thức uống trước khi ngủ",
+            "id": 29366,
+            "x": true
+        },
+        {
+            "category": "Khủng long nghiện cờ bạc",
+            "id": 29352,
+            "x": true
+        },
+        {
+            "category": "Lá phổi thứ ba",
+            "id": 29315,
+            "x": false
+        },
+        {
+            "category": "Tôi ở vũ trụ song song",
+            "id": 29311,
+            "x": false
+        },
+        {
+            "category": "Khôngggggggggggggg!",
+            "id": 29298,
+            "x": false
+        },
+        {
+            "category": "Chết vì lắc vòng",
+            "id": 29297,
+            "x": false
+        },
+        {
+            "category": "Những đôi giày trông giống như bàn chân",
+            "id": 29293,
+            "x": false
+        },
+        {
+            "category": "ngôi sao la hét",
+            "id": 29266,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông đuổi theo đuôi mình",
+            "id": 29251,
+            "x": false
+        },
+        {
+            "category": "Bỏ thịt xông khói vào xe cút kít",
+            "id": 29228,
+            "x": false
+        },
+        {
+            "category": "Kính gián điệp",
+            "id": 29208,
+            "x": false
+        },
+        {
+            "category": "chỉ nha khoa trên mặt đất",
+            "id": 29188,
+            "x": false
+        },
+        {
+            "category": "Cảnh sát tiệc tùng",
+            "id": 29187,
+            "x": false
+        },
+        {
+            "category": "tên này là một kẻ hèn nhát",
+            "id": 29171,
+            "x": false
+        },
+        {
+            "category": "Người Đàn Ông Mùa Thu",
+            "id": 29125,
+            "x": false
+        },
+        {
+            "category": "Bức tranh ma quái",
+            "id": 29103,
+            "x": false
+        },
+        {
+            "category": "Phân ma",
+            "id": 29082,
+            "x": false
+        },
+        {
+            "category": "Uốn lưỡi",
+            "id": 29053,
+            "x": false
+        },
+        {
+            "category": "Hoa mắt",
+            "id": 29005,
+            "x": false
+        },
+        {
+            "category": "Trăng máu",
+            "id": 28999,
+            "x": false
+        },
+        {
+            "category": "Tiệc áo len xấu xí",
+            "id": 28994,
+            "x": false
+        },
+        {
+            "category": "Kẻ nhìn chằm chằm",
+            "id": 28966,
+            "x": false
+        },
+        {
+            "category": "Hình tam giác trên thuyền",
+            "id": 28871,
+            "x": false
+        },
+        {
+            "category": "Quý cô sói",
+            "id": 28836,
+            "x": false
+        },
+        {
+            "category": "Tìm kiếm tình yêu sai nơi",
+            "id": 28825,
+            "x": true
+        },
+        {
+            "category": "Răng mọc thừa",
+            "id": 28817,
+            "x": false
+        },
+        {
+            "category": "Tiền lẻ",
+            "id": 28810,
+            "x": false
+        },
+        {
+            "category": "chiếc máy kéo thần kỳ",
+            "id": 28808,
+            "x": false
+        },
+        {
+            "category": "Quản gia mất đầu",
+            "id": 28800,
+            "x": false
+        },
+        {
+            "category": "Chuyên gia phân tích vết máu",
+            "id": 28797,
+            "x": false
+        },
+        {
+            "category": "Bồn tiểu tí hon",
+            "id": 28795,
+            "x": true
+        },
+        {
+            "category": "Bà mẹ xịn xò",
+            "id": 28783,
+            "x": false
+        },
+        {
+            "category": "Mất nét",
+            "id": 28781,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông cầm củ cà rốt khổng lồ",
+            "id": 28767,
+            "x": false
+        },
+        {
+            "category": "Hoàng hôn u ám",
+            "id": 28755,
+            "x": false
+        },
+        {
+            "category": "Gào thét vào hư vô",
+            "id": 28741,
+            "x": false
+        },
+        {
+            "category": "Quần thể thao dính đầy nước sốt",
+            "id": 28740,
+            "x": false
+        },
+        {
+            "category": "Sữa chua Hy Lạp",
+            "id": 28737,
+            "x": false
+        },
+        {
+            "category": "Bức vẽ nguệch ngoạc",
+            "id": 28733,
+            "x": false
+        },
+        {
+            "category": "Mèo giả",
+            "id": 28724,
+            "x": false
+        },
+        {
+            "category": "Bữa ăn thứ năm",
+            "id": 28704,
+            "x": false
+        },
+        {
+            "category": "Cái chết sẽ đến với tất cả chúng ta",
+            "id": 28699,
+            "x": false
+        },
+        {
+            "category": "Lời hứa gió bay",
+            "id": 28584,
+            "x": false
+        },
+        {
+            "category": "Bong bóng bốc mùi",
+            "id": 28582,
+            "x": false
+        },
+        {
+            "category": "Trường đại học sóc",
+            "id": 28581,
+            "x": false
+        },
+        {
+            "category": "Trận chiến ngô",
+            "id": 28580,
+            "x": false
+        },
+        {
+            "category": "Mèo samurai kêu meo",
+            "id": 28579,
+            "x": false
+        },
+        {
+            "category": "Lốc xoáy tôm",
+            "id": 28577,
+            "x": false
+        },
+        {
+            "category": "Einstein thời thiếu niên",
+            "id": 28576,
+            "x": false
+        },
+        {
+            "category": "Tom Hanks dưới gầm giường của tôi",
+            "id": 28575,
+            "x": true
+        },
+        {
+            "category": "Tôi ăn hình tam giác",
+            "id": 28574,
+            "x": false
+        },
+        {
+            "category": "Dàn nhạc sáo",
+            "id": 28573,
+            "x": false
+        },
+        {
+            "category": "tuxedo mùa hè",
+            "id": 28570,
+            "x": false
+        },
+        {
+            "category": "không rõ mấy con sóc chuột này có thân thiện không",
+            "id": 28567,
+            "x": false
+        },
+        {
+            "category": "Bọn trộm tã",
+            "id": 28565,
+            "x": false
+        },
+        {
+            "category": "xe limo bán kem",
+            "id": 28564,
+            "x": false
+        },
+        {
+            "category": "sốt bơ giả",
+            "id": 28563,
+            "x": false
+        },
+        {
+            "category": "Gỉ mũi khô trên đĩa giấy",
+            "id": 28562,
+            "x": false
+        },
+        {
+            "category": "Ly tương cà",
+            "id": 28561,
+            "x": true
+        },
+        {
+            "category": "người tuyết tên lửa",
+            "id": 28560,
+            "x": false
+        },
+        {
+            "category": "Nguyệt thực",
+            "id": 28510,
+            "x": false
+        },
+        {
+            "category": "Vô tình chạm mắt người lạ",
+            "id": 28507,
+            "x": false
+        },
+        {
+            "category": "Ông bố lười biếng",
+            "id": 28502,
+            "x": false
+        },
+        {
+            "category": "Châm cứu",
+            "id": 28500,
+            "x": false
+        },
+        {
+            "category": "Bị futon đè chết",
+            "id": 28494,
+            "x": false
+        },
+        {
+            "category": "một ngày nữa nghỉ hưu",
+            "id": 28482,
+            "x": false
+        },
+        {
+            "category": "Quá sớm",
+            "id": 28480,
+            "x": false
+        },
+        {
+            "category": "Bác sĩ với Bàn Tay Nĩa",
+            "id": 28472,
+            "x": false
+        },
+        {
+            "category": "Quay đầu lại và ho",
+            "id": 28466,
+            "x": true
+        },
+        {
+            "category": "Comic Con",
+            "id": 28463,
+            "x": false
+        },
+        {
+            "category": "Bệnh dại",
+            "id": 28458,
+            "x": false
+        },
+        {
+            "category": "Chiếc xe chạy bằng tình yêu",
+            "id": 28449,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông buồn bã ăn bữa tối đông lạnh",
+            "id": 28447,
+            "x": false
+        },
+        {
+            "category": "Britney Spears cưỡi đại bàng",
+            "id": 28439,
+            "x": false
+        },
+        {
+            "category": "Đầu bếp bộ xương",
+            "id": 28413,
+            "x": false
+        },
+        {
+            "category": "Tôi là một tín đồ ẩm thực!",
+            "id": 28409,
+            "x": false
+        },
+        {
+            "category": "Chơi nhạc bằng thìa",
+            "id": 28402,
+            "x": false
+        },
+        {
+            "category": "Giúp bố mẹ cài đặt máy tính",
+            "id": 28399,
+            "x": false
+        },
+        {
+            "category": "Bị cắt ra khỏi bức ảnh",
+            "id": 28396,
+            "x": false
+        },
+        {
+            "category": "Phẫu thuật nâng cơ mặt thất bại",
+            "id": 28392,
+            "x": false
+        },
+        {
+            "category": "Chó lạp xưởng khổng lồ",
+            "id": 28391,
+            "x": false
+        },
+        {
+            "category": "Bóng tí hon",
+            "id": 28384,
+            "x": false
+        },
+        {
+            "category": "Mèo nổ",
+            "id": 28382,
+            "x": false
+        },
+        {
+            "category": "Người tuyết bằng bùn",
+            "id": 28377,
+            "x": false
+        },
+        {
+            "category": "Áo cổ V khoét sâu",
+            "id": 28362,
+            "x": false
+        },
+        {
+            "category": "Thầy cô ngầu đét",
+            "id": 28359,
+            "x": false
+        },
+        {
+            "category": "vui vẻ nằm trong cốp xe",
+            "id": 28356,
+            "x": false
+        },
+        {
+            "category": "Bắt tay bí mật",
+            "id": 28348,
+            "x": false
+        },
+        {
+            "category": "Nhà vệ sinh công cộng",
+            "id": 28311,
+            "x": true
+        },
+        {
+            "category": "Kiêu hãnh và định kiến",
+            "id": 28283,
+            "x": false
+        },
+        {
+            "category": "Súng bắn bánh",
+            "id": 28279,
+            "x": false
+        },
+        {
+            "category": "Cà vạt xác rắn",
+            "id": 28273,
+            "x": false
+        },
+        {
+            "category": "Người bạn tệ nhất của con người",
+            "id": 28248,
+            "x": false
+        },
+        {
+            "category": "Trứng chuột túi",
+            "id": 28243,
+            "x": false
+        },
+        {
+            "category": "Hãy sợ bộ râu này",
+            "id": 28234,
+            "x": false
+        },
+        {
+            "category": "Nhà tù thỏ",
+            "id": 28229,
+            "x": false
+        },
+        {
+            "category": "Nách phát ra âm nhạc",
+            "id": 28201,
+            "x": false
+        },
+        {
+            "category": "Kẹo vô hạn",
+            "id": 28199,
+            "x": false
+        },
+        {
+            "category": "Vani",
+            "id": 28197,
+            "x": false
+        },
+        {
+            "category": "Batman nghèo",
+            "id": 28194,
+            "x": false
+        },
+        {
+            "category": "Ba người ăn thịt ngựa vằn",
+            "id": 28179,
+            "x": true
+        },
+        {
+            "category": "Khuỷu tay không thể gãy",
+            "id": 28144,
+            "x": false
+        },
+        {
+            "category": "Kem đánh răng có độc",
+            "id": 28140,
+            "x": false
+        },
+        {
+            "category": "Cua đeo ba lô phản lực",
+            "id": 28128,
+            "x": false
+        },
+        {
+            "category": "Giáng sinh nhàm chán",
+            "id": 28094,
+            "x": false
+        },
+        {
+            "category": "Cơn giận thầm lặng",
+            "id": 28034,
+            "x": false
+        },
+        {
+            "category": "Phù thủy tiệc tùng",
+            "id": 28025,
+            "x": false
+        },
+        {
+            "category": "Đống đầu búp bê Barbie",
+            "id": 27979,
+            "x": false
+        },
+        {
+            "category": "Frankenstein ngầm",
+            "id": 27968,
+            "x": false
+        },
+        {
+            "category": "Trái cây sấy khô",
+            "id": 27957,
+            "x": false
+        },
+        {
+            "category": "Mụn thịt dư",
+            "id": 27936,
+            "x": false
+        },
+        {
+            "category": "Giọng nói phiền phức",
+            "id": 27933,
+            "x": false
+        },
+        {
+            "category": "Phía sau lỗ đen",
+            "id": 27881,
+            "x": false
+        },
+        {
+            "category": "Bộ xương thỏ",
+            "id": 27871,
+            "x": false
+        },
+        {
+            "category": "Bóng né dưới nước",
+            "id": 27834,
+            "x": false
+        },
+        {
+            "category": "Bỏng ngô",
+            "id": 27807,
+            "x": false
+        },
+        {
+            "category": "Ăn cái đồng hồ báo thức",
+            "id": 27802,
+            "x": false
+        },
+        {
+            "category": "Cá sấu chân dài",
+            "id": 27757,
+            "x": false
+        },
+        {
+            "category": "Hai người cùng ăn một cái hotdog",
+            "id": 27732,
+            "x": true
+        },
+        {
+            "category": "Có một con nhện trong tai tôi",
+            "id": 27716,
+            "x": false
+        },
+        {
+            "category": "Bạch tuộc một xúc tu",
+            "id": 27678,
+            "x": false
+        },
+        {
+            "category": "Nổi trận lôi đình",
+            "id": 27639,
+            "x": false
+        },
+        {
+            "category": "Làm việc từ xa",
+            "id": 27625,
+            "x": false
+        },
+        {
+            "category": "Hối hận sau khi mua",
+            "id": 27616,
+            "x": false
+        },
+        {
+            "category": "Bánh taco thằn lằn",
+            "id": 27605,
+            "x": false
+        },
+        {
+            "category": "Sốt salsa cay nhẹ",
+            "id": 27590,
+            "x": false
+        },
+        {
+            "category": "Quảng cáo bật lên liên tục",
+            "id": 27584,
+            "x": false
+        },
+        {
+            "category": "Những chú chó kéo xe trượt tuyết bé xíu",
+            "id": 27494,
+            "x": false
+        },
+        {
+            "category": "Máy đấm vào mặt",
+            "id": 27486,
+            "x": false
+        },
+        {
+            "category": "Khăn quàng sóc",
+            "id": 27471,
+            "x": false
+        },
+        {
+            "category": "Khủng long hôn nhau",
+            "id": 27463,
+            "x": false
+        },
+        {
+            "category": "Mang giày ngược",
+            "id": 27449,
+            "x": false
+        },
+        {
+            "category": "Tã rồng",
+            "id": 27425,
+            "x": false
+        },
+        {
+            "category": "người máy tan chảy",
+            "id": 27423,
+            "x": false
+        },
+        {
+            "category": "Ủng laser",
+            "id": 27417,
+            "x": false
+        },
+        {
+            "category": "Xác ướp heo",
+            "id": 27405,
+            "x": false
+        },
+        {
+            "category": "Thoát chết trong gang tấc",
+            "id": 27402,
+            "x": false
+        },
+        {
+            "category": "ngửi chân tôi đi",
+            "id": 27397,
+            "x": false
+        },
+        {
+            "category": "Áo phô mai",
+            "id": 27365,
+            "x": false
+        },
+        {
+            "category": "Ánh đèn đêm thứ Sáu",
+            "id": 27360,
+            "x": false
+        },
+        {
+            "category": "Dù làm từ sợi len",
+            "id": 27357,
+            "x": false
+        },
+        {
+            "category": "môn bóng gậy",
+            "id": 27356,
+            "x": false
+        },
+        {
+            "category": "cánh gà hơi cay cay",
+            "id": 27355,
+            "x": false
+        },
+        {
+            "category": "Tung hứng lát thịt nguội",
+            "id": 27354,
+            "x": false
+        },
+        {
+            "category": "Túi toàn lá kinh giới tây",
+            "id": 27353,
+            "x": false
+        },
+        {
+            "category": "Nhạc jazz nhẹ nhàng",
+            "id": 27352,
+            "x": false
+        },
+        {
+            "category": "bắt chước Donald Trump",
+            "id": 27349,
+            "x": false
+        },
+        {
+            "category": "Ngồi cho chắc vào",
+            "id": 27346,
+            "x": true
+        },
+        {
+            "category": "Em bé từ đâu đến",
+            "id": 27344,
+            "x": true
+        },
+        {
+            "category": "Phở Bắc",
+            "id": 27343,
+            "x": false
+        },
+        {
+            "category": "Sao biển giao phối",
+            "id": 27342,
+            "x": true
+        },
+        {
+            "category": "Săn người để giải trí",
+            "id": 27341,
+            "x": true
+        },
+        {
+            "category": "Cục phân trong bát lớn",
+            "id": 27340,
+            "x": true
+        },
+        {
+            "category": "Hòa bình thế giới",
+            "id": 27336,
+            "x": false
+        },
+        {
+            "category": "Mèo con đầy điềm gở",
+            "id": 27334,
+            "x": false
+        },
+        {
+            "category": "Đêm thứ Bảy ở Sài Gòn",
+            "id": 27331,
+            "x": false
+        },
+        {
+            "category": "con chồn hôi xinh xắn",
+            "id": 27311,
+            "x": false
+        },
+        {
+            "category": "Có khoảng thời gian tuyệt vời nhất",
+            "id": 27306,
+            "x": false
+        },
+        {
+            "category": "Giai đoạn nước rút",
+            "id": 27305,
+            "x": false
+        },
+        {
+            "category": "Trang điểm quá đậm",
+            "id": 27303,
+            "x": false
+        },
+        {
+            "category": "Văn Cao và Snoopy",
+            "id": 27290,
+            "x": false
+        },
+        {
+            "category": "Chúng ta phải hôn nhau để sống sót",
+            "id": 27287,
+            "x": false
+        },
+        {
+            "category": "Sinh tố protein",
+            "id": 27285,
+            "x": false
+        },
+        {
+            "category": "Nói gở",
+            "id": 27284,
+            "x": false
+        },
+        {
+            "category": "Bay mất răng",
+            "id": 27278,
+            "x": false
+        },
+        {
+            "category": "Văn phòng ẩm ướt",
+            "id": 27271,
+            "x": false
+        },
+        {
+            "category": "Cá mập khi nó gầy",
+            "id": 27270,
+            "x": false
+        },
+        {
+            "category": "Bánh cupcake đổi đời",
+            "id": 27268,
+            "x": false
+        },
+        {
+            "category": "Tập trung cao độ",
+            "id": 27267,
+            "x": false
+        },
+        {
+            "category": "Tôi ỉa ra từ nách",
+            "id": 27263,
+            "x": true
+        },
+        {
+            "category": "Thợ xây bị đóng băng",
+            "id": 27260,
+            "x": false
+        },
+        {
+            "category": "đồng hồ có vết khâu",
+            "id": 27257,
+            "x": false
+        },
+        {
+            "category": "Tập đẩy hông",
+            "id": 27252,
+            "x": true
+        },
+        {
+            "category": "Ngài Càng Tôm Hùm",
+            "id": 27246,
+            "x": true
+        },
+        {
+            "category": "Cà khịa",
+            "id": 27236,
+            "x": false
+        },
+        {
+            "category": "Phun lửa tại một đám cưới",
+            "id": 27231,
+            "x": false
+        },
+        {
+            "category": "Cosplay",
+            "id": 27229,
+            "x": false
+        },
+        {
+            "category": "Chú mèo bay lơ lửng",
+            "id": 27227,
+            "x": false
+        },
+        {
+            "category": "Tôi rất thích dái tai",
+            "id": 27225,
+            "x": false
+        },
+        {
+            "category": "Súng đại bác bắn hotdog",
+            "id": 27223,
+            "x": false
+        },
+        {
+            "category": "Ông già Noel bị gàu",
+            "id": 27218,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông có chín núm vú",
+            "id": 27208,
+            "x": true
+        },
+        {
+            "category": "Tóc lông nhím",
+            "id": 27206,
+            "x": false
+        },
+        {
+            "category": "Cơn mưa nĩa",
+            "id": 27194,
+            "x": false
+        },
+        {
+            "category": "Chàng cao bồi cách một cây",
+            "id": 27190,
+            "x": false
+        },
+        {
+            "category": "Đống bánh donut bốc cháy",
+            "id": 27189,
+            "x": false
+        },
+        {
+            "category": "E ngại trước ống kính",
+            "id": 27188,
+            "x": false
+        },
+        {
+            "category": "Kết thúc có hậu",
+            "id": 27180,
+            "x": false
+        },
+        {
+            "category": "Hệ mét",
+            "id": 27177,
+            "x": false
+        },
+        {
+            "category": "Rẻ quá chừng!",
+            "id": 27176,
+            "x": false
+        },
+        {
+            "category": "Nể phục",
+            "id": 27175,
+            "x": false
+        },
+        {
+            "category": "Người chị em thất lạc lâu năm",
+            "id": 27164,
+            "x": false
+        },
+        {
+            "category": "Công thức bí mật",
+            "id": 27162,
+            "x": false
+        },
+        {
+            "category": "Sữa đắt tiền",
+            "id": 27146,
+            "x": false
+        },
+        {
+            "category": "Người mẫu chảy nước dãi",
+            "id": 27102,
+            "x": false
+        },
+        {
+            "category": "Đưa bọn trẻ đến hồ bơi",
+            "id": 27099,
+            "x": false
+        },
+        {
+            "category": "Dụng cụ cứu hộ thủy lực",
+            "id": 27095,
+            "x": false
+        },
+        {
+            "category": "Tủ lạnh của Chúa",
+            "id": 27077,
+            "x": false
+        },
+        {
+            "category": "vòng cổ ngọc trai giả",
+            "id": 27070,
+            "x": false
+        },
+        {
+            "category": "Spa cho người tiền sử",
+            "id": 27056,
+            "x": false
+        },
+        {
+            "category": "Người sói sang chảnh",
+            "id": 27054,
+            "x": false
+        },
+        {
+            "category": "Vòng tuyển chọn đội cổ vũ",
+            "id": 27048,
+            "x": false
+        },
+        {
+            "category": "Hành tinh em bé",
+            "id": 27046,
+            "x": false
+        },
+        {
+            "category": "Chuyển động chậm",
+            "id": 27045,
+            "x": false
+        },
+        {
+            "category": "Những ngón tay cái tí hon",
+            "id": 27043,
+            "x": false
+        },
+        {
+            "category": "nhìn vào một cái lỗ bắn tia laser vào mắt bạn",
+            "id": 27028,
+            "x": false
+        },
+        {
+            "category": "Thiên đường loài chuột",
+            "id": 27022,
+            "x": false
+        },
+        {
+            "category": "máy bay bà già",
+            "id": 27013,
+            "x": true
+        },
+        {
+            "category": "Snapchat",
+            "id": 27011,
+            "x": true
+        },
+        {
+            "category": "Buổi hòa nhạc Miley Cyrus",
+            "id": 27008,
+            "x": false
+        },
+        {
+            "category": "Mục tiêu năm mới",
+            "id": 27007,
+            "x": false
+        },
+        {
+            "category": "Quần lót bà già",
+            "id": 26996,
+            "x": true
+        },
+        {
+            "category": "xem kịch ứng tác",
+            "id": 26972,
+            "x": false
+        },
+        {
+            "category": "Ghen tuông",
+            "id": 26969,
+            "x": false
+        },
+        {
+            "category": "trẻ con đấu võ tổng hợp",
+            "id": 26961,
+            "x": false
+        },
+        {
+            "category": "Sọ bò biết nói",
+            "id": 26959,
+            "x": false
+        },
+        {
+            "category": "Ăn tối bằng bí ngô",
+            "id": 26958,
+            "x": false
+        },
+        {
+            "category": "yêu thầm một con vịt",
+            "id": 26951,
+            "x": false
+        },
+        {
+            "category": "Chewbacca không lông",
+            "id": 26928,
+            "x": false
+        },
+        {
+            "category": "Bàng quang nhỏ",
+            "id": 26927,
+            "x": false
+        },
+        {
+            "category": "Dị ứng với áo sơ mi",
+            "id": 26921,
+            "x": false
+        },
+        {
+            "category": "Scorbut",
+            "id": 26919,
+            "x": false
+        },
+        {
+            "category": "chiếc giường phủ đầy chấm tí hon",
+            "id": 26918,
+            "x": false
+        },
+        {
+            "category": "Tượng Nữ thần Tự do nổi giận",
+            "id": 26900,
+            "x": false
+        },
+        {
+            "category": "Giọng nói quyến rũ",
+            "id": 26897,
+            "x": true
+        },
+        {
+            "category": "Mới tinh",
+            "id": 26894,
+            "x": false
+        },
+        {
+            "category": "Bí ý tưởng sáng tác",
+            "id": 26891,
+            "x": false
+        },
+        {
+            "category": "Gian lận khi chơi bài",
+            "id": 26887,
+            "x": false
+        },
+        {
+            "category": "Đám cưới ảo thuật gia",
+            "id": 26886,
+            "x": false
+        },
+        {
+            "category": "Deja vu",
+            "id": 26883,
+            "x": false
+        },
+        {
+            "category": "Mất mạng vì cuộc chiến gối",
+            "id": 26875,
+            "x": false
+        },
+        {
+            "category": "túi rác có máu chảy ra",
+            "id": 26863,
+            "x": true
+        },
+        {
+            "category": "Thâu tóm thù địch",
+            "id": 26861,
+            "x": false
+        },
+        {
+            "category": "Mô hình hồi sức cấp cứu",
+            "id": 26856,
+            "x": false
+        },
+        {
+            "category": "Ga giường nhà nghỉ",
+            "id": 26847,
+            "x": false
+        },
+        {
+            "category": "Cá heo tuổi teen",
+            "id": 26846,
+            "x": false
+        },
+        {
+            "category": "Tiền Canada",
+            "id": 26839,
+            "x": false
+        },
+        {
+            "category": "Phi hành gia lười biếng",
+            "id": 26829,
+            "x": false
+        },
+        {
+            "category": "Báo động nhà vệ sinh",
+            "id": 26825,
+            "x": false
+        },
+        {
+            "category": "Quốc hội chó",
+            "id": 26824,
+            "x": false
+        },
+        {
+            "category": "Lò mổ lãng mạn",
+            "id": 26821,
+            "x": false
+        },
+        {
+            "category": "Maroon 5",
+            "id": 26807,
+            "x": false
+        },
+        {
+            "category": "Việc còn dở dang",
+            "id": 26806,
+            "x": false
+        },
+        {
+            "category": "Sinh tố thịt bò",
+            "id": 26805,
+            "x": false
+        },
+        {
+            "category": "người đàn ông đứng sau một người đàn ông khác",
+            "id": 26803,
+            "x": true
+        },
+        {
+            "category": "Bùa hộ mệnh ma thuật",
+            "id": 26800,
+            "x": false
+        },
+        {
+            "category": "Tai bị nhiễm trùng",
+            "id": 26799,
+            "x": false
+        },
+        {
+            "category": "Sở thú hipster",
+            "id": 26798,
+            "x": false
+        },
+        {
+            "category": "nhà phao bị xì",
+            "id": 26796,
+            "x": false
+        },
+        {
+            "category": "Rượu chế trong tù",
+            "id": 26794,
+            "x": true
+        },
+        {
+            "category": "Cảnh sát âu yếm",
+            "id": 26791,
+            "x": false
+        },
+        {
+            "category": "Trận chiến cù lét",
+            "id": 26780,
+            "x": false
+        },
+        {
+            "category": "Thợ sửa ống nước sang chảnh",
+            "id": 26776,
+            "x": false
+        },
+        {
+            "category": "Quần bánh quy gừng",
+            "id": 26760,
+            "x": false
+        },
+        {
+            "category": "Ngón chân dài như ngón tay",
+            "id": 26755,
+            "x": false
+        },
+        {
+            "category": "Khớp dẻo",
+            "id": 26751,
+            "x": false
+        },
+        {
+            "category": "Mùi thảm mới",
+            "id": 26748,
+            "x": false
+        },
+        {
+            "category": "ngủ trên máy bay",
+            "id": 26746,
+            "x": false
+        },
+        {
+            "category": "Cửa hàng thú cưng gian ác",
+            "id": 26733,
+            "x": false
+        },
+        {
+            "category": "máu taco",
+            "id": 26712,
+            "x": false
+        },
+        {
+            "category": "Bộ đồ làm từ rong biển",
+            "id": 26699,
+            "x": false
+        },
+        {
+            "category": "Đám cưới Viking",
+            "id": 26678,
+            "x": false
+        },
+        {
+            "category": "Chương trình giải lao buồn bã",
+            "id": 26674,
+            "x": false
+        },
+        {
+            "category": "Bồn tắm sữa chua",
+            "id": 26661,
+            "x": false
+        },
+        {
+            "category": "Năm khinh khí cầu Hindenburg",
+            "id": 26656,
+            "x": false
+        },
+        {
+            "category": "Mấy cô nàng xấu tính",
+            "id": 26648,
+            "x": false
+        },
+        {
+            "category": "Tiệc Giáo hoàng!",
+            "id": 26646,
+            "x": false
+        },
+        {
+            "category": "Tôi thích liếm ngón tay",
+            "id": 26623,
+            "x": false
+        },
+        {
+            "category": "Cúp học",
+            "id": 26618,
+            "x": false
+        },
+        {
+            "category": "Chú hề ác mộng bất tử",
+            "id": 26611,
+            "x": false
+        },
+        {
+            "category": "Mũ giấy bạc",
+            "id": 26610,
+            "x": false
+        },
+        {
+            "category": "Toledo",
+            "id": 26607,
+            "x": false
+        },
+        {
+            "category": "Người Hobbit phụ chuyển nhà",
+            "id": 26600,
+            "x": false
+        },
+        {
+            "category": "Thang máy nóng nực",
+            "id": 26579,
+            "x": false
+        },
+        {
+            "category": "phát hiện sỏi thận",
+            "id": 26573,
+            "x": true
+        },
+        {
+            "category": "Thanh tra sốt táo",
+            "id": 26565,
+            "x": false
+        },
+        {
+            "category": "Cảnh sát người máy Steampunk",
+            "id": 26564,
+            "x": false
+        },
+        {
+            "category": "Khuôn mặt không biết giấu cảm xúc",
+            "id": 26561,
+            "x": false
+        },
+        {
+            "category": "cạo lông quả đào",
+            "id": 26560,
+            "x": false
+        },
+        {
+            "category": "Hẻm núi Grand Canyon đầy trứng",
+            "id": 26558,
+            "x": false
+        },
+        {
+            "category": "Đứng hình",
+            "id": 26554,
+            "x": false
+        },
+        {
+            "category": "Ăn một quả bóng tennis",
+            "id": 26552,
+            "x": false
+        },
+        {
+            "category": "Đọc trang cuối cùng của một cuốn sách hay",
+            "id": 26550,
+            "x": false
+        },
+        {
+            "category": "Cổng vòng St. Louis bốc cháy",
+            "id": 26549,
+            "x": false
+        },
+        {
+            "category": "Các bà nội trợ ma cà rồng",
+            "id": 26547,
+            "x": false
+        },
+        {
+            "category": "đeo thiết bị nghe lén",
+            "id": 26543,
+            "x": false
+        },
+        {
+            "category": "Kèn kazoo ở mông",
+            "id": 26542,
+            "x": false
+        },
+        {
+            "category": "Tự ôm chính mình",
+            "id": 26541,
+            "x": false
+        },
+        {
+            "category": "Sasuke Việt Nam",
+            "id": 26533,
+            "x": false
+        },
+        {
+            "category": "Giường rác",
+            "id": 26531,
+            "x": false
+        },
+        {
+            "category": "Vụ cướp ngân hàng máu",
+            "id": 26530,
+            "x": false
+        },
+        {
+            "category": "Nhảy chậm cùng con bọ khổng lồ",
+            "id": 26529,
+            "x": false
+        },
+        {
+            "category": "Mấy con dơi hôi miệng",
+            "id": 26526,
+            "x": false
+        },
+        {
+            "category": "Người giao hàng trong mơ",
+            "id": 26525,
+            "x": false
+        },
+        {
+            "category": "Bóng ma lái xe tải quái vật",
+            "id": 26524,
+            "x": false
+        },
+        {
+            "category": "Ogre ngồi bồn cầu",
+            "id": 26523,
+            "x": true
+        },
+        {
+            "category": "Cuộc rượt đuổi tốc độ rùa bò",
+            "id": 26522,
+            "x": false
+        },
+        {
+            "category": "Messi bay",
+            "id": 26521,
+            "x": false
+        },
+        {
+            "category": "Bản tin thời tiền sử",
+            "id": 26520,
+            "x": false
+        },
+        {
+            "category": "Ngôi mộ đào nông",
+            "id": 26519,
+            "x": false
+        },
+        {
+            "category": "Mẹ Teresa đi câu cá",
+            "id": 26518,
+            "x": false
+        },
+        {
+            "category": "Vua cà rốt",
+            "id": 26517,
+            "x": false
+        },
+        {
+            "category": "Tình huynh đệ",
+            "id": 26515,
+            "x": false
+        },
+        {
+            "category": "Rùa đi cà kheo",
+            "id": 26514,
+            "x": false
+        },
+        {
+            "category": "Beyonce cầm súng phun lửa",
+            "id": 26513,
+            "x": false
+        },
+        {
+            "category": "ve bám đầy người",
+            "id": 26512,
+            "x": false
+        },
+        {
+            "category": "Gấu bông gian ác",
+            "id": 26511,
+            "x": false
+        },
+        {
+            "category": "bowling vũ trụ",
+            "id": 26510,
+            "x": false
+        },
+        {
+            "category": "Quỷ phát điên vì hóa đơn điện thoại",
+            "id": 26509,
+            "x": true
+        },
+        {
+            "category": "Slender Man",
+            "id": 26508,
+            "x": false
+        },
+        {
+            "category": "Chàng cao bồi điển trai",
+            "id": 26507,
+            "x": false
+        },
+        {
+            "category": "Giết người bằng cần tây!",
+            "id": 26505,
+            "x": false
+        },
+        {
+            "category": "Phẫu thuật trong ngày cưới",
+            "id": 26504,
+            "x": false
+        },
+        {
+            "category": "Bị bồ đá ở Công viên Kỷ Jura",
+            "id": 26503,
+            "x": false
+        },
+        {
+            "category": "Khủng long tương lai",
+            "id": 26502,
+            "x": false
+        },
+        {
+            "category": "Matthew Perry qua nhiều năm",
+            "id": 26501,
+            "x": false
+        },
+        {
+            "category": "Bao tải đầy thịt nguội",
+            "id": 26498,
+            "x": false
+        },
+        {
+            "category": "Cục nước đá gợi cảm",
+            "id": 26497,
+            "x": true
+        },
+        {
+            "category": "Bánh quy khiến mông bạn rụng rời ",
+            "id": 26491,
+            "x": false
+        },
+        {
+            "category": "Phim truyền hình hươu cao cổ",
+            "id": 26486,
+            "x": false
+        },
+        {
+            "category": "Cái mông bằng gỗ",
+            "id": 26483,
+            "x": true
+        },
+        {
+            "category": "Leo núi bắp rang bơ",
+            "id": 26479,
+            "x": false
+        },
+        {
+            "category": "Sợ cái bóng của chính mình",
+            "id": 26477,
+            "x": false
+        },
+        {
+            "category": "Vị bí ngô",
+            "id": 26476,
+            "x": false
+        },
+        {
+            "category": "Ký ức tôm hùm",
+            "id": 26471,
+            "x": false
+        },
+        {
+            "category": "Medusa đi cắt tóc",
+            "id": 26466,
+            "x": false
+        },
+        {
+            "category": "Áo ngực tự chế",
+            "id": 26463,
+            "x": true
+        },
+        {
+            "category": "Những chú lùn sống trong tai bạn",
+            "id": 26461,
+            "x": false
+        },
+        {
+            "category": "Bảo tàng mùi hôi",
+            "id": 26450,
+            "x": false
+        },
+        {
+            "category": "loa cầm tay chứa đầy kem",
+            "id": 26447,
+            "x": false
+        },
+        {
+            "category": "Tiệc dưới cống",
+            "id": 26443,
+            "x": false
+        },
+        {
+            "category": "kiểm lâm độc ác",
+            "id": 26441,
+            "x": false
+        },
+        {
+            "category": "Hình nền đáng sợ",
+            "id": 26435,
+            "x": false
+        },
+        {
+            "category": "Ảnh chụp Einstein",
+            "id": 26433,
+            "x": false
+        },
+        {
+            "category": "Miếng bảo vệ đầu gối bằng vàng",
+            "id": 26424,
+            "x": false
+        },
+        {
+            "category": "Kem que độc",
+            "id": 26423,
+            "x": false
+        },
+        {
+            "category": "nhân viên đóng gói hàng cáu bẳn",
+            "id": 26421,
+            "x": false
+        },
+        {
+            "category": "Người sống trong nhà kính",
+            "id": 26418,
+            "x": false
+        },
+        {
+            "category": "Nhìn qua mắt thần",
+            "id": 26414,
+            "x": false
+        },
+        {
+            "category": "Sinh viên khoa Triết học",
+            "id": 26410,
+            "x": false
+        },
+        {
+            "category": "Hội anh em trên tàu Titanic",
+            "id": 26389,
+            "x": false
+        },
+        {
+            "category": "Tôi sẽ cưới chiếc gậy nhún này!",
+            "id": 26386,
+            "x": false
+        },
+        {
+            "category": "bố mẹ làm mất mặt",
+            "id": 26385,
+            "x": false
+        },
+        {
+            "category": "Truyện cười",
+            "id": 26384,
+            "x": false
+        },
+        {
+            "category": "Chụp x-quang rối tất",
+            "id": 26379,
+            "x": true
+        },
+        {
+            "category": "Não giăm bông",
+            "id": 26371,
+            "x": false
+        },
+        {
+            "category": "Ác mộng về gấu ma cà rồng",
+            "id": 26366,
+            "x": false
+        },
+        {
+            "category": "Người có mắt là viên bi",
+            "id": 26362,
+            "x": false
+        },
+        {
+            "category": "một con chim đang thử đồ lót",
+            "id": 26361,
+            "x": false
+        },
+        {
+            "category": "Lớp học thả thính",
+            "id": 26360,
+            "x": false
+        },
+        {
+            "category": "Bộ xếp hình 1000 mảnh",
+            "id": 26359,
+            "x": false
+        },
+        {
+            "category": "Người Xương Rồng",
+            "id": 26358,
+            "x": false
+        },
+        {
+            "category": "Ban nhạc trên phà",
+            "id": 26348,
+            "x": false
+        },
+        {
+            "category": "Đừng tự đấm mình nữa",
+            "id": 26347,
+            "x": false
+        },
+        {
+            "category": "Jack Johnson",
+            "id": 26343,
+            "x": false
+        },
+        {
+            "category": "Ngủ trên một viên kẹo dẻo to",
+            "id": 26337,
+            "x": false
+        },
+        {
+            "category": "Triệu phú củ cải",
+            "id": 26328,
+            "x": false
+        },
+        {
+            "category": "Ngủ quên trong trận quyền Anh",
+            "id": 26326,
+            "x": false
+        },
+        {
+            "category": "Con cá ngoại cảm",
+            "id": 26325,
+            "x": false
+        },
+        {
+            "category": "Bộ tuxedo bốc cháy",
+            "id": 26324,
+            "x": false
+        },
+        {
+            "category": "Một đống rệp giường",
+            "id": 26322,
+            "x": false
+        },
+        {
+            "category": "Chó con lớn nhanh như thổi",
+            "id": 26320,
+            "x": false
+        },
+        {
+            "category": "Tổng thống là khủng long!!!",
+            "id": 26314,
+            "x": false
+        },
+        {
+            "category": "xác ướp mang thai",
+            "id": 26310,
+            "x": false
+        },
+        {
+            "category": "Cục phân đông đá",
+            "id": 26308,
+            "x": false
+        },
+        {
+            "category": "Thắt lưng rắn hổ mang",
+            "id": 26303,
+            "x": false
+        },
+        {
+            "category": "Đồ lót gây thất vọng",
+            "id": 26301,
+            "x": true
+        },
+        {
+            "category": "Cơn mưa kim cương",
+            "id": 26300,
+            "x": false
+        },
+        {
+            "category": "bị kẹt cùng HKT",
+            "id": 26298,
+            "x": true
+        },
+        {
+            "category": "Buổi mát-xa buồn thảm nhất",
+            "id": 26296,
+            "x": true
+        },
+        {
+            "category": "Nước hoa hương phô mai",
+            "id": 26293,
+            "x": false
+        },
+        {
+            "category": "Nỗi sợ bị từ chối",
+            "id": 26292,
+            "x": false
+        },
+        {
+            "category": "Quả bom thịt xông khói",
+            "id": 26289,
+            "x": false
+        },
+        {
+            "category": "Sức mạnh tình yêu",
+            "id": 26287,
+            "x": false
+        },
+        {
+            "category": "Cách làm phô mai",
+            "id": 26286,
+            "x": false
+        },
+        {
+            "category": "Gấu trúc phong cách Goth",
+            "id": 26279,
+            "x": false
+        },
+        {
+            "category": "Vụ án mạng đầu đời của em bé",
+            "id": 26277,
+            "x": true
+        },
+        {
+            "category": "Mấy con vịt ăn dưa chuột muối",
+            "id": 26270,
+            "x": false
+        },
+        {
+            "category": "Những chú hề nhảy dù",
+            "id": 26264,
+            "x": false
+        },
+        {
+            "category": "Trận chiến mì",
+            "id": 26261,
+            "x": false
+        },
+        {
+            "category": "Bánh chuột nang",
+            "id": 26257,
+            "x": false
+        },
+        {
+            "category": "Chú lạc đà trầm cảm",
+            "id": 26254,
+            "x": false
+        },
+        {
+            "category": "Con gấu mèo hói",
+            "id": 26253,
+            "x": false
+        },
+        {
+            "category": "Nỗi sợ cam kết",
+            "id": 26251,
+            "x": false
+        },
+        {
+            "category": "Chụp ảnh tự sướng mỏ vịt",
+            "id": 26250,
+            "x": false
+        },
+        {
+            "category": "ăn pizza đông lạnh",
+            "id": 26249,
+            "x": false
+        },
+        {
+            "category": "Tiệc độc thân",
+            "id": 26244,
+            "x": true
+        },
+        {
+            "category": "Bồn tắm nước nóng khó xử",
+            "id": 26243,
+            "x": true
+        },
+        {
+            "category": "Vận động viên marathon ị đùn",
+            "id": 26240,
+            "x": true
+        },
+        {
+            "category": "Phong cách",
+            "id": 26235,
+            "x": false
+        },
+        {
+            "category": "sán dây hạnh phúc",
+            "id": 26232,
+            "x": true
+        },
+        {
+            "category": "biển báo khó hiểu",
+            "id": 26227,
+            "x": false
+        },
+        {
+            "category": "sống qua ngày",
+            "id": 26226,
+            "x": false
+        },
+        {
+            "category": "Smash Mouth",
+            "id": 26225,
+            "x": false
+        },
+        {
+            "category": "Bay dù lượn qua hiện trường vụ án",
+            "id": 26224,
+            "x": true
+        },
+        {
+            "category": "Phản vật chất",
+            "id": 26222,
+            "x": false
+        },
+        {
+            "category": "Sách thư viện khiêu dâm",
+            "id": 26218,
+            "x": true
+        },
+        {
+            "category": "em còn thức không?",
+            "id": 26217,
+            "x": false
+        },
+        {
+            "category": "Dự đám tang của chính mình",
+            "id": 26216,
+            "x": true
+        },
+        {
+            "category": "tiêu rồi... đó là thuốc xổ",
+            "id": 26215,
+            "x": true
+        },
+        {
+            "category": "Củ khoai to nhất thế giới",
+            "id": 26213,
+            "x": false
+        },
+        {
+            "category": "Ảnh đính hôn",
+            "id": 26212,
+            "x": false
+        },
+        {
+            "category": "Tập CrossFit",
+            "id": 26209,
+            "x": false
+        },
+        {
+            "category": "Cày phim",
+            "id": 26207,
+            "x": false
+        },
+        {
+            "category": "thám tử lạc đà",
+            "id": 26206,
+            "x": false
+        },
+        {
+            "category": "Tống tiền một con chó",
+            "id": 26204,
+            "x": false
+        },
+        {
+            "category": "Tôi đang cố quan sát mấy con kiến này mà!!!",
+            "id": 26202,
+            "x": false
+        },
+        {
+            "category": "Nghiện tem",
+            "id": 26201,
+            "x": true
+        },
+        {
+            "category": "thế hệ millennial",
+            "id": 26198,
+            "x": false
+        },
+        {
+            "category": "Thanh lọc cơ thể",
+            "id": 26196,
+            "x": false
+        },
+        {
+            "category": "Phân khô",
+            "id": 26193,
+            "x": true
+        },
+        {
+            "category": "Xe đạp cho sáu người",
+            "id": 26191,
+            "x": false
+        },
+        {
+            "category": "Ngón tay có mùi phô mai",
+            "id": 26190,
+            "x": false
+        },
+        {
+            "category": "Người sói trong ban nhạc",
+            "id": 26189,
+            "x": false
+        },
+        {
+            "category": "Phim hài lãng mạn",
+            "id": 26185,
+            "x": false
+        },
+        {
+            "category": "Một người có tên Cường",
+            "id": 26184,
+            "x": false
+        },
+        {
+            "category": "Bánh waffle kết hôn",
+            "id": 26181,
+            "x": false
+        },
+        {
+            "category": "Một lũ ngốc",
+            "id": 26180,
+            "x": false
+        },
+        {
+            "category": "Con gà tây có sở thích kỳ lạ với chân",
+            "id": 26179,
+            "x": true
+        },
+        {
+            "category": "Sự cố bữa tiệc!",
+            "id": 26177,
+            "x": false
+        },
+        {
+            "category": "Không phải là chó",
+            "id": 26176,
+            "x": false
+        },
+        {
+            "category": "Hét vào một quả đào",
+            "id": 26174,
+            "x": false
+        },
+        {
+            "category": "Cố tránh mặt người quen ở nơi công cộng",
+            "id": 26172,
+            "x": false
+        },
+        {
+            "category": "nói chuyện lúc đứng tiểu",
+            "id": 26170,
+            "x": true
+        },
+        {
+            "category": "Đừng vào đó!",
+            "id": 26168,
+            "x": false
+        },
+        {
+            "category": "Mát xa mông",
+            "id": 26160,
+            "x": true
+        },
+        {
+            "category": "Hãy ăn bánh nào",
+            "id": 26157,
+            "x": false
+        },
+        {
+            "category": "Tiệc hôn mê",
+            "id": 26154,
+            "x": false
+        },
+        {
+            "category": "ăn phô mai tươi trên giường",
+            "id": 26153,
+            "x": false
+        },
+        {
+            "category": "Đi nhà nghỉ",
+            "id": 26151,
+            "x": false
+        },
+        {
+            "category": "Trò đùa nhạt nhẽo",
+            "id": 26147,
+            "x": false
+        },
+        {
+            "category": "Thẩm phán khỉ",
+            "id": 26145,
+            "x": false
+        },
+        {
+            "category": "Phẫu thuật bằng đũa",
+            "id": 26144,
+            "x": false
+        },
+        {
+            "category": "Bikini thôi miên",
+            "id": 26143,
+            "x": true
+        },
+        {
+            "category": "2 Johnny Depp",
+            "id": 26142,
+            "x": false
+        },
+        {
+            "category": "sự trả thù của chim cánh cụt",
+            "id": 26139,
+            "x": false
+        },
+        {
+            "category": "Lăn khử mùi cầu vồng",
+            "id": 26137,
+            "x": false
+        },
+        {
+            "category": "Luật sư thần kỳ",
+            "id": 26136,
+            "x": false
+        },
+        {
+            "category": "bực mình vì những chiếc thìa",
+            "id": 26134,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông trên mặt trăng",
+            "id": 26131,
+            "x": false
+        },
+        {
+            "category": "Người ngô",
+            "id": 26129,
+            "x": false
+        },
+        {
+            "category": "múa rối bóng dở",
+            "id": 26125,
+            "x": false
+        },
+        {
+            "category": "Khỉ đột siêu nhỏ",
+            "id": 26123,
+            "x": false
+        },
+        {
+            "category": "xạ thủ đánh rắm",
+            "id": 26122,
+            "x": true
+        },
+        {
+            "category": "Gối bê tông",
+            "id": 26121,
+            "x": false
+        },
+        {
+            "category": "Dị ứng với bò",
+            "id": 26120,
+            "x": false
+        },
+        {
+            "category": "Quần bò của bố",
+            "id": 26118,
+            "x": false
+        },
+        {
+            "category": "Bắp cải nóng",
+            "id": 26117,
+            "x": false
+        },
+        {
+            "category": "Chú heo tương lai",
+            "id": 26106,
+            "x": false
+        },
+        {
+            "category": "Tô súp vô tận",
+            "id": 26105,
+            "x": false
+        },
+        {
+            "category": "Vận động viên buồn ngủ",
+            "id": 26104,
+            "x": false
+        },
+        {
+            "category": "Cam máu",
+            "id": 26100,
+            "x": false
+        },
+        {
+            "category": "Optimus Prime té giếng",
+            "id": 26098,
+            "x": false
+        },
+        {
+            "category": "Nắm đấm của tôi đang sục sôi!",
+            "id": 26095,
+            "x": false
+        },
+        {
+            "category": "Tinder",
+            "id": 26081,
+            "x": true
+        },
+        {
+            "category": "Kẻ giết người hưng phấn",
+            "id": 26078,
+            "x": true
+        },
+        {
+            "category": "Lần gọi cuối cùng",
+            "id": 26076,
+            "x": true
+        },
+        {
+            "category": "Xem Netflix và thư giãn",
+            "id": 26075,
+            "x": true
+        },
+        {
+            "category": "Abe Lincoln lái xe hybrid",
+            "id": 26074,
+            "x": false
+        },
+        {
+            "category": "Nước cam nhiều tép",
+            "id": 26073,
+            "x": false
+        },
+        {
+            "category": "Quần đà điểu",
+            "id": 26072,
+            "x": false
+        },
+        {
+            "category": "Tôi không mở được cái lọ này!",
+            "id": 26071,
+            "x": false
+        },
+        {
+            "category": "Kẹo bạc hà",
+            "id": 26069,
+            "x": false
+        },
+        {
+            "category": "sốt cay này không ngon lắm",
+            "id": 26067,
+            "x": false
+        },
+        {
+            "category": "Ve bám trên mặt",
+            "id": 26065,
+            "x": false
+        },
+        {
+            "category": "cù lét tôi đi",
+            "id": 26064,
+            "x": false
+        },
+        {
+            "category": "Người khuấy động bữa tiệc",
+            "id": 26063,
+            "x": false
+        },
+        {
+            "category": "Không có sự riêng tư",
+            "id": 26062,
+            "x": false
+        },
+        {
+            "category": "Ngày đầu tiên trong tù",
+            "id": 26061,
+            "x": true
+        },
+        {
+            "category": "Lạc trong Grand Canyon",
+            "id": 26058,
+            "x": false
+        },
+        {
+            "category": "Những bà nội trợ đích thực",
+            "id": 26057,
+            "x": false
+        },
+        {
+            "category": "túi xì hơi",
+            "id": 26056,
+            "x": false
+        },
+        {
+            "category": "Cắn móng chân",
+            "id": 26055,
+            "x": false
+        },
+        {
+            "category": "Sốt Hummus",
+            "id": 26054,
+            "x": false
+        },
+        {
+            "category": "Cầu thủ ném gà",
+            "id": 26053,
+            "x": false
+        },
+        {
+            "category": "người hôn ướt át",
+            "id": 26048,
+            "x": true
+        },
+        {
+            "category": "Hai người hóa trang ngựa",
+            "id": 26046,
+            "x": false
+        },
+        {
+            "category": "Cúp tham dự",
+            "id": 26045,
+            "x": false
+        },
+        {
+            "category": "nửa ngọn núi lửa",
+            "id": 26041,
+            "x": false
+        },
+        {
+            "category": "ngày tuyết rơi",
+            "id": 26037,
+            "x": false
+        },
+        {
+            "category": "Tức giận với quả dưa chuột muối",
+            "id": 26030,
+            "x": false
+        },
+        {
+            "category": "Bộ răng giả mới",
+            "id": 26028,
+            "x": false
+        },
+        {
+            "category": "Giày không thoải mái",
+            "id": 26027,
+            "x": false
+        },
+        {
+            "category": "bà già nghe đài phát thanh",
+            "id": 26017,
+            "x": false
+        },
+        {
+            "category": "Phòng tập gym khỏa thân",
+            "id": 26011,
+            "x": true
+        },
+        {
+            "category": "Giấy vệ sinh giá rẻ",
+            "id": 26010,
+            "x": false
+        },
+        {
+            "category": "Hoài Linh",
+            "id": 26007,
+            "x": false
+        },
+        {
+            "category": "Con đường gạch vàng",
+            "id": 25998,
+            "x": false
+        },
+        {
+            "category": "Buffet chân cua",
+            "id": 25996,
+            "x": false
+        },
+        {
+            "category": "Hải ly ngồi bồn cầu",
+            "id": 25994,
+            "x": false
+        },
+        {
+            "category": "Lén xì hơi ở bữa tiệc",
+            "id": 25993,
+            "x": true
+        },
+        {
+            "category": "Bạn cùng phòng kỳ quặc",
+            "id": 25984,
+            "x": false
+        },
+        {
+            "category": "Ngũ cốc ỉu",
+            "id": 25983,
+            "x": false
+        },
+        {
+            "category": "Nước tiểu kỳ lân",
+            "id": 25981,
+            "x": true
+        },
+        {
+            "category": "Mái tóc kẹo bông",
+            "id": 25980,
+            "x": false
+        },
+        {
+            "category": "Kem que nóng",
+            "id": 25979,
+            "x": false
+        },
+        {
+            "category": "Tiệc bò Tây Tạng",
+            "id": 25976,
+            "x": false
+        },
+        {
+            "category": "nhà thơ vũ trụ",
+            "id": 25974,
+            "x": false
+        },
+        {
+            "category": "Kẹo cao su thần kỳ",
+            "id": 25971,
+            "x": false
+        },
+        {
+            "category": "Bộ xương của Snoopy",
+            "id": 25968,
+            "x": false
+        },
+        {
+            "category": "bác sĩ hậu môn",
+            "id": 25967,
+            "x": true
+        },
+        {
+            "category": "Phim làm lại",
+            "id": 25962,
+            "x": false
+        },
+        {
+            "category": "Nước sốt bốc mùi",
+            "id": 25958,
+            "x": false
+        },
+        {
+            "category": "nửa robot nửa Rick Astley",
+            "id": 25957,
+            "x": false
+        },
+        {
+            "category": "Một mớ hỗn độn",
+            "id": 25956,
+            "x": false
+        },
+        {
+            "category": "Vòng chung kết World Cup",
+            "id": 25955,
+            "x": false
+        },
+        {
+            "category": "Mông của Bruce Willis",
+            "id": 25954,
+            "x": true
+        },
+        {
+            "category": "Quá nhiều bánh",
+            "id": 25949,
+            "x": false
+        },
+        {
+            "category": "Cửa hàng Apple ngoài vũ trụ",
+            "id": 25946,
+            "x": false
+        },
+        {
+            "category": "Zombie Katy Perry",
+            "id": 25944,
+            "x": false
+        },
+        {
+            "category": "Thân hình ông bố",
+            "id": 25943,
+            "x": true
+        },
+        {
+            "category": "Thần đèn có cơ bụng săn chắc",
+            "id": 25942,
+            "x": false
+        },
+        {
+            "category": "chồn đất châu Phi",
+            "id": 25941,
+            "x": false
+        },
+        {
+            "category": "Núi lửa pudding",
+            "id": 25940,
+            "x": false
+        },
+        {
+            "category": "Sữa possum",
+            "id": 25939,
+            "x": false
+        },
+        {
+            "category": "Quên mất định nói gì",
+            "id": 25938,
+            "x": false
+        },
+        {
+            "category": "Điện thoại hết pin",
+            "id": 25937,
+            "x": false
+        },
+        {
+            "category": "Áo ngực có gọng",
+            "id": 25936,
+            "x": true
+        },
+        {
+            "category": "Mật báo viên xã hội đen",
+            "id": 25935,
+            "x": false
+        },
+        {
+            "category": "cửa sổ nhàm chán",
+            "id": 34508,
+            "x": false
+        },
+        {
+            "category": "tư thế ngồi sai",
+            "id": 34507,
+            "x": false
+        },
+        {
+            "category": "Không biết đây là mùi thơm hay mùi thối nữa",
+            "id": 34505,
+            "x": false
+        },
+        {
+            "category": "chỉ đứng yên",
+            "id": 34504,
+            "x": false
+        },
+        {
+            "category": "nhảy lò cò",
+            "id": 34503,
+            "x": false
+        },
+        {
+            "category": "ánh mắt căm thù",
+            "id": 34489,
+            "x": false
+        },
+        {
+            "category": "cách trở nên quyến rũ",
+            "id": 34472,
+            "x": true
+        },
+        {
+            "category": "vận động viên chạy bộ đắc ý",
+            "id": 34434,
+            "x": false
+        },
+        {
+            "category": "hình phản chiếu trên lưỡi dao",
+            "id": 34432,
+            "x": false
+        },
+        {
+            "category": "con cá trong hình vuông",
+            "id": 34288,
+            "x": false
+        },
+        {
+            "category": "hai người ba bàn tay",
+            "id": 34261,
+            "x": false
+        },
+        {
+            "category": "Tê chân nên không đứng dậy khỏi bồn cầu được!",
+            "id": 34260,
+            "x": false
+        },
+        {
+            "category": "buổi hẹn hò thứ ba",
+            "id": 34259,
+            "x": false
+        },
+        {
+            "category": "chỉ có đúng một người dự sinh nhật",
+            "id": 34258,
+            "x": false
+        },
+        {
+            "category": "không đủ lương thực để sinh tồn",
+            "id": 34257,
+            "x": false
+        },
+        {
+            "category": "gian lận khi đánh bạc",
+            "id": 34256,
+            "x": false
+        },
+        {
+            "category": "kia có phải là xe của tôi không?",
+            "id": 33890,
+            "x": false
+        },
+        {
+            "category": "tiếng thở dài thật sâu",
+            "id": 33824,
+            "x": false
+        },
+        {
+            "category": "buồn ở nơi làm việc",
+            "id": 33767,
+            "x": false
+        },
+        {
+            "category": "ngôi sao và nốt nhạc",
+            "id": 33766,
+            "x": true
+        },
+        {
+            "category": "những người không vui chơi drawful",
+            "id": 33765,
+            "x": false
+        },
+        {
+            "category": "chỉ mỗi tóc",
+            "id": 33764,
+            "x": false
+        },
+        {
+            "category": "một chiếc đồng hồ và một mũi tên xoáy",
+            "id": 33763,
+            "x": false
+        },
+        {
+            "category": "một mình nhưng hạnh phúc",
+            "id": 33762,
+            "x": false
+        },
+        {
+            "category": "Hộ chiếu của <RANDOM_PLAYER_NAME>",
+            "id": 33719,
+            "x": false
+        },
+        {
+            "category": "bức vẽ của <RANDOM_PLAYER_NAME>",
+            "id": 33718,
+            "x": false
+        },
+        {
+            "category": "thức uống ác mộng",
+            "id": 33715,
+            "x": true
+        },
+        {
+            "category": "đừng ăn kẹo đã bóc vỏ",
+            "id": 33714,
+            "x": false
+        },
+        {
+            "category": "mọi người đều cắm mặt vào điện thoại",
+            "id": 33530,
+            "x": false
+        },
+        {
+            "category": "độc dược",
+            "id": 33436,
+            "x": false
+        },
+        {
+            "category": "gã tức giận vì tóc bị rối",
+            "id": 33434,
+            "x": false
+        },
+        {
+            "category": "những người có nhiều lông",
+            "id": 33433,
+            "x": false
+        },
+        {
+            "category": "bà vừa trúng tiền",
+            "id": 33428,
+            "x": false
+        },
+        {
+            "category": "khoa học khiến tôi phát điên",
+            "id": 33426,
+            "x": false
+        },
+        {
+            "category": "những gì đã làm trong kỳ nghỉ hè",
+            "id": 32790,
+            "x": false
+        },
+        {
+            "category": "một ngôi nhà nhưng có thêm một đường gạch",
+            "id": 32752,
+            "x": false
+        },
+        {
+            "category": "giả vờ bận rộn",
+            "id": 32751,
+            "x": false
+        },
+        {
+            "category": "cuốn sách thất lạc",
+            "id": 32749,
+            "x": false
+        },
+        {
+            "category": "đừng hoảng nhưng tôi nghĩ chúng ta đang bị bám đuôi",
+            "id": 32745,
+            "x": false
+        },
+        {
+            "category": "quên cạo râu",
+            "id": 31549,
+            "x": false
+        },
+        {
+            "category": "Bộ sưu tập tay nắm cửa",
+            "id": 31512,
+            "x": false
+        },
+        {
+            "category": "Ông già Noel dành cho người lớn",
+            "id": 31433,
+            "x": false
+        },
+        {
+            "category": "Con hổ độc thân",
+            "id": 31421,
+            "x": true
+        },
+        {
+            "category": "Lực hấp dẫn của Mặt Trăng",
+            "id": 31418,
+            "x": false
+        },
+        {
+            "category": "Kem eggnog",
+            "id": 31412,
+            "x": false
+        },
+        {
+            "category": "Vịt băng qua đường",
+            "id": 31411,
+            "x": false
+        },
+        {
+            "category": "Lính kẹp hạt dẻ uống cà phê",
+            "id": 31409,
+            "x": false
+        },
+        {
+            "category": "Sóc bay sợ bay",
+            "id": 31405,
+            "x": false
+        },
+        {
+            "category": "đa tài",
+            "id": 31404,
+            "x": false
+        },
+        {
+            "category": "Nước ngâm cá ngừ hộp",
+            "id": 31403,
+            "x": false
+        },
+        {
+            "category": "Văn phòng lạnh lẽo",
+            "id": 31402,
+            "x": false
+        },
+        {
+            "category": "Thợ quét ống khói đáng yêu",
+            "id": 31401,
+            "x": false
+        },
+        {
+            "category": "Nồi nung chảy",
+            "id": 31397,
+            "x": false
+        },
+        {
+            "category": "Tám chuyện",
+            "id": 31395,
+            "x": false
+        },
+        {
+            "category": "túi xách đong đầy ước mơ",
+            "id": 31394,
+            "x": false
+        },
+        {
+            "category": "Niềm vui của thủy thủ",
+            "id": 31391,
+            "x": true
+        },
+        {
+            "category": "Hàng ghế giá rẻ",
+            "id": 31386,
+            "x": false
+        },
+        {
+            "category": "Ghế bay lơ lửng",
+            "id": 31383,
+            "x": false
+        },
+        {
+            "category": "Hơi thở mùi cá ngừ",
+            "id": 31376,
+            "x": false
+        },
+        {
+            "category": "Im lặng nhưng chết chóc",
+            "id": 31375,
+            "x": false
+        },
+        {
+            "category": "Mũ có bộ não",
+            "id": 31374,
+            "x": false
+        },
+        {
+            "category": "Tiệc ngủ",
+            "id": 31372,
+            "x": false
+        },
+        {
+            "category": "Dịch vụ cắt tóc tận nhà",
+            "id": 31367,
+            "x": false
+        },
+        {
+            "category": "Cái bụng mỡ bốc mùi",
+            "id": 31363,
+            "x": false
+        },
+        {
+            "category": "Vòng quay ngựa gỗ ác mộng",
+            "id": 31358,
+            "x": false
+        },
+        {
+            "category": "Chong chóng tử thần",
+            "id": 31357,
+            "x": false
+        },
+        {
+            "category": "Cánh tay bún",
+            "id": 31355,
+            "x": false
+        },
+        {
+            "category": "Cá sấu nhân bản vô tính",
+            "id": 31354,
+            "x": false
+        },
+        {
+            "category": "Bộ tuxedo có khóa dán",
+            "id": 31353,
+            "x": false
+        },
+        {
+            "category": "Từ trường Trái Đất",
+            "id": 31340,
+            "x": false
+        },
+        {
+            "category": "Tiếng bụng đói",
+            "id": 31337,
+            "x": false
+        },
+        {
+            "category": "Mộ vô danh",
+            "id": 31334,
+            "x": true
+        },
+        {
+            "category": "Gấu koala siêu giàu",
+            "id": 31333,
+            "x": false
+        },
+        {
+            "category": "Bánh phát nổ",
+            "id": 31332,
+            "x": false
+        },
+        {
+            "category": "Áp lực thi cử",
+            "id": 31330,
+            "x": false
+        },
+        {
+            "category": "Nói liên hồi",
+            "id": 31319,
+            "x": true
+        },
+        {
+            "category": "Latte đậu nành",
+            "id": 31318,
+            "x": false
+        },
+        {
+            "category": "Lớp đạp xe thể dục",
+            "id": 31308,
+            "x": false
+        },
+        {
+            "category": "Trời hơi âm u",
+            "id": 31256,
+            "x": false
+        },
+        {
+            "category": "gái mời trai nhảy",
+            "id": 31181,
+            "x": false
+        },
+        {
+            "category": "Khó tiêu",
+            "id": 31053,
+            "x": false
+        },
+        {
+            "category": "Cơn lốc thú cưng",
+            "id": 31046,
+            "x": false
+        },
+        {
+            "category": "Khoai tây chiên phủ sốt",
+            "id": 30921,
+            "x": true
+        },
+        {
+            "category": "Ngã dập mông",
+            "id": 30889,
+            "x": false
+        },
+        {
+            "category": "Đảm bảo không phải là xích đu tình dục",
+            "id": 30680,
+            "x": true
+        },
+        {
+            "category": "Kết thúc một thời đại",
+            "id": 30641,
+            "x": false
+        },
+        {
+            "category": "Chải lông mi",
+            "id": 30525,
+            "x": false
+        },
+        {
+            "category": "Nhảy bao bố sinh tử",
+            "id": 30165,
+            "x": false
+        },
+        {
+            "category": "Nghe giọng nói của chính mình",
+            "id": 30162,
+            "x": false
+        },
+        {
+            "category": "Vani Pháp",
+            "id": 30159,
+            "x": false
+        },
+        {
+            "category": "Cào phím trên Facebook",
+            "id": 30149,
+            "x": false
+        },
+        {
+            "category": "Tủy răng",
+            "id": 30145,
+            "x": false
+        },
+        {
+            "category": "Người bán bánh mì",
+            "id": 30131,
+            "x": false
+        },
+        {
+            "category": "Hướng dẫn mặc quần",
+            "id": 30122,
+            "x": false
+        },
+        {
+            "category": "ăn uống trên sao Hỏa",
+            "id": 30114,
+            "x": false
+        },
+        {
+            "category": "Tôm hùm ngoại cảm",
+            "id": 30093,
+            "x": false
+        },
+        {
+            "category": "Kịch rối Breaking Bad",
+            "id": 30079,
+            "x": true
+        },
+        {
+            "category": "đấm vào hạ bộ",
+            "id": 30075,
+            "x": true
+        },
+        {
+            "category": "Lasagna cháy",
+            "id": 30056,
+            "x": false
+        },
+        {
+            "category": "Trẻ hoang dã",
+            "id": 30052,
+            "x": false
+        },
+        {
+            "category": "Anh giao hàng lén lút",
+            "id": 30049,
+            "x": false
+        },
+        {
+            "category": "nhà thơ trong tuyết",
+            "id": 30039,
+            "x": false
+        },
+        {
+            "category": "Áo khoác làm từ sóc sống",
+            "id": 30038,
+            "x": false
+        },
+        {
+            "category": "Tổng thống mặc đồ ngủ",
+            "id": 30028,
+            "x": false
+        },
+        {
+            "category": "Thảm mới tinh",
+            "id": 30010,
+            "x": false
+        },
+        {
+            "category": "Tắm bùn",
+            "id": 30001,
+            "x": false
+        },
+        {
+            "category": "Nghệ sĩ mắt laser tung hứng",
+            "id": 29994,
+            "x": false
+        },
+        {
+            "category": "Có con khỉ trong túi",
+            "id": 29985,
+            "x": false
+        },
+        {
+            "category": "trận chiến gối ở cửa hàng tạp hóa",
+            "id": 29960,
+            "x": false
+        },
+        {
+            "category": "Cảnh sát sắp về hưu",
+            "id": 29958,
+            "x": false
+        },
+        {
+            "category": "Chú hề ngã lăn ra ghế sofa",
+            "id": 29944,
+            "x": false
+        },
+        {
+            "category": "Người hâm mộ bí mật",
+            "id": 29808,
+            "x": false
+        },
+        {
+            "category": "Hội thất tình",
+            "id": 29807,
+            "x": false
+        },
+        {
+            "category": "Lận đận tình duyên",
+            "id": 29804,
+            "x": false
+        },
+        {
+            "category": "May mắn còn sống",
+            "id": 29803,
+            "x": false
+        },
+        {
+            "category": "Ôm nhau làm hòa",
+            "id": 29799,
+            "x": false
+        },
+        {
+            "category": "không thể ngừng nghĩ về bò khô",
+            "id": 29798,
+            "x": false
+        },
+        {
+            "category": "Hơi thở có mùi cà phê",
+            "id": 29795,
+            "x": false
+        },
+        {
+            "category": "Chiếc mũ may mắn",
+            "id": 29790,
+            "x": false
+        },
+        {
+            "category": "Lòng bàn tay đổ mồ hôi",
+            "id": 29780,
+            "x": false
+        },
+        {
+            "category": "Bánh quy khẩn cấp",
+            "id": 29766,
+            "x": false
+        },
+        {
+            "category": "Nhạc sĩ người xương",
+            "id": 29759,
+            "x": false
+        },
+        {
+            "category": "Nước có ga",
+            "id": 29756,
+            "x": false
+        },
+        {
+            "category": "Người lớn trẻ con",
+            "id": 29749,
+            "x": true
+        },
+        {
+            "category": "Pizza xúc tu",
+            "id": 29729,
+            "x": false
+        },
+        {
+            "category": "Giao dịch nội bộ",
+            "id": 29726,
+            "x": false
+        },
+        {
+            "category": "Lỗ đít ma quái",
+            "id": 29723,
+            "x": true
+        },
+        {
+            "category": "Ô liu nhồi",
+            "id": 29722,
+            "x": false
+        },
+        {
+            "category": "Mặt trời hôn mặt trăng",
+            "id": 29716,
+            "x": true
+        },
+        {
+            "category": "quá trời búp bê",
+            "id": 29695,
+            "x": false
+        },
+        {
+            "category": "Buổi hẹn dạ hội buồn bã",
+            "id": 29686,
+            "x": false
+        },
+        {
+            "category": "Bắc kim thang",
+            "id": 29681,
+            "x": false
+        },
+        {
+            "category": "Pizza sốt kem trắng",
+            "id": 29650,
+            "x": false
+        },
+        {
+            "category": "Có cái gì đó trên cánh máy bay!",
+            "id": 29640,
+            "x": false
+        },
+        {
+            "category": "Tóc giả rẻ tiền",
+            "id": 29621,
+            "x": false
+        },
+        {
+            "category": "Ngày trên bìa cứng",
+            "id": 29619,
+            "x": false
+        },
+        {
+            "category": "Tôi biết một gã mà biết một gã khác",
+            "id": 29610,
+            "x": false
+        },
+        {
+            "category": "Lo lắng về chuột hamster",
+            "id": 29590,
+            "x": false
+        },
+        {
+            "category": "Lời động viên tuyệt vời",
+            "id": 29589,
+            "x": false
+        },
+        {
+            "category": "Vẽ lên thân thể",
+            "id": 29587,
+            "x": true
+        },
+        {
+            "category": "Hình chóp và hình tam giác",
+            "id": 29586,
+            "x": false
+        },
+        {
+            "category": "Đôi tất bị hắt hủi",
+            "id": 29585,
+            "x": false
+        },
+        {
+            "category": "Giận đời",
+            "id": 29584,
+            "x": false
+        },
+        {
+            "category": "Đừng kéo ngón tay tôi",
+            "id": 29579,
+            "x": false
+        },
+        {
+            "category": "Súng nước chứa axit",
+            "id": 29573,
+            "x": false
+        },
+        {
+            "category": "Cây đầu lâu",
+            "id": 29567,
+            "x": false
+        },
+        {
+            "category": "Chú chó tóc mullet",
+            "id": 29566,
+            "x": false
+        },
+        {
+            "category": "Người sưu tầm quần lót",
+            "id": 29565,
+            "x": true
+        },
+        {
+            "category": "Bên trong lỗ mũi",
+            "id": 29559,
+            "x": false
+        },
+        {
+            "category": "Kẹo bơ cứng",
+            "id": 29558,
+            "x": false
+        },
+        {
+            "category": "Cửa sổ dán kính màu",
+            "id": 29550,
+            "x": false
+        },
+        {
+            "category": "Lòng hiếu khách miền Nam",
+            "id": 29540,
+            "x": false
+        },
+        {
+            "category": "Đừng sợ. Chạm vào không sao đâu.",
+            "id": 29539,
+            "x": false
+        },
+        {
+            "category": "Tôi không có con trai!",
+            "id": 29530,
+            "x": false
+        },
+        {
+            "category": "Búi lông bay",
+            "id": 29521,
+            "x": false
+        },
+        {
+            "category": "Túi đầy những điều ước",
+            "id": 29518,
+            "x": false
+        },
+        {
+            "category": "Vụ cướp ngân hàng bí ẩn",
+            "id": 29514,
+            "x": false
+        },
+        {
+            "category": "Tiệc bút laser",
+            "id": 29504,
+            "x": false
+        },
+        {
+            "category": "Cơn giận dỗi nhẹ",
+            "id": 29500,
+            "x": false
+        },
+        {
+            "category": "Con chuột trong bánh xếp",
+            "id": 29480,
+            "x": false
+        },
+        {
+            "category": "Cưới Pablo Picasso",
+            "id": 29476,
+            "x": true
+        },
+        {
+            "category": "Phẫu thuật cây",
+            "id": 29475,
+            "x": false
+        },
+        {
+            "category": "Ho ra nĩa",
+            "id": 29464,
+            "x": false
+        },
+        {
+            "category": "Mèo phá án",
+            "id": 29462,
+            "x": false
+        },
+        {
+            "category": "Gương nịnh dáng",
+            "id": 29458,
+            "x": false
+        },
+        {
+            "category": "Bị kẹt lại tại một bữa tiệc",
+            "id": 29444,
+            "x": false
+        },
+        {
+            "category": "Quên bầu cử",
+            "id": 29443,
+            "x": false
+        },
+        {
+            "category": "Thoát tội giết người",
+            "id": 29441,
+            "x": true
+        },
+        {
+            "category": "Bẫy kỳ lân",
+            "id": 29440,
+            "x": false
+        },
+        {
+            "category": "Chết vì pudding",
+            "id": 29434,
+            "x": true
+        },
+        {
+            "category": "Diễn xuất dở",
+            "id": 29433,
+            "x": false
+        },
+        {
+            "category": "Chú chó siêu thông minh",
+            "id": 29432,
+            "x": false
+        },
+        {
+            "category": "Thuyền trưởng phấn khích",
+            "id": 29427,
+            "x": false
+        },
+        {
+            "category": "Áo khoác da rắn",
+            "id": 29421,
+            "x": true
+        },
+        {
+            "category": "Dân New York lịch sự",
+            "id": 29408,
+            "x": false
+        },
+        {
+            "category": "Sao Diêm Vương được công nhận là hành tinh",
+            "id": 29396,
+            "x": false
+        },
+        {
+            "category": "Băng quái xế bay",
+            "id": 29395,
+            "x": false
+        },
+        {
+            "category": "Hai người cùng hút một điếu xì gà",
+            "id": 29363,
+            "x": true
+        },
+        {
+            "category": "Bước lộn chân ra đường",
+            "id": 29360,
+            "x": false
+        },
+        {
+            "category": "Hai đứa trẻ cưỡi tuần lộc",
+            "id": 29324,
+            "x": false
+        },
+        {
+            "category": "Darth Vader cạo lông chân",
+            "id": 29319,
+            "x": true
+        },
+        {
+            "category": "Tôi ăn một cục ắc quy",
+            "id": 29287,
+            "x": false
+        },
+        {
+            "category": "Ga giường nhăn nhúm",
+            "id": 29283,
+            "x": false
+        },
+        {
+            "category": "Hội nghị những kẻ thất bại",
+            "id": 29278,
+            "x": true
+        },
+        {
+            "category": "Ngôi nhà thu nhỏ",
+            "id": 29275,
+            "x": false
+        },
+        {
+            "category": "Tôi sẽ không trả tiền cho cái đùi gà này!",
+            "id": 29237,
+            "x": false
+        },
+        {
+            "category": "Triệt lông bằng laser",
+            "id": 29205,
+            "x": true
+        },
+        {
+            "category": "Thị trường chứng khoán sụp đổ",
+            "id": 29199,
+            "x": false
+        },
+        {
+            "category": "Quần lót yêu thích",
+            "id": 29165,
+            "x": true
+        },
+        {
+            "category": "Nhạc Grunge",
+            "id": 29158,
+            "x": false
+        },
+        {
+            "category": "Chồng tôi là thợ đào mộ",
+            "id": 29137,
+            "x": false
+        },
+        {
+            "category": "Tôi có thể thấy âm nhạc",
+            "id": 29126,
+            "x": false
+        },
+        {
+            "category": "Giải chạy vui vẻ",
+            "id": 29122,
+            "x": false
+        },
+        {
+            "category": "Xe tăng bắn sốt",
+            "id": 29121,
+            "x": false
+        },
+        {
+            "category": "Bộ não quá tải",
+            "id": 29118,
+            "x": false
+        },
+        {
+            "category": "Nước hoa hương thịt heo",
+            "id": 29106,
+            "x": false
+        },
+        {
+            "category": "Túi mật của tôi mọc lại",
+            "id": 29090,
+            "x": false
+        },
+        {
+            "category": "Hình thoi nguệch ngoạc",
+            "id": 29032,
+            "x": false
+        },
+        {
+            "category": "Đồ ngủ kiểu tuxedo",
+            "id": 29021,
+            "x": false
+        },
+        {
+            "category": "Thâu tóm thù địch",
+            "id": 29012,
+            "x": false
+        },
+        {
+            "category": "Chăn có tay khổng lồ",
+            "id": 28957,
+            "x": false
+        },
+        {
+            "category": "Để tóc mái",
+            "id": 28946,
+            "x": true
+        },
+        {
+            "category": "Thân thiện với gia đình",
+            "id": 28920,
+            "x": false
+        },
+        {
+            "category": "Không chút trí tưởng tượng",
+            "id": 28899,
+            "x": false
+        },
+        {
+            "category": "Con mèo với một bí mật",
+            "id": 28855,
+            "x": false
+        },
+        {
+            "category": "Ăn hết đống tuyết này đi!",
+            "id": 28852,
+            "x": false
+        },
+        {
+            "category": "Chuyện tình tại quán cà phê",
+            "id": 28846,
+            "x": false
+        },
+        {
+            "category": "Đi mua trái tim",
+            "id": 28840,
+            "x": false
+        },
+        {
+            "category": "Trứng làm mắt",
+            "id": 28835,
+            "x": false
+        },
+        {
+            "category": "Phức cảm tình ái",
+            "id": 28805,
+            "x": true
+        },
+        {
+            "category": "Quần thủy tinh",
+            "id": 28789,
+            "x": false
+        },
+        {
+            "category": "Sợ phô mai",
+            "id": 28786,
+            "x": false
+        },
+        {
+            "category": "Nói tiếng bụng",
+            "id": 28785,
+            "x": false
+        },
+        {
+            "category": "Cá Hồi Hoang chạm trán xác sống",
+            "id": 28751,
+            "x": false
+        },
+        {
+            "category": "Thử lửa",
+            "id": 28677,
+            "x": false
+        },
+        {
+            "category": "Điện thoại hỏng",
+            "id": 28670,
+            "x": false
+        },
+        {
+            "category": "Bức ảnh bị ám",
+            "id": 28638,
+            "x": false
+        },
+        {
+            "category": "Cú đấm quay chậm",
+            "id": 28624,
+            "x": false
+        },
+        {
+            "category": "Sống trong mơ",
+            "id": 28613,
+            "x": false
+        },
+        {
+            "category": "Quái vật tiệc tùng",
+            "id": 28595,
+            "x": false
+        },
+        {
+            "category": "Lưỡi acid",
+            "id": 28583,
+            "x": false
+        },
+        {
+            "category": "Ăn chuột đúng cách",
+            "id": 28443,
+            "x": false
+        },
+        {
+            "category": "Mưu sát không thành",
+            "id": 28438,
+            "x": true
+        },
+        {
+            "category": "Bắn súng góc nhìn thứ nhất",
+            "id": 28387,
+            "x": true
+        },
+        {
+            "category": "Taxi ma thuật",
+            "id": 28363,
+            "x": true
+        },
+        {
+            "category": "Những con gấu bị cạo lông",
+            "id": 28355,
+            "x": false
+        },
+        {
+            "category": "Vỡ bàng quang",
+            "id": 28351,
+            "x": true
+        },
+        {
+            "category": "Vuốt ve mạnh bạo",
+            "id": 28349,
+            "x": false
+        },
+        {
+            "category": "Đại bàng cầm một chiếc thìa gỗ",
+            "id": 28345,
+            "x": false
+        },
+        {
+            "category": "Gậy và mấy thứ lặt vặt",
+            "id": 28342,
+            "x": false
+        },
+        {
+            "category": "Hỗn loạn tột độ",
+            "id": 28340,
+            "x": false
+        },
+        {
+            "category": "Ông già Noel cưỡi tàu lượn siêu tốc",
+            "id": 28333,
+            "x": false
+        },
+        {
+            "category": "thể thao cho người khuyết tật",
+            "id": 28328,
+            "x": false
+        },
+        {
+            "category": "Căn hầm đáng sợ",
+            "id": 28327,
+            "x": false
+        },
+        {
+            "category": "Tàu lượn siêu tốc lao xuống vách đá",
+            "id": 28325,
+            "x": false
+        },
+        {
+            "category": "Răng của tôi là kẹo dẻo",
+            "id": 28324,
+            "x": false
+        },
+        {
+            "category": "Shakespeare ăn một chiếc hot dog",
+            "id": 28323,
+            "x": false
+        },
+        {
+            "category": "Cảnh sát cù lét",
+            "id": 28319,
+            "x": false
+        },
+        {
+            "category": "Súng bắn ngược",
+            "id": 28315,
+            "x": true
+        },
+        {
+            "category": "Mát xa mạnh tay",
+            "id": 28310,
+            "x": true
+        },
+        {
+            "category": "Taco biết đi",
+            "id": 28309,
+            "x": false
+        },
+        {
+            "category": "Cờ vua giả tưởng",
+            "id": 28308,
+            "x": false
+        },
+        {
+            "category": "Mọi người cùng hắt hơi",
+            "id": 28300,
+            "x": false
+        },
+        {
+            "category": "Thế hệ vĩ đại nhất",
+            "id": 28294,
+            "x": false
+        },
+        {
+            "category": "Nuốt chửng hồn ma",
+            "id": 28293,
+            "x": false
+        },
+        {
+            "category": "Nhà khoa học tên lửa cưới bác sĩ phẫu thuật não",
+            "id": 28275,
+            "x": false
+        },
+        {
+            "category": "Liveshow Bức Tường",
+            "id": 28268,
+            "x": false
+        },
+        {
+            "category": "Thăm bố mẹ",
+            "id": 28265,
+            "x": false
+        },
+        {
+            "category": "Trố mắt nhìn",
+            "id": 28257,
+            "x": false
+        },
+        {
+            "category": "Anh em chí cốt",
+            "id": 28256,
+            "x": false
+        },
+        {
+            "category": "Lốp xe dưa hấu",
+            "id": 28255,
+            "x": false
+        },
+        {
+            "category": "Trại hè người lớn",
+            "id": 28245,
+            "x": false
+        },
+        {
+            "category": "Pha trộn nước ngọt",
+            "id": 28236,
+            "x": false
+        },
+        {
+            "category": "Chủ tịch câu lạc bộ kịch",
+            "id": 28216,
+            "x": false
+        },
+        {
+            "category": "Đài phun máu",
+            "id": 28208,
+            "x": true
+        },
+        {
+            "category": "Hôn dưới khán đài",
+            "id": 28206,
+            "x": true
+        },
+        {
+            "category": "Bụi bay trong gió",
+            "id": 28203,
+            "x": false
+        },
+        {
+            "category": "Thảo cầm viên hậu tận thế",
+            "id": 28195,
+            "x": false
+        },
+        {
+            "category": "Kẻ trộm chó",
+            "id": 28184,
+            "x": false
+        },
+        {
+            "category": "Đà Lạt",
+            "id": 28182,
+            "x": false
+        },
+        {
+            "category": "Níu giữ thanh xuân",
+            "id": 28174,
+            "x": false
+        },
+        {
+            "category": "Thảm hang động",
+            "id": 28172,
+            "x": false
+        },
+        {
+            "category": "Bối rối bởi mặt trời",
+            "id": 28170,
+            "x": false
+        },
+        {
+            "category": "anh em khoác áo tuyết",
+            "id": 28166,
+            "x": false
+        },
+        {
+            "category": "Cơn hoảng loạn ban đêm",
+            "id": 28165,
+            "x": false
+        },
+        {
+            "category": "Làm rớt hũ muối",
+            "id": 28164,
+            "x": false
+        },
+        {
+            "category": "Cơn bão dao",
+            "id": 28163,
+            "x": false
+        },
+        {
+            "category": "Hình xăm thắt lưng",
+            "id": 28154,
+            "x": true
+        },
+        {
+            "category": "Tư thế hoàn hảo",
+            "id": 28142,
+            "x": false
+        },
+        {
+            "category": "Đập tay hụt",
+            "id": 28117,
+            "x": false
+        },
+        {
+            "category": "Hải cẩu nháy mắt",
+            "id": 28114,
+            "x": false
+        },
+        {
+            "category": "Bàn chân bị bệnh",
+            "id": 28113,
+            "x": false
+        },
+        {
+            "category": "Chứng mất ngủ",
+            "id": 28107,
+            "x": false
+        },
+        {
+            "category": "Giai đoạn lớn nhanh",
+            "id": 28105,
+            "x": false
+        },
+        {
+            "category": "Các ngón chân dài bằng nhau",
+            "id": 28103,
+            "x": false
+        },
+        {
+            "category": "Rình rập trong bụi cây",
+            "id": 28096,
+            "x": true
+        },
+        {
+            "category": "Nến trên gác mái",
+            "id": 28095,
+            "x": false
+        },
+        {
+            "category": "Sờ qua lớp áo",
+            "id": 28088,
+            "x": true
+        },
+        {
+            "category": "Cuộc biểu tình u sầu",
+            "id": 28082,
+            "x": false
+        },
+        {
+            "category": "CEO nhí",
+            "id": 28075,
+            "x": false
+        },
+        {
+            "category": "Găng tay phép thuật",
+            "id": 28068,
+            "x": false
+        },
+        {
+            "category": "Cô gái trong phim The Ring",
+            "id": 28053,
+            "x": true
+        },
+        {
+            "category": "Tôi đang cướp trang trại này",
+            "id": 28050,
+            "x": false
+        },
+        {
+            "category": "Sàn nhà trơn trượt",
+            "id": 28045,
+            "x": false
+        },
+        {
+            "category": "Chú chó uốn tóc mặt xị",
+            "id": 28041,
+            "x": false
+        },
+        {
+            "category": "Úm ba la",
+            "id": 28036,
+            "x": false
+        },
+        {
+            "category": "Vuốt ve chiếc TV",
+            "id": 28031,
+            "x": false
+        },
+        {
+            "category": "Giờ đập phá",
+            "id": 28028,
+            "x": false
+        },
+        {
+            "category": "Vin Diesel đi xăm",
+            "id": 28027,
+            "x": false
+        },
+        {
+            "category": "Anh chàng có một núm vú to",
+            "id": 28008,
+            "x": true
+        },
+        {
+            "category": "Mưa phùn",
+            "id": 28000,
+            "x": false
+        },
+        {
+            "category": "Sát nhân Zodiac",
+            "id": 27997,
+            "x": true
+        },
+        {
+            "category": "Peter Pan đã chết",
+            "id": 27978,
+            "x": true
+        },
+        {
+            "category": "Drone thả dùi trống",
+            "id": 27977,
+            "x": false
+        },
+        {
+            "category": "Ngôn ngữ bí mật của sinh đôi",
+            "id": 27971,
+            "x": false
+        },
+        {
+            "category": "Quà cưới mua phút chót",
+            "id": 27959,
+            "x": false
+        },
+        {
+            "category": "Cuộc thi cưỡi nhện",
+            "id": 27945,
+            "x": false
+        },
+        {
+            "category": "Kênh quần lót",
+            "id": 27944,
+            "x": true
+        },
+        {
+            "category": "Có gì đó bất ổn với quả bí ngô này",
+            "id": 27928,
+            "x": false
+        },
+        {
+            "category": "Ca sĩ mút micro",
+            "id": 27917,
+            "x": true
+        },
+        {
+            "category": "Cái chết Đen",
+            "id": 27914,
+            "x": false
+        },
+        {
+            "category": "Nem kẹt dưới ghế sofa",
+            "id": 27908,
+            "x": false
+        },
+        {
+            "category": "Khoảnh khắc ngộ ra",
+            "id": 27902,
+            "x": false
+        },
+        {
+            "category": "Bộ xương thiếu niên",
+            "id": 27900,
+            "x": true
+        },
+        {
+            "category": "Tranh tự họa",
+            "id": 27884,
+            "x": false
+        },
+        {
+            "category": "Viên kẹo cao su cuối cùng",
+            "id": 27883,
+            "x": false
+        },
+        {
+            "category": "Giả vờ đọc sách",
+            "id": 27882,
+            "x": false
+        },
+        {
+            "category": "Kẻ hèn nhát",
+            "id": 27877,
+            "x": false
+        },
+        {
+            "category": "Toát mồ hôi vì ăn quá nhiều thịt",
+            "id": 27875,
+            "x": false
+        },
+        {
+            "category": "tất cả bức ảnh của tôi đều ở trên mây",
+            "id": 27864,
+            "x": false
+        },
+        {
+            "category": "Nóng lên toàn cầu",
+            "id": 27853,
+            "x": false
+        },
+        {
+            "category": "Máy cắt cỏ lơ lửng",
+            "id": 27845,
+            "x": true
+        },
+        {
+            "category": "Quần vợt mạo hiểm",
+            "id": 27844,
+            "x": false
+        },
+        {
+            "category": "Khu thay đồ",
+            "id": 27841,
+            "x": false
+        },
+        {
+            "category": "Hồ bơi nhỏ xíu",
+            "id": 27839,
+            "x": false
+        },
+        {
+            "category": "Phẫu thuật ghép đầu",
+            "id": 27837,
+            "x": false
+        },
+        {
+            "category": "Ực",
+            "id": 27824,
+            "x": false
+        },
+        {
+            "category": "Người hướng nội",
+            "id": 27819,
+            "x": false
+        },
+        {
+            "category": "Buổi trình diễn thời trang đồ ngủ",
+            "id": 27818,
+            "x": false
+        },
+        {
+            "category": "Súng trang điểm",
+            "id": 27805,
+            "x": false
+        },
+        {
+            "category": "Hẹn hò dưới cống",
+            "id": 27796,
+            "x": false
+        },
+        {
+            "category": "Vi khuẩn",
+            "id": 27790,
+            "x": false
+        },
+        {
+            "category": "Đảo của mấy tên đáng ghét",
+            "id": 27786,
+            "x": false
+        },
+        {
+            "category": "Phi hành gia khóc",
+            "id": 27781,
+            "x": false
+        },
+        {
+            "category": "Nàng tiên cá cho bữa tối",
+            "id": 27777,
+            "x": false
+        },
+        {
+            "category": "Đai trinh tiết",
+            "id": 27773,
+            "x": true
+        },
+        {
+            "category": "Cát lọt khe mông",
+            "id": 27771,
+            "x": true
+        },
+        {
+            "category": "Diễn viên đóng thế tệ hại của The Rock",
+            "id": 27767,
+            "x": false
+        },
+        {
+            "category": "Gã cơ bắp với đôi chân gầy gò",
+            "id": 27763,
+            "x": false
+        },
+        {
+            "category": "Đồ tể ăn chay",
+            "id": 27759,
+            "x": true
+        },
+        {
+            "category": "Thẩm phán giấu ngựa con dưới áo choàng",
+            "id": 27750,
+            "x": false
+        },
+        {
+            "category": "Hộp sọ của Al Capone",
+            "id": 27744,
+            "x": false
+        },
+        {
+            "category": "Cảnh sát nổi",
+            "id": 27736,
+            "x": false
+        },
+        {
+            "category": "Máy tạo khói",
+            "id": 27731,
+            "x": false
+        },
+        {
+            "category": "Giáo viên giàu có",
+            "id": 27730,
+            "x": false
+        },
+        {
+            "category": "Cử tri phân vân",
+            "id": 27729,
+            "x": false
+        },
+        {
+            "category": "Áo khóa velcro",
+            "id": 27724,
+            "x": false
+        },
+        {
+            "category": "Trốn sếp",
+            "id": 27714,
+            "x": false
+        },
+        {
+            "category": "Gửi fax bánh pizza",
+            "id": 27710,
+            "x": false
+        },
+        {
+            "category": "Chuyện phiếm trong thang máy",
+            "id": 27702,
+            "x": false
+        },
+        {
+            "category": "Nghệ thuật trừu tượng",
+            "id": 27696,
+            "x": false
+        },
+        {
+            "category": "Một đống chữ X",
+            "id": 27692,
+            "x": false
+        },
+        {
+            "category": "Máy tính bỏ túi siêu to",
+            "id": 27685,
+            "x": false
+        },
+        {
+            "category": "Gà tây khô",
+            "id": 27683,
+            "x": false
+        },
+        {
+            "category": "Nhịn ăn",
+            "id": 27676,
+            "x": false
+        },
+        {
+            "category": "Mặt trời bắn Trái Đất",
+            "id": 27670,
+            "x": false
+        },
+        {
+            "category": "Pháo hoa bị xịt",
+            "id": 27663,
+            "x": false
+        },
+        {
+            "category": "Con gấu bị trĩ",
+            "id": 27660,
+            "x": true
+        },
+        {
+            "category": "Con ngựa qua nhiều đời chủ",
+            "id": 27656,
+            "x": false
+        },
+        {
+            "category": "Cấm túc",
+            "id": 27653,
+            "x": false
+        },
+        {
+            "category": "Mèo con đấu karate",
+            "id": 27648,
+            "x": false
+        },
+        {
+            "category": "Đập bể bong bóng suy nghĩ",
+            "id": 27635,
+            "x": false
+        },
+        {
+            "category": "Chia tay công khai",
+            "id": 27622,
+            "x": false
+        },
+        {
+            "category": "Con rái cá buồn",
+            "id": 27611,
+            "x": false
+        },
+        {
+            "category": "Trả lại rác cho tôi!",
+            "id": 27610,
+            "x": false
+        },
+        {
+            "category": "Lắng nghe hoàng hôn",
+            "id": 27606,
+            "x": false
+        },
+        {
+            "category": "Thu hồi xe",
+            "id": 27604,
+            "x": false
+        },
+        {
+            "category": "Tham lam là tốt",
+            "id": 27598,
+            "x": false
+        },
+        {
+            "category": "Đánh rắm cầu vồng",
+            "id": 27591,
+            "x": false
+        },
+        {
+            "category": "Chăn an ủi",
+            "id": 27569,
+            "x": false
+        },
+        {
+            "category": "Nghệ sĩ giải trí trên du thuyền",
+            "id": 27557,
+            "x": false
+        },
+        {
+            "category": "Có hạt đậu trong mũi",
+            "id": 27552,
+            "x": false
+        },
+        {
+            "category": "Mũ chứa đầy kem dưỡng da",
+            "id": 27546,
+            "x": false
+        },
+        {
+            "category": "Thị trưởng Thị trấn Tiệc Tùng",
+            "id": 27541,
+            "x": false
+        },
+        {
+            "category": "Nhổ nước bọt lên tờ tiền",
+            "id": 27534,
+            "x": false
+        },
+        {
+            "category": "Bị đuổi sau đêm mặn nồng",
+            "id": 27533,
+            "x": true
+        },
+        {
+            "category": "Tôi gặm luôn cả xương!",
+            "id": 27530,
+            "x": false
+        },
+        {
+            "category": "Ảnh kỷ yếu",
+            "id": 27527,
+            "x": false
+        },
+        {
+            "category": "Trùm bùn đất",
+            "id": 27525,
+            "x": false
+        },
+        {
+            "category": "Cận cảnh rốn",
+            "id": 27522,
+            "x": false
+        },
+        {
+            "category": "Ngâm mình trong nước sốt",
+            "id": 27520,
+            "x": false
+        },
+        {
+            "category": "Chân tôi biến thành cái cào!",
+            "id": 27518,
+            "x": false
+        },
+        {
+            "category": "Tỷ phú lập dị",
+            "id": 27516,
+            "x": false
+        },
+        {
+            "category": "Em bé tiều phu",
+            "id": 27514,
+            "x": false
+        },
+        {
+            "category": "Chiếc áo phao đẹp mắt",
+            "id": 27507,
+            "x": false
+        },
+        {
+            "category": "Nhảm nhí",
+            "id": 27504,
+            "x": false
+        },
+        {
+            "category": "Voldemort đi hái táo",
+            "id": 27500,
+            "x": false
+        },
+        {
+            "category": "Hồn ma ợ hơi",
+            "id": 27498,
+            "x": false
+        },
+        {
+            "category": "Trị liệu tâm lý cặp đôi",
+            "id": 27491,
+            "x": true
+        },
+        {
+            "category": "Chết vì kèn túi",
+            "id": 27483,
+            "x": false
+        },
+        {
+            "category": "Dị ứng với không khí",
+            "id": 27478,
+            "x": false
+        },
+        {
+            "category": "Thợ cơ khí ngựa",
+            "id": 27476,
+            "x": false
+        },
+        {
+            "category": "Mơ thấy đĩa salad",
+            "id": 27469,
+            "x": false
+        },
+        {
+            "category": "Miệng đầy bi",
+            "id": 27465,
+            "x": false
+        },
+        {
+            "category": "Chiến tranh kẹo ngọt",
+            "id": 27461,
+            "x": false
+        },
+        {
+            "category": "Dạ hội goth",
+            "id": 27452,
+            "x": true
+        },
+        {
+            "category": "Cái vòng lắc hông này đang giết tôi",
+            "id": 27445,
+            "x": false
+        },
+        {
+            "category": "Trai hư trong dàn hợp xướng",
+            "id": 27444,
+            "x": false
+        },
+        {
+            "category": "Sinh đôi cưới sinh đôi",
+            "id": 27438,
+            "x": false
+        },
+        {
+            "category": "Sushi phát nổ",
+            "id": 27421,
+            "x": false
+        },
+        {
+            "category": "Bể bơi đầy salad",
+            "id": 27414,
+            "x": false
+        },
+        {
+            "category": "Sống trong xác con voi",
+            "id": 27410,
+            "x": true
+        },
+        {
+            "category": "Gửi rác lên Mặt Trời",
+            "id": 27394,
+            "x": false
+        },
+        {
+            "category": "Cuộc chiến thịt bò",
+            "id": 27386,
+            "x": false
+        },
+        {
+            "category": "Cà phê nhạt",
+            "id": 27382,
+            "x": false
+        },
+        {
+            "category": "Này, người đàn ông có đôi tai voi kìa!",
+            "id": 27377,
+            "x": false
+        },
+        {
+            "category": "Tranh hang động ngớ ngẩn",
+            "id": 27369,
+            "x": false
+        },
+        {
+            "category": "Ngửi bánh taco",
+            "id": 27368,
+            "x": false
+        },
+        {
+            "category": "La hét vào bàn chải đánh răng",
+            "id": 27363,
+            "x": false
+        },
+        {
+            "category": "Đêm hội anh em!",
+            "id": 27351,
+            "x": false
+        },
+        {
+            "category": "Video triệu view",
+            "id": 27321,
+            "x": false
+        },
+        {
+            "category": "Phun nước vì sốc",
+            "id": 27319,
+            "x": false
+        },
+        {
+            "category": "Thuyền trực thăng",
+            "id": 27313,
+            "x": false
+        },
+        {
+            "category": "Người yêu vụng về",
+            "id": 27308,
+            "x": true
+        },
+        {
+            "category": "Khiêu vũ trong đêm",
+            "id": 27301,
+            "x": false
+        },
+        {
+            "category": "Bí mật",
+            "id": 27280,
+            "x": false
+        },
+        {
+            "category": "Cùng chuyến bay với Danny DeVito",
+            "id": 27279,
+            "x": false
+        },
+        {
+            "category": "Giấc mơ trong cơn sốt",
+            "id": 27274,
+            "x": false
+        },
+        {
+            "category": "Bảo tàng lạc",
+            "id": 27247,
+            "x": false
+        },
+        {
+            "category": "Mũ tã lót",
+            "id": 27222,
+            "x": false
+        },
+        {
+            "category": "Vỗ tay chậm rãi",
+            "id": 27220,
+            "x": false
+        },
+        {
+            "category": "Bánh quy may mắn rừng rợn",
+            "id": 27197,
+            "x": false
+        },
+        {
+            "category": "Màn hình xanh",
+            "id": 27179,
+            "x": false
+        },
+        {
+            "category": "Nghề tay trái",
+            "id": 27172,
+            "x": false
+        },
+        {
+            "category": "Hối hận sau khi mua",
+            "id": 27167,
+            "x": false
+        },
+        {
+            "category": "Không khí",
+            "id": 27157,
+            "x": false
+        },
+        {
+            "category": "Chiếc chăn bông xấu xí",
+            "id": 27147,
+            "x": false
+        },
+        {
+            "category": "Cỗ máy thời gian hỏng",
+            "id": 27139,
+            "x": false
+        },
+        {
+            "category": "Ngủ chung với chuột túi",
+            "id": 27137,
+            "x": false
+        },
+        {
+            "category": "Thắt lưng ngọc trai",
+            "id": 27135,
+            "x": false
+        },
+        {
+            "category": "Hoàng tử rùng rợn",
+            "id": 27125,
+            "x": false
+        },
+        {
+            "category": "Hoang tưởng",
+            "id": 27122,
+            "x": false
+        },
+        {
+            "category": "Bạn gái ảo",
+            "id": 27114,
+            "x": true
+        },
+        {
+            "category": "Hộp đầy băng gạc đã qua sử dụng",
+            "id": 27107,
+            "x": false
+        },
+        {
+            "category": "Quản gia khổng lồ",
+            "id": 27105,
+            "x": false
+        },
+        {
+            "category": "Kẻ gây rối",
+            "id": 27079,
+            "x": false
+        },
+        {
+            "category": "Sờ soạng từ phía sau",
+            "id": 27069,
+            "x": true
+        },
+        {
+            "category": "Xà phòng sang chảnh",
+            "id": 27068,
+            "x": false
+        },
+        {
+            "category": "Thực hành hôn",
+            "id": 27059,
+            "x": true
+        },
+        {
+            "category": "Khớp ngón tay",
+            "id": 27032,
+            "x": false
+        },
+        {
+            "category": "Sư tử với vòng ba chảy xệ",
+            "id": 27029,
+            "x": true
+        },
+        {
+            "category": "Lỡ chớp mắt rồi!",
+            "id": 27018,
+            "x": false
+        },
+        {
+            "category": "Quả bóng bowling lơ lửng",
+            "id": 27003,
+            "x": false
+        },
+        {
+            "category": "Dân nhạc kịch",
+            "id": 26999,
+            "x": false
+        },
+        {
+            "category": "Gối đeo kính râm",
+            "id": 26997,
+            "x": false
+        },
+        {
+            "category": "Mơ về người đàn ông nhàm chán",
+            "id": 26983,
+            "x": false
+        },
+        {
+            "category": "Mất trí nhớ",
+            "id": 26978,
+            "x": false
+        },
+        {
+            "category": "Doanh nhân phong cách Punk",
+            "id": 26974,
+            "x": false
+        },
+        {
+            "category": "Dơi trong lò nướng",
+            "id": 26945,
+            "x": false
+        },
+        {
+            "category": "Cơn hoảng loạn",
+            "id": 26943,
+            "x": false
+        },
+        {
+            "category": "Mồ hôi lưng",
+            "id": 26940,
+            "x": false
+        },
+        {
+            "category": "Học sinh chuyên",
+            "id": 26936,
+            "x": false
+        },
+        {
+            "category": "Những con gấu mèo nhìn chằm chằm",
+            "id": 26926,
+            "x": false
+        },
+        {
+            "category": "Mận khô",
+            "id": 26913,
+            "x": false
+        },
+        {
+            "category": "Nhổ nước bọt vào bánh burger",
+            "id": 26901,
+            "x": false
+        },
+        {
+            "category": "Rắn hổ mang béo phì",
+            "id": 26881,
+            "x": false
+        },
+        {
+            "category": "Quả dứa phát nổ",
+            "id": 26874,
+            "x": false
+        },
+        {
+            "category": "Hai bố con im lặng xem trận bóng chày",
+            "id": 26870,
+            "x": false
+        },
+        {
+            "category": "Người đọc suy nghĩ",
+            "id": 26860,
+            "x": false
+        },
+        {
+            "category": "Điệu nhảy tuyệt mật",
+            "id": 26851,
+            "x": false
+        },
+        {
+            "category": "Dịch chấy ở trường",
+            "id": 26845,
+            "x": false
+        },
+        {
+            "category": "Quần jean ống rộng",
+            "id": 26836,
+            "x": false
+        },
+        {
+            "category": "Vợ tôi!",
+            "id": 26834,
+            "x": false
+        },
+        {
+            "category": "Thời tiết giả",
+            "id": 26789,
+            "x": false
+        },
+        {
+            "category": "Vòi xịt đít",
+            "id": 26785,
+            "x": true
+        },
+        {
+            "category": "Thị trưởng sún răng",
+            "id": 26771,
+            "x": false
+        },
+        {
+            "category": "Làm rơi kính áp tròng",
+            "id": 26749,
+            "x": false
+        },
+        {
+            "category": "Phiên tòa ban đêm",
+            "id": 26730,
+            "x": false
+        },
+        {
+            "category": "Bánh sinh nhật mốc meo",
+            "id": 26725,
+            "x": false
+        },
+        {
+            "category": "Sưu tầm lông mũi",
+            "id": 26720,
+            "x": false
+        },
+        {
+            "category": "Chuyện tình kỳ quặc",
+            "id": 26701,
+            "x": false
+        },
+        {
+            "category": "Nhân viên sở thú bất tài",
+            "id": 26649,
+            "x": false
+        },
+        {
+            "category": "Ác quỷ hắt hơi",
+            "id": 26640,
+            "x": true
+        },
+        {
+            "category": "Khóc dưới vòi hoa sen",
+            "id": 26635,
+            "x": false
+        },
+        {
+            "category": "Phép màu",
+            "id": 26621,
+            "x": false
+        },
+        {
+            "category": "Nước hoa cho chó",
+            "id": 26572,
+            "x": false
+        },
+        {
+            "category": "Độc tấu kèn harmonica",
+            "id": 26548,
+            "x": false
+        },
+        {
+            "category": "Ca sĩ opera có đôi cánh rồng",
+            "id": 26489,
+            "x": false
+        },
+        {
+            "category": "Bạn thân của Chúa",
+            "id": 26488,
+            "x": false
+        },
+        {
+            "category": "Ngọn hải đăng xíu xiu",
+            "id": 26454,
+            "x": false
+        },
+        {
+            "category": "Ăn một quả thông",
+            "id": 26448,
+            "x": false
+        },
+        {
+            "category": "Pinata đầy ong",
+            "id": 26445,
+            "x": false
+        },
+        {
+            "category": "Bác sĩ thế kỷ 19",
+            "id": 26429,
+            "x": false
+        },
+        {
+            "category": "Khăn quàng khổng lồ",
+            "id": 26416,
+            "x": false
+        },
+        {
+            "category": "Wu-Tang Clan",
+            "id": 26400,
+            "x": true
+        },
+        {
+            "category": "Giả vờ nôn mửa",
+            "id": 26375,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông mang giày trượt lái xe đạp",
+            "id": 26345,
+            "x": false
+        },
+        {
+            "category": "Sữa lắc từ cây sữa lắc",
+            "id": 26336,
+            "x": false
+        },
+        {
+            "category": "Cao bồi có gu thời trang",
+            "id": 26316,
+            "x": false
+        },
+        {
+            "category": "Cây cối mặn nồng ân ái",
+            "id": 26313,
+            "x": true
+        },
+        {
+            "category": "Du thuyền ma",
+            "id": 26309,
+            "x": false
+        },
+        {
+            "category": "Nhà giàu mới nổi",
+            "id": 26283,
+            "x": false
+        },
+        {
+            "category": "Nuôi con không can thiệp",
+            "id": 26282,
+            "x": false
+        },
+        {
+            "category": "Lady Gaga vs Superman",
+            "id": 26276,
+            "x": false
+        },
+        {
+            "category": "Địa ngục không có sóng điện thoại",
+            "id": 26258,
+            "x": true
+        },
+        {
+            "category": "Ý nghĩa cuộc sống",
+            "id": 26248,
+            "x": false
+        },
+        {
+            "category": "Ngày làm bơ vui vẻ",
+            "id": 26146,
+            "x": false
+        },
+        {
+            "category": "Mình tiêu đời rồi!",
+            "id": 26107,
+            "x": false
+        },
+        {
+            "category": "Cây đàn guitar bị nguyền rủa",
+            "id": 26096,
+            "x": false
+        },
+        {
+            "category": "Chấm hai lần",
+            "id": 26093,
+            "x": false
+        },
+        {
+            "category": "Tôi ghét đám hàng xóm",
+            "id": 26049,
+            "x": false
+        },
+        {
+            "category": "Thôi được, tôi sẽ dùng màu thứ hai",
+            "id": 37951,
+            "x": false
+        },
+        {
+            "category": "Người đàn ông đi quá giới hạn",
+            "id": 37950,
+            "x": false
+        },
+        {
+            "category": "Mặt trời đang ở trong nhà!",
+            "id": 37949,
+            "x": false
+        },
+        {
+            "category": "Nông dân cày đêm",
+            "id": 37948,
+            "x": false
+        },
+        {
+            "category": "Ngồi. Ăn áo. Vui vẻ.",
+            "id": 37947,
+            "x": false
+        },
+        {
+            "category": "Hội nữ sinh buồn thiu",
+            "id": 37076,
+            "x": false
+        },
+        {
+            "category": "Chúa tự cắt tóc cho mình",
+            "id": 37075,
+            "x": true
+        },
+        {
+            "category": "Tôi yêu kéo!",
+            "id": 37074,
+            "x": false
+        },
+        {
+            "category": "Tôi muốn gặp quản lý",
+            "id": 37073,
+            "x": false
+        },
+        {
+            "category": "Chữ M đang rơi",
+            "id": 37004,
+            "x": false
+        },
+        {
+            "category": "Ngựa nằm dưới ngựa",
+            "id": 37003,
+            "x": false
+        },
+        {
+            "category": "cứu hộ chưa xong",
+            "id": 37002,
+            "x": false
+        },
+        {
+            "category": "cục phân này có mùi như gà",
+            "id": 36631,
+            "x": true
+        },
+        {
+            "category": "mũi tên chỉ thức ăn đi vào miệng",
+            "id": 36630,
+            "x": false
+        },
+        {
+            "category": "bị những thanh kiếm bay chém làm đôi",
+            "id": 36628,
+            "x": false
+        },
+        {
+            "category": "nửa dở, nửa tệ",
+            "id": 36625,
+            "x": false
+        },
+        {
+            "category": "ăn salad thỏa thích",
+            "id": 36624,
+            "x": false
+        },
+        {
+            "category": "ném tiền vào lò sưởi",
+            "id": 36623,
+            "x": false
+        },
+        {
+            "category": "tôi đang theo dõi đấy, anh bạn",
+            "id": 36219,
+            "x": false
+        },
+        {
+            "category": "ác mộng của nhân viên cứu hộ",
+            "id": 36218,
+            "x": false
+        },
+        {
+            "category": "nghĩa trang tẻ nhạt",
+            "id": 36217,
+            "x": true
+        },
+        {
+            "category": "Mấy bông hoa này mùi kinh quá",
+            "id": 35782,
+            "x": false
+        },
+        {
+            "category": "ngựa lùn là đồ bỏ đi",
+            "id": 35779,
+            "x": true
+        },
+        {
+            "category": "Con kỳ lân đó gầy quá",
+            "id": 35778,
+            "x": false
+        },
+        {
+            "category": "Ị lên đầu con mèo",
+            "id": 35777,
+            "x": true
+        },
+        {
+            "category": "phù thủy xyanua",
+            "id": 25986,
+            "x": true
+        },
+        {
+            "category": "Người đưa thư nhảy breakdance",
+            "id": 25913,
+            "x": false
+        },
+        {
+            "category": "Ăn quá nhiều kẹo",
+            "id": 25934,
+            "x": false
+        },
+        {
+            "category": "Chó Poodle du hành thời gian",
+            "id": 25933,
+            "x": false
+        },
+        {
+            "category": "Chiếc võng gợi cảm",
+            "id": 25932,
+            "x": true
+        },
+        {
+            "category": "Chiếc lưỡi nhỏ xíu",
+            "id": 25931,
+            "x": false
+        },
+        {
+            "category": "Zuma",
+            "id": 25926,
+            "x": false
+        },
+        {
+            "category": "Đánh rắm ra laser",
+            "id": 25924,
+            "x": true
+        },
+        {
+            "category": "bơ đậu phộng trong rốn",
+            "id": 25923,
+            "x": false
+        },
+        {
+            "category": "Hôn anh chị em họ",
+            "id": 25922,
+            "x": true
+        },
+        {
+            "category": "Đụng chạm sờ mó",
+            "id": 25921,
+            "x": true
+        },
+        {
+            "category": "Ăn để giải sầu",
+            "id": 25919,
+            "x": false
+        },
+        {
+            "category": "Mang thai gấu mèo",
+            "id": 25916,
+            "x": true
+        },
+        {
+            "category": "Nôn ngược",
+            "id": 25914,
+            "x": true
+        }
+    ],
+    "episodeid": 1239
+}

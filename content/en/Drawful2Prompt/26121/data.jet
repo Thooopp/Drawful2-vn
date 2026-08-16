@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gối bê tông",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Cement pillow|concreat pillow",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "No, I am not reading this sleeping with the fishes joke.",
+            "t": "A",
+            "v": "436118_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

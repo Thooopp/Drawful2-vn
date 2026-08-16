@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lưới râu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mustach net|a mustache net",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

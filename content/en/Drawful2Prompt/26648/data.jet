@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mấy cô nàng xấu tính",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "meen girls|mean gurls",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

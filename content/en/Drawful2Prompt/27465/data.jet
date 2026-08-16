@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Miệng đầy bi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mouthful of marbles|a mouth full of marbles|mouth ful of marbles",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

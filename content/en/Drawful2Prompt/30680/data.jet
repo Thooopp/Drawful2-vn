@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đảm bảo không phải là xích đu tình dục",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "definitley not a sex swing|definitely not a sexswing",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Yep, nope. Definitely not.",
+            "t": "A",
+            "v": "450293_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người đàn ông đuổi theo đuôi mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a man chasing his tail|man chasing his own tail|a man chasing his own tail",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

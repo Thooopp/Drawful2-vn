@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dị ứng pizza",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pizza alergy|piza alergy|piza allergy|a pizza allergy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

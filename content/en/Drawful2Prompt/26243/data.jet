@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bồn tắm nước nóng khó xử",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "akward hot tub|awkward hutub|an awkward hot tub|a awkward hot tub|awkward hottub",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "The alternate title to About Schmidt.",
+            "t": "A",
+            "v": "436487_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

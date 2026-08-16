@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người yêu vụng về",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a clumsy lover",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

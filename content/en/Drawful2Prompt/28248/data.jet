@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người bạn tệ nhất của con người",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mans worst friend|mans worst freind|man’s worst freind",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

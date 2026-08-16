@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nuôi con không can thiệp",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Hands-off parenting|Hands off parent",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I practice the ultimate hands off parenting, in that I don’t actually have children to begin with.",
+            "t": "A",
+            "v": "436604_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

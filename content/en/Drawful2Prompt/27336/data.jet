@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hòa bình thế giới",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "world piece|worldpeace|world-peace",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

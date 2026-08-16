@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dị ứng với áo sơ mi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "alergic to shirts|allergic 2 shirts|alergic 2 shirts|alergic to shirts|allergy to shirts",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

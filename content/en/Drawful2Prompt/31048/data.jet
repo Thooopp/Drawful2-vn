@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thắng cả cõi mạng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "win the internet",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I’m not convinced there are any winners on the internet.",
+            "t": "A",
+            "v": "451400_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

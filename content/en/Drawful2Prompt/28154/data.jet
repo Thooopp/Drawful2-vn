@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hình xăm thắt lưng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lower-back tatoo|lower-back tattoo|low back tattoo|low back tatoo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

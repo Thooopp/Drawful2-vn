@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mình tiêu đời rồi!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Im ruined|I’m ruind|I am ruined!|I am ruined|I’m ruined",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Aww, those were my first words as a baby.",
+            "t": "A",
+            "v": "436076_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

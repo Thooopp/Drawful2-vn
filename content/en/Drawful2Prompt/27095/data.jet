@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dụng cụ cứu hộ thủy lực",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "jws of life|jaws of live|the jaws of life",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

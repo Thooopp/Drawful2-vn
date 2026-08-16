@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thị trường chứng khoán sụp đổ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "stockmarket crash",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

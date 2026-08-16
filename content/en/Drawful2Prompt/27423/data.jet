@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "người máy tan chảy",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "meltting robot|a melting robot",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

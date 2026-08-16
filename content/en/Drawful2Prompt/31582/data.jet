@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "mọi con hải cẩu đều lên thiên đàng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "seals go to heaven|seals in heaven|seal heaven|a seal in heaven",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Walruses, however, are f#$&%*!",
+            "t": "A",
+            "v": "453002_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

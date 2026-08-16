@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tiệc áo len xấu xí",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "an ugly sweater party",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

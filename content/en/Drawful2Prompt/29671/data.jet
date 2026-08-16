@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cây búa tạ của bố",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dads smashin hammer|dad’s smashin hammer|dads smashing hammer|fathers smashin hammer|father’s smashin hammer|fathers smashing hammer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

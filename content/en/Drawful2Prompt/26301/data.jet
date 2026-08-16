@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đồ lót gây thất vọng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "disapointing underwear|disappointing underware|dissapointing underwer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

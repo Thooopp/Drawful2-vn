@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lực hấp dẫn của Mặt Trăng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the moons gravetational pull|The moon’s gravetational pull|The moons gravitational pull",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

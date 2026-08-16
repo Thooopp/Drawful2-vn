@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mái tóc kẹo bông",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cottoncandy hair|hair of cotton candy|hair of cottoncandy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

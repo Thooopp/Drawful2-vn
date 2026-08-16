@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trang phục công sở thoải mái",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "business casaul|busines casual",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "đeo thiết bị nghe lén",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "waring a wire",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

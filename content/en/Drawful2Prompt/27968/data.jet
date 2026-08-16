@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Frankenstein ngầm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "under cover Frankenstein|undercover franknstein|frankenstein undercover",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cao bồi có gu thời trang",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cowboy with good fashion snse|cowboy with good fashion-sense|a cowboy with good fashion sense|a cowboy with a good fashion sense|cowboy with a good fashion sense",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "It’s all about knowing which chaps are in season.",
+            "t": "A",
+            "v": "436706_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

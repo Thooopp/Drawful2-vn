@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chụp ảnh tự sướng mỏ vịt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "selfy duck face|selfie duckface",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

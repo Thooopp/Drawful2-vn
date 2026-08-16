@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "bắt chước Donald Trump",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "my Steve Martin impresion",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

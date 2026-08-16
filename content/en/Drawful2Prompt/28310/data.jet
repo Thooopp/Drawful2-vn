@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mát xa mạnh tay",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ruff massage|rough masage",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

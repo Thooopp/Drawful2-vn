@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Không có sự riêng tư",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "no privicy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

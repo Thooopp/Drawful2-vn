@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Món tối ăn cho bữa sáng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "diner for breakfast|dinner for break fast",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

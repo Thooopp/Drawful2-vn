@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "mọi người đều cắm mặt vào điện thoại",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "every body is looking at the phone|everybody’s looking at the phone|everybodys looking at the phone|every bodys looking at the phone",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Giấc mơ trong cơn sốt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "feverdream|a fever dream",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

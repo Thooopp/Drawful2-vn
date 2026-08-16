@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đập tay hụt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "missing on a high-five|missed high-five|missed high 5|missed high-5",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "If you’re trying to do a high five, look at the elbow. I cannot stress that enough.",
+            "t": "A",
+            "v": "442112_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

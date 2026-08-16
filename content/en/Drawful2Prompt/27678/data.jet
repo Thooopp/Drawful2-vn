@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bạch tuộc một xúc tu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "one-armed octopus|one arm octopus|one-arm octopus|an one armed octopus|a one armed octopus|an one-armed octopus|a one-armed octopus",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

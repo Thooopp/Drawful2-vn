@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "hình phản chiếu trên lưỡi dao",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a reflection in a nife|reflection in a knife",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

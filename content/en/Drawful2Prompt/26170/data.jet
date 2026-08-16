@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "nói chuyện lúc đứng tiểu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "talk at the urinal|talkin at the urinal",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I assume that’s a thing?",
+            "t": "A",
+            "v": "436268_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

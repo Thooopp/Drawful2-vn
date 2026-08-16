@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phẫu thuật ghép đầu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "head trans plant",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kẹo bơ cứng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "butter scotch|buterscotch|butterscoch|buterschoch|butterschotch|butterschoch",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

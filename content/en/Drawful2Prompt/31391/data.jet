@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Niềm vui của thủy thủ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sailors delight|a sailor’s delight",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Booze. You just gotta draw booze.",
+            "t": "A",
+            "v": "452429_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "U50 phong độ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fabulous after fifty|faboulous after 50|faboulous after fifty",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

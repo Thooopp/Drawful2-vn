@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "xem kịch ứng tác",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "watching a improv show|watching an improve show|watch an improv show",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

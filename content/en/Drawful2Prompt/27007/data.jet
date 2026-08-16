@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mục tiêu năm mới",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "new year’s resolution|a new years resolution|newyears resolution|newyear’s resolution",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bay dù lượn qua hiện trường vụ án",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hang glider over a murder|hangliding over a murder",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

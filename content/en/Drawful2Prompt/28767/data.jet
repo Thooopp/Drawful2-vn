@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người đàn ông cầm củ cà rốt khổng lồ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "man holding a giant carot|a man holding giant carot|a man holding a giant carot|a man holding giant carrot|a man holding a giant carrot|man holding a giant carrot",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

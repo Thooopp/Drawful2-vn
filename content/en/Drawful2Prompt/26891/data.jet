@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bí ý tưởng sáng tác",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "writers block|writers blok|writer’s blok|writers bloc|writer’s bloc",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I can’t think of a funny response for this one.",
+            "t": "A",
+            "v": "438431_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

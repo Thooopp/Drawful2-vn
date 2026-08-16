@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hình tam giác trên thuyền",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "triangle on a boat|triangle on boat|triangles on boat",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

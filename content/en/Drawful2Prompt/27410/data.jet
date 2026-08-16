@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sống trong xác con voi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "living inside a dead elephant|I live inside of a dead elephant",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

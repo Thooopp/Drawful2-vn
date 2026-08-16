@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhổ nước bọt vào bánh burger",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "spit in hamburger|spit in a ham burger|spit in a burger",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mọi người cùng hắt hơi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "every body sneezes|every person sneezes",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

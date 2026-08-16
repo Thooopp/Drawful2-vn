@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nước sốt bốc mùi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "stinky gravy|this gravy smells|this gravy stinks",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

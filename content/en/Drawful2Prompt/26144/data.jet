@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phẫu thuật bằng đũa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "surgary with chopsticks|surgery with chop sticks",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

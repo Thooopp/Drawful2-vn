@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kem dưỡng núm vú",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "niple cream|nipple creme",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

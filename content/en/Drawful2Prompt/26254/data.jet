@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chú lạc đà trầm cảm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "depressed lama|sad llama|a depressed llama",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

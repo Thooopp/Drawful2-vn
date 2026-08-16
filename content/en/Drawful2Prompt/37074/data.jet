@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi yêu kéo!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "I love scissors|love scissors!|love scissors|I like scissors|I love sissors|I love scissers|I love scisers",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

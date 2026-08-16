@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nghệ nhân thổi thủy tinh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "glas blower|glassblower|a glass blower",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

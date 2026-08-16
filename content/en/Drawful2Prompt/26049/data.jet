@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi ghét đám hàng xóm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "I hate the neghbors|I hate the neigbors|I hate the neibors|I hate the nabors|hate the neighbors|hate the neighbor",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

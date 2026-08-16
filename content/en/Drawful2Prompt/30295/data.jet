@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nửa người nửa xe ủi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "half-man half-bulldozer|half man half bull dozer|half-man half-bull dozer|half man, half bulldozer|half-man, half-bulldozer|half man, half bull dozer|half-man, half-bull dozer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

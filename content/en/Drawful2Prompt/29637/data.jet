@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kẻ giả mạo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "impaster|an imposter",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

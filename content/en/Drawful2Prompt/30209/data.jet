@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cuộc sống mới ở Bắc Cực",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "new life in Alaska",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

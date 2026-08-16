@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kỳ trăng mật đã kết thúc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the honey moon is over|honeymoon is over|honey moon is over|the honeymoon’s over|the honey moon’s over|honeymoon’s over|honey moon’s over|the honeymoons over|the honey moons over|honeymoons over|honey moons over",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lạp xưởng đông đá",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "frozen salemi|a frozen salami",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

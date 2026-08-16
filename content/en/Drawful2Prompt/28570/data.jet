@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "tuxedo mùa hè",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "summer tux|summer tuxdo|a summer tuxedo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hét vào một quả đào",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "screaming at a peach|yelling at a peech",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

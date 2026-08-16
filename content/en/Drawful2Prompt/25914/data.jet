@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nôn ngược",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "nôn mửa ngược|nôn ói ngược|ói ngược",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

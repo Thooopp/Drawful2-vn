@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dịch vụ hát mừng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "singing telagram|singing tele-gram",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

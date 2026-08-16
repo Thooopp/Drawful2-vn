@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "bố mẹ làm mất mặt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "emberassing parents|embarassing parents|embarrasing parents",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

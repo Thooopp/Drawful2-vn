@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thâu tóm thù địch",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hostile take over|a hostile takeover",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

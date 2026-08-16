@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người tuyết bằng bùn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mud snow man|mud snow-man|a mud snowman",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

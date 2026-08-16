@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chúa tự cắt tóc cho mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "god gives himself a haircut|god haircut|god giving himself haircut|god gives himself haircut",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

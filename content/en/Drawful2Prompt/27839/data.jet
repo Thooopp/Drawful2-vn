@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hồ bơi nhỏ xíu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tiny swiming pool",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

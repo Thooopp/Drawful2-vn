@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ảnh trước đó",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the before pic|before picture",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

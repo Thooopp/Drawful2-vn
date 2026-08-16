@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hơi thở có mùi cà phê",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "coffe breathe|cofee breathe|coffe breath|cofee breath|coffee breathe",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

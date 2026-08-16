@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hẻm núi Grand Canyon đầy trứng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gran canyon full of eggs|the Grand Canyon full of eggs",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

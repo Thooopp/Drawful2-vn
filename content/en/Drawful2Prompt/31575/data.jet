@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vịnh hẹp",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a fjord|fjords|the fjord|the fjords",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

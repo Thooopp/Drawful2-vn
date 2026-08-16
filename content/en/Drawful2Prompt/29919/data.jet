@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xin lỗi, nhầm số",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sorry wrong number|sorry wrong #",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

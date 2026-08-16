@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sai sót y tế",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "medical melpractice|medical mal-practice",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

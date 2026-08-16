@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kẹo vô hạn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "unlimted candy|unlmited candy|un-limited candy|unlimited candi|unlmited candi|unlimted candy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

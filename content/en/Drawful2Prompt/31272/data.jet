@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trình chặn trang web",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "web site blocker|a website blocker",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

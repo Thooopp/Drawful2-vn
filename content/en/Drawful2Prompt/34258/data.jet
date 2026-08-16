@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "chỉ có đúng một người dự sinh nhật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "only 1person at my birthday party|only one person at my bday party|there’s only one person at my birthday party",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Based on a true story.",
+            "t": "A",
+            "v": "471560_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mũ chứa đầy kem dưỡng da",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hatfull of lotion|hatful of lotion|a hat full of lotion",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

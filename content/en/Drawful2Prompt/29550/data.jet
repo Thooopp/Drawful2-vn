@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cửa sổ dán kính màu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tented windows",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thứ gây ám ảnh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "night mare fuel|night-mare fuel",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chiếc mũ may mắn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "luckey hat|lucy hat|luky hat",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đại bàng cầm một chiếc thìa gỗ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "an eagle holding a wooden spoon|eagle holding a wood spoon",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

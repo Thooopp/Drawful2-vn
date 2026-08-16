@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "xin lỗi qua loa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sory not sory|sorry not sory|sory not sorry",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

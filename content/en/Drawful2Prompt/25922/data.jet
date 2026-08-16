@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hôn anh chị em họ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hôn anh họ|hôn chị họ|hôn em họ|hôn anh em họ|hôn chị em họ|hôn anh chị họ",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "What? What that’s gross! No! I never! Who told... what? Who? No! That’s... that’s ridiculous!",
+            "t": "A",
+            "v": "435444_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

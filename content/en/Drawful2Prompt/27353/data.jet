@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Túi toàn lá kinh giới tây",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "this bag is full of oregeno!|this bag is full of oregano|this bags full of oregano|this bag’s full of oregano|this bags full of oregano!|this bag’s full of oregano!",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

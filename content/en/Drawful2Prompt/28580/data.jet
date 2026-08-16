@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trận chiến ngô",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a corn fight",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

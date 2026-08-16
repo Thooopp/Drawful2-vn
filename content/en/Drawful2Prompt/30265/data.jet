@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhịn đánh rắm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hold in a fart|hold in fart",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

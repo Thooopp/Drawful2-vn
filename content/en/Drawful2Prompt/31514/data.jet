@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cá hồi hun khói",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "smokin salmon|smoked salmon|smoking salmen|smoked salmen|smoking samon",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

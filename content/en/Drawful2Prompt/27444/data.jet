@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trai hư trong dàn hợp xướng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bad boys of the choir|the bad boys of the choir|the bad boys of choir",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "tất cả bức ảnh của tôi đều ở trên mây",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "all my pics are in the cloud|all of my pictures are in the cloud|all of my pics are in the cloud|my pictures are in the cloud",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

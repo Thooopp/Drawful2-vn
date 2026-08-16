@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngọn hải đăng xíu xiu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tiny light house|a tiny lighthouse",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

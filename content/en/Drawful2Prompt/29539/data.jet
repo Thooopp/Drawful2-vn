@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đừng sợ. Chạm vào không sao đâu.",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "trust me, it’s safe to touch.|trust me, it’s safe to touch|trust me. it’s safe to touch|trust me it’s safe to touch.|trust me it’s safe to touch|trust me. it is safe to touch.|trust me, it is safe to touch.|trust me it is safe to touch.|trust me it is safe to touch",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

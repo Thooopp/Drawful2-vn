@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quay đầu lại và ho",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "turn ur head and cough|turn your head & cough",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

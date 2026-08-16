@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nghề tay trái",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "2nd job|second-job",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

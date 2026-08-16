@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dân New York lịch sự",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a polite New Yorker|polite NewYorker",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

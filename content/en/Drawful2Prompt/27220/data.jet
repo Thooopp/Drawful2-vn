@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vỗ tay chậm rãi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "slow-clap|a slow clap",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vô tình chạm mắt người lạ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "accidentaly making eye contact with a stranger|accidentily making eye contact with a stranger|accidentally making eye contact with a stranger|accidentally making eye contact with stranger|accidentally make eye contact with a stranger",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "The pain is so real.",
+            "t": "A",
+            "v": "443282_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

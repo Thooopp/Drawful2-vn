@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Britney Spears cưỡi đại bàng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "britney speers riding an eagle|brittany spears riding an eagle|britany speers riding an eagle|Britny Spears riding an eagle",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Now that is how Lord of the Rings should’ve ended.",
+            "t": "A",
+            "v": "443078_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

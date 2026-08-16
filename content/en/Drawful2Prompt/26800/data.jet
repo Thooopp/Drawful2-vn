@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bùa hộ mệnh ma thuật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "magic amlet|magic amuet|a magic amulet",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

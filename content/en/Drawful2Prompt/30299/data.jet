@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Râu quai nón",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "chin strap beard|chin-strap beard|a chinstrap beard",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

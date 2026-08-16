@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hai chấm to và một quả chuối",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "2 big dots and a banana|a banana and two big dots|a banana and 2 big dots|banana and two big dots|banana and dots|dots and banana",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

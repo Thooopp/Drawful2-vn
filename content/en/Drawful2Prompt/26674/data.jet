@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chương trình giải lao buồn bã",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sad half time show|sad half-time show|a sad halftime show|a sad half time show|a sad half-time show",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

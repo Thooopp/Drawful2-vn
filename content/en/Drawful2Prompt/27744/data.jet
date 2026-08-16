@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hộp sọ của Al Capone",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Capones skull|Capone’s skull|al capones skull",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

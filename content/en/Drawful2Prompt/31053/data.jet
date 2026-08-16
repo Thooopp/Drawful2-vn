@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Khó tiêu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "indigistion|indegestion",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

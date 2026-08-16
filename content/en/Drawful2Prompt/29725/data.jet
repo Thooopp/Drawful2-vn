@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phòng cách âm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sound proof room|a soundproof room",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

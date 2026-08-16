@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "con khủng long đeo cà vạt mảnh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dino waring a skinny tie|dino wearing a skinny tie",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "không đủ lương thực để sinh tồn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "not enough crops to surive|not enough crop to survive",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

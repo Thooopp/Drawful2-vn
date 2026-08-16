@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Con đường gạch vàng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the yellowbrick road|yellow brick road",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

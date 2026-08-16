@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bộ tuxedo có khóa dán",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "velcrow tuxedo|a Velcro tuxedo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

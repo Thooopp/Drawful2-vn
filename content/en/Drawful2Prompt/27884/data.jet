@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tranh tự họa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "self portrait|selfportrait|a self-portrait",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

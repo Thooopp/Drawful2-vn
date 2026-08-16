@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bánh quy khẩn cấp",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "emergencey cookie",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

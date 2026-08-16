@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cửa hàng thú cưng gian ác",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "evul pet store|evil petstore|an evil pet store|evil petstore",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

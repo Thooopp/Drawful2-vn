@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sở thú hipster",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hister zoo|hipstar zoo|a hipster zoo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

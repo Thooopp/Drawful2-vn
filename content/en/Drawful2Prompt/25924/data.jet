@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đánh rắm ra laser",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "đánh rắm ra tia laser|xì hơi ra laser|xì hơi ra tia laser|địt ra laser|địt ra tia laser",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "It’s the only way I can win at laser tag.",
+            "t": "A",
+            "v": "435450_1f",
+            "n": "JokeAudio"
+        }
+    ]
+}

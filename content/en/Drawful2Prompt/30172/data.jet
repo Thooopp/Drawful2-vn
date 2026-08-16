@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bánh chay",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vagen cake|vegen cake|a vegan cake",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

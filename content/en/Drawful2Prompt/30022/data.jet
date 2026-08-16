@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phim tài liệu về hàng rào",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "documentery about fences|doc about fences|a documentary about fences",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

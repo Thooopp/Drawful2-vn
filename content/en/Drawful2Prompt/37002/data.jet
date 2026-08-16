@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cứu hộ chưa xong",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "half lifeguard|half a lifegaurd|incomplete lifegaurd|a incomplete lifeguard|an incomplete lifeguard",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

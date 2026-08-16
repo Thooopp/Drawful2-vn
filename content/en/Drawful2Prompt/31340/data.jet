@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Từ trường Trái Đất",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "earths magnetic field|the earth’s magnetic field",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

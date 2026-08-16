@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bác sĩ ở thị trấn nhỏ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "smalltown doctor|small town dr|a small town doctor",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

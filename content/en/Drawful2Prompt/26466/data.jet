@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Medusa đi cắt tóc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "madusa getting a haircut",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

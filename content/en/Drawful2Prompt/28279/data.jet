@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Súng bắn bánh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Pi gun|a pie gun",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

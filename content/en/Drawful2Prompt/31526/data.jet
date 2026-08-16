@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tổng hợp các pha thể thao",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sports montege|montage of sports|a sports montage|sport montage",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Very inspiring stuff.",
+            "t": "A",
+            "v": "452834_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hình thoi nguệch ngoạc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "poorly drawn rombus|poorly drawn rhombus",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

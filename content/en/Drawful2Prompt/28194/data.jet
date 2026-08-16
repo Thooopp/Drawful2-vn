@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Batman nghèo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "poor Batmn|poor Bat-man|poor bat man",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

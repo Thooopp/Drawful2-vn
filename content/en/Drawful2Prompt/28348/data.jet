@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bắt tay bí mật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "secret hand shake|a secret handshake|a secret hand shake",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

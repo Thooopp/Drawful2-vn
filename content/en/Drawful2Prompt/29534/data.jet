@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Môn golf tương lai",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "futuristic golf|futuregolf",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Wow, still not interested in that.",
+            "t": "A",
+            "v": "446851_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nghiện tem",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "adictted to stamps|adicted to stamps",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

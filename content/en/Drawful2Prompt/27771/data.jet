@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cát lọt khe mông",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sand in a buttcrack|sand in an ass crack|sand in a asscrack|sand in butt crack|sand in ass crack|sand in buttcrack|sand in asscrack",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Leave it in there and you’ll make a pearl.",
+            "t": "A",
+            "v": "441071_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

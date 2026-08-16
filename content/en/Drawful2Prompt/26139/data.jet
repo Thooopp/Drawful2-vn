@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "sự trả thù của chim cánh cụt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "penguain revenge|penguan revenge",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "You better watch out, Morgan Freeman. You’re first on their list.",
+            "t": "A",
+            "v": "436172_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

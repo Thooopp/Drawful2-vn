@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Con gấu mèo hói",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bald racoon|bald raccon|bald rackoon|a bald raccoon",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

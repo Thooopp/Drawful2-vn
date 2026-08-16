@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cô gái trong phim The Ring",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "girl from The Ring|the girl from Ring",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "You officially have a week to live starting... now.",
+            "t": "A",
+            "v": "441920_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

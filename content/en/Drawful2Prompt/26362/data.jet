@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người có mắt là viên bi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "guy with marbles for eyes",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

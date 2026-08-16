@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mới tinh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mint condtion|mint conditon|mint-condition",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dự đám tang của chính mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "attendin my own funeral|attending my own funral",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "khoa học khiến tôi phát điên",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sience is making me crazy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

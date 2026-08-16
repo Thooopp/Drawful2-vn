@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quần bánh quy gừng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ginger bread pants|gingerbred pants",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

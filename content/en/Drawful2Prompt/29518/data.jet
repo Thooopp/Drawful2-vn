@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Túi đầy những điều ước",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a pocket full of wishes|pocketfull of wishes|pocketful of wishes",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

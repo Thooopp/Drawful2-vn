@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phán xét âm thầm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "silent judgment|a silent judgement",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Silent judgement. Kind of like what I’m doing now.",
+            "t": "A",
+            "v": "451439_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

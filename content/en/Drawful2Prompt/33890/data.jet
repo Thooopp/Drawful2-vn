@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "kia có phải là xe của tôi không?",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "is that my car",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

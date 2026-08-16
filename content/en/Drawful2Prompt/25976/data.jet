@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tiệc bò Tây Tạng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "yack party|yac party",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

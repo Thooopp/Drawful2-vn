@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sức mạnh bộ xương",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "skelton power",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

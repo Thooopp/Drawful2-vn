@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "con chồn hôi xinh xắn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "prety skunk|a pretty skunk",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

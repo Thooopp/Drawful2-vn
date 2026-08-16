@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quần không nhăn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "wrinkle-free pants|wrinklefree pants",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

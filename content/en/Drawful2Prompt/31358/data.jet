@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vòng quay ngựa gỗ ác mộng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "nightmare merrygoround|Nitemare merry go round|nightmare merry-go-round",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

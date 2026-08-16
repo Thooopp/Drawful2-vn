@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mật báo viên xã hội đen",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mật báo xã hội đen|mật báo mafia|mật báo viên mafia",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

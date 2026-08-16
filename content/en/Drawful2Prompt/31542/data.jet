@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đó không phải bác sĩ của tôi!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "thats not my doctor|that is not my doctor|that’s not my dr|that is not my dr|that’s not my dr.|that is not my dr.|that’s not my doctor|that is not my doctor!",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

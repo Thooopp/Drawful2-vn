@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bộ xương gớm ghiếc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gros bones",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

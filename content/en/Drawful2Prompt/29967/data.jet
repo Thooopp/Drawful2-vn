@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Súng phun lửa bị hỏng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "broken flame thrower|a broken flamethrower|a broken flame thrower",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

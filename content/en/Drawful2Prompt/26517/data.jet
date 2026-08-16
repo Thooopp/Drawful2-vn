@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vua cà rốt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "carret king|carot king|the carrot king",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

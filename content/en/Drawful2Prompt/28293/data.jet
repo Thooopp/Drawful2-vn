@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nuốt chửng hồn ma",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "swalowing a ghost|swallowing a gost",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

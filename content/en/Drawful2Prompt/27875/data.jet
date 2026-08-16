@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Toát mồ hôi vì ăn quá nhiều thịt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "meat sweat|the meat sweats|meatsweats",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Or, as I call it, pork-speration.",
+            "t": "A",
+            "v": "441383_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

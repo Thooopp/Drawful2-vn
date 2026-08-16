@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chàng cao bồi điển trai",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "beautiful cowboy|gorgeous cowboy|a pretty cowboy|pretty cow boy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

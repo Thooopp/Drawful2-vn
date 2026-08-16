@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nguyệt thực",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lunar eclips|luner eclipse|a lunar eclipse",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

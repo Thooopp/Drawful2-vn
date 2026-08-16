@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi không an tâm về người đi quá giang này",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "I’m not sure about this hitchiker|I’m not sure about this hitch hiker|im not sure about this hitchiker|im not sure about this hitchhiker|im not sure about this hitch hiker",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

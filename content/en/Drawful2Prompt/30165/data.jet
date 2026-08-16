@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhảy bao bố sinh tử",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "potato sack race to the death|a sack race to the death",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I think that’s how Alexander Hamilton died.",
+            "t": "A",
+            "v": "448748_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

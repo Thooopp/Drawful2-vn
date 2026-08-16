@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Răng của tôi là kẹo dẻo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "my teeth are jellybeans|teeth are jelly beans",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi đang hẹn hò với một con gà",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "im dating a chicken|I am dating a chicken|dating a chicken",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quá trời ngũ cốc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "so many cheerio|so many cherios",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hồn ma ợ hơi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a burping ghost|belching ghost",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

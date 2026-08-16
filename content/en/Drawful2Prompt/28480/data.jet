@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quá sớm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "To soon|2 soon",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "nhìn vào một cái lỗ bắn tia laser vào mắt bạn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "looking in a hole that shoots a lazer in your eye|looking in a hole that shoots a laser in ur eye|looking into a hole that shoots a laser in your eye|looking in a hole that shoots a laser into your eye|looking into a hole that shoots a laser into your eye|looking into a hole that shoots a lazer in your eye|looking in a hole that shoots a lazer into your eye|looking into a hole that shoots a lazer into your eye",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

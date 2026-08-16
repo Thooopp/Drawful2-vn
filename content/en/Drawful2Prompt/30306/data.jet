@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Turkey trong bowling",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "turky bowling|turkey bowlling",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cúp tham dự",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "particpation trophy|particapation trophy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

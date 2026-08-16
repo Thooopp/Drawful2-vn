@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bàn phím máy nướng bánh mì",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "toaster key board|a toaster keyboard",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

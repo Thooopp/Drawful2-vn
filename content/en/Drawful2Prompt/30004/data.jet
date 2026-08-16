@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bình shisha trong tưởng tượng của bạn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "what u think a hooka looks like|what you think a hookah looks like|what you think hookah looks like",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

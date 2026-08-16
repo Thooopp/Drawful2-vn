@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đập bể bong bóng suy nghĩ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "popped thought-bubble|poped thought bubble|a popped thought bubble|popped thought buble",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

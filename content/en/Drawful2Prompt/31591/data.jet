@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "chiếc áo miễn phí đổi đời tôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "this free t-shirt changed my life|this free shirt changed my life",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

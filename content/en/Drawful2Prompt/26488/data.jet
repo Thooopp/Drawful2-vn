@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bạn thân của Chúa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gods best friend",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

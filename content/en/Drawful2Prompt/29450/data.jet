@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "kính nóng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "botom hat",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Yep, I have no idea what that means either.",
+            "t": "A",
+            "v": "446599_1f",
+            "n": "JokeAudio"
+        }
+    ]
+}

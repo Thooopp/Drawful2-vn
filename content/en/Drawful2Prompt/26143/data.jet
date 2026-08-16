@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bikini thôi miên",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hipnotic bikini|hypnotic bikinni|hipnotic bikinni",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

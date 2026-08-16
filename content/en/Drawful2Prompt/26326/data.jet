@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngủ quên trong trận quyền Anh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "naping during a boxing match",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

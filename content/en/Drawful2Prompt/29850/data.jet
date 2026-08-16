@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi nghĩ là có rò rỉ khí gas",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "i think theres a gas leak|i think there is a gas leak|i think that there’s a gas leak|i think that there is a gas leak",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

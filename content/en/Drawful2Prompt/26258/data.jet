@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Địa ngục không có sóng điện thoại",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "no phone recepion in hell|no reception in hell|no cellphone reception in hell|no cell phone reception in hell|there’s no phone reception in hell|theres no phone reception in hell",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

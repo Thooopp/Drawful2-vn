@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cơn hoảng loạn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a panic attack",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

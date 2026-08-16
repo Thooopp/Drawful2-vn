@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thuyền trực thăng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "helicopter-boat|copter boat|a helicopter boat",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

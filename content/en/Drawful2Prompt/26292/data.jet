@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nỗi sợ bị từ chối",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fear of rejction",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

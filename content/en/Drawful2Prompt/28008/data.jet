@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Anh chàng có một núm vú to",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "guy with 1 big nipple|a guy with one big nipple",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

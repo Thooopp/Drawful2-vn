@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đi tất với xăng đan",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "socks with sandles|socks and sandles|socks with sandels|socks and sandels|sandals with socks|sandals and socks",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

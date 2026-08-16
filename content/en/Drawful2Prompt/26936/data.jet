@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Học sinh chuyên",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a gifted student",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

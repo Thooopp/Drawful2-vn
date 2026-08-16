@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "17 xu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "seventeen cents|17 sents|seventeen scents|seventeen sents|17 scents",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

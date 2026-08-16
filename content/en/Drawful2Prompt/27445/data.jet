@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cái vòng lắc hông này đang giết tôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "this hulahoop is killng me|This hula-hoop is killing me|hula hoop is killing me|hulahoop is killng me|hula-hoop is killing me|this hula hoop’s killing me|this hula hoops killing me",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

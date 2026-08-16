@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thị trưởng sún răng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "toothles mayor|a toothless mayor|tooth less mayor|tooth-less mayor|toothless mayer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

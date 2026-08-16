@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "người tuyết tên lửa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "rockt snowman|a rocket snowman|rocket snow man",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

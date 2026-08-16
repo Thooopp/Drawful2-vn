@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mới ly hôn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "divorced|recent divorce",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Ugh... don’t remind me.",
+            "t": "A",
+            "v": "452825_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

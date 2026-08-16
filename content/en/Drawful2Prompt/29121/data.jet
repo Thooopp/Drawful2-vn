@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xe tăng bắn sốt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tank that shoots sauce|tank that shoots sauces|a tank that shoots sauces",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

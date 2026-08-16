@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sưu tầm lông mũi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "collect nose hair|collect nosehair|I collect nosehair",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

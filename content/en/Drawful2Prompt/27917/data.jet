@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ca sĩ mút micro",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "singer sucking on a mic|a singer sucking on a microphone",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

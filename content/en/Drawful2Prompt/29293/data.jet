@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Những đôi giày trông giống như bàn chân",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "shoes that look like feet",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

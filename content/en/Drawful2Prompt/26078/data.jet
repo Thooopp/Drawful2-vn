@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kẻ giết người hưng phấn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "xcited killer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

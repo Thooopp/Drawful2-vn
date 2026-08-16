@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Một đường kẻ dày trên máy tính",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a thick line over a computer|thick line over computer|a thick line over computer",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

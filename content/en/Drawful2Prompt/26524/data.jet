@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bóng ma lái xe tải quái vật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "monstar truck rally ghost|monster truck ghost|monster truck ralley ghost|a monster truck rally ghost",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

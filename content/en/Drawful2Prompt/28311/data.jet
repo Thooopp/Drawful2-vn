@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhà vệ sinh công cộng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "comunity toilet|community tolet|a community toilet",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

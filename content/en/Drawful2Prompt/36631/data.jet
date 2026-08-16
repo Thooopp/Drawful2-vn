@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cục phân này có mùi như gà",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "poop that smells like chicken|poop smells like chicken|poo that smells like chicken|this poo smells like chicken|poo smells like chicken|poopoo that smells like chicken|this poopoo smells like chicken|poopoo smells like chicken|poo-poo that smells like chicken|this poo-poo smells like chicken|poo-poo smells like chicken",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

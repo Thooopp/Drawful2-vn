@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "trẻ con đấu võ tổng hợp",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ultmate fighting kids|ultimate fiting kids|the ultimate fighting kids",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lận đận tình duyên",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "un lucky in love|un-lucky in love",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

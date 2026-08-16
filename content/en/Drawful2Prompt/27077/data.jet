@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tủ lạnh của Chúa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gods refrigerator|god’s fridge|gods fridge|god’s refridgerator|gods refridgerator",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

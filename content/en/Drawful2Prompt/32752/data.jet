@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "một ngôi nhà nhưng có thêm một đường gạch",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a house with an extra line for no reason",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "In California that line would command half a million for the real estate alone.",
+            "t": "A",
+            "v": "461971_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Một người có tên Cường",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a guy named tod|todd, guy named todd",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Oh, I see you know Todd.",
+            "t": "A",
+            "v": "436310_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

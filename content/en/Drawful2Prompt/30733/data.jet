@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hẹn hò ăn sushi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sush date|sushee date|a sushi date",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

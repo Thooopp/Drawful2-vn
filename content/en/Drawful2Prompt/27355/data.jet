@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cánh gà hơi cay cay",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "only kinda spicy|only kinda spicy wings",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

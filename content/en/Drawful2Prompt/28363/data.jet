@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Taxi ma thuật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "magical taxi|magic taxicab|magic taxi cab|a magic taxi",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "But it still smells like magic urine.",
+            "t": "A",
+            "v": "442850_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

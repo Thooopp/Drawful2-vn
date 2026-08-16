@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "túi rác có máu chảy ra",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "grbage bag with blood coming out of it|garbage bag with blood coming out|garbage bag with blud coming out|a garbage bag with blood coming out of it",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "As a reminder: always store human blood in a plastic bag before you put it in your garbage.",
+            "t": "A",
+            "v": "438347_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

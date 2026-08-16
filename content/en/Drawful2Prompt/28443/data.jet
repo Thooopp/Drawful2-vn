@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ăn chuột đúng cách",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "proper way to eat a rat",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I was raised to always go tail first.",
+            "t": "A",
+            "v": "443090_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

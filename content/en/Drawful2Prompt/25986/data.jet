@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "phù thủy xyanua",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the end of world in New Orleans|end of the world in New Orleans",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

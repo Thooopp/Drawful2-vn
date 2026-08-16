@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Các bà nội trợ ma cà rồng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "real housewives of transelvania|real housewifes of tranylvania|real housewives of transylvania|the real housewives of transvylvania",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I would definitely watch that.",
+            "t": "A",
+            "v": "437399_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

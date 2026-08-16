@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ăn quá nhiều kẹo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ăn nhiều kẹo|quá nhiều kẹo|ăn kẹo quá nhiều",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

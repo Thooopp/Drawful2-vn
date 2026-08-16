@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phân ma",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ghost poop|ghost poo|ghost poopoo|ghost poo poo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

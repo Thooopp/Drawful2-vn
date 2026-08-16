@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bầu trang trí",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "decortive gords|decortive gourds|decorative gords",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

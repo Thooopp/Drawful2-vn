@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhà giàu mới nổi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "new-money|new mony",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

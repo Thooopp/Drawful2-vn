@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cười giả tạo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fake laugher|fake laghter|fake laugh",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "(really fake laugh) Haaaa. Haahaaaa. Haaa.",
+            "t": "A",
+            "v": "450389_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thợ quét ống khói đáng yêu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "adorable chimmney sweep|adorable chimmey sweep|an adorable chimney sweep",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "(bad British accent) Adorable chimney sweep! I’m sorry... I was ugh... specifically asked not to do that voice... I apologize.",
+            "t": "A",
+            "v": "452459_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

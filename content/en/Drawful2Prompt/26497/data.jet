@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cục nước đá gợi cảm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "erotic icecubes",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

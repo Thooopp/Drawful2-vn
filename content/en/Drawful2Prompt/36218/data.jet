@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "ác mộng của nhân viên cứu hộ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lifeguard dream|lifeguard night mare|life guard night mare|life guard nightmare|a lifeguard nightmare|a lifeguard’s nightmare|lifeguards nightmare|a life guard nightmare",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

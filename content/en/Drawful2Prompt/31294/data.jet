@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Giọt nước mắt hạnh phúc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "happy tares|happy teers",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

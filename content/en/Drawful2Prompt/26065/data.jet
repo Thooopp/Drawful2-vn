@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ve bám trên mặt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ticks on face|tiks on face|tics on face",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

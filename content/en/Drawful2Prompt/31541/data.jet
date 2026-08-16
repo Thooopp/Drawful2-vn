@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bánh xèo trong túi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "taco in bag|taco bag|tako in a bag|a Taco in a bag|a Taco in bag",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

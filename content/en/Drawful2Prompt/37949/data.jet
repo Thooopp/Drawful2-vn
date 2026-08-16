@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mặt trời đang ở trong nhà!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sun inside house|sun is inside the house!|the sun is inside the house|the sun is inside the house.|sun inside the house|a sun in the house|the sun in a house|sun in house",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

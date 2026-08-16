@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "nàng tiên cá hôi miệng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bad breathe mermaid|bad breath mermade",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

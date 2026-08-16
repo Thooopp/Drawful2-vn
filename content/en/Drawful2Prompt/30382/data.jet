@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Dòng sông máu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a river of blood",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

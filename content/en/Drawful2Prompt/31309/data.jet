@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ăn củ hành sống",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "eating a raw onon|eat a raw onion|eating raw onions|eating an onion|eating raw onion",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

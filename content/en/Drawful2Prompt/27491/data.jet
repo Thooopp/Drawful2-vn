@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trị liệu tâm lý cặp đôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "couple therapy|couples therpy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

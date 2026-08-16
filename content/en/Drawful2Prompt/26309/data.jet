@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Du thuyền ma",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ghost cruse|gost curise|gost cruise|ghost curise|ghost croose|ghost cruz|a ghost cruise",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "If Kid Rock gets a cruise, so should ghosts.",
+            "t": "A",
+            "v": "436685_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

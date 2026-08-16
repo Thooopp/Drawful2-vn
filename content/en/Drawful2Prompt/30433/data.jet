@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xe tải của bố dượng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "stepdad’s truck|step dad’s truck|step-father’s truck|step father’s truck|stepdads truck|step dads truck|step-fathers truck|step fathers truck|step-dads truck",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

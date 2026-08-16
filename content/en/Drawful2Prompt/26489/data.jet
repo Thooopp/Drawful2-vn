@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ca sĩ opera có đôi cánh rồng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "opera singer with dragon wing|an opera singer with dragon wings",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

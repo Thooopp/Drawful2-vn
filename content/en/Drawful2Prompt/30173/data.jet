@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chủ nhà độc ác",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "evil land lord|an evil landlord",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

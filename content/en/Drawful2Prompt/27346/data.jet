@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngồi cho chắc vào",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hold on to youre butts|hold on to you butts|hold on to your buts|hold onto your butts",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Vin Diesel đi xăm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mister clean getting a tattoo|mr clean getting a tatoo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

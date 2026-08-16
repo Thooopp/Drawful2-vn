@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "xương rồng hình bàn tay",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "handshaped cactus|hand-shaped cactus|a hand shaped cactus",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

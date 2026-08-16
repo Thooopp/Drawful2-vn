@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nông dân trồng cỏ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a farmer who grows weeds|farmer that grows weeds|farmer grows weeds",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Weeds. Weed-s. That last “S” is very important.",
+            "t": "A",
+            "v": "451100_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

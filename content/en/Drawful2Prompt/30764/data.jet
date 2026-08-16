@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thổi bong bóng từ thiện",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bubble blowing for charity|blowin bubbles for charity|blowing bubbles for charty",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

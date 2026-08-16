@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đêm hội anh em!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "boys’ night|boys night|Boy’s night",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

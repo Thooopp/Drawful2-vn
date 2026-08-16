@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sơn Tùng trên tàu lượn siêu tốc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tom waitts on a rollercoaster|tom waits on a roller coaster|Tom Waits riding a rollercoaster",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

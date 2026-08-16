@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đi mua trái tim",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "shopping for harts",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

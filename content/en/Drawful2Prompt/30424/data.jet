@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhóm bạn tượng quỷ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "gargole friends|gargoil friends",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

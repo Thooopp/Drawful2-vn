@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tự ôm chính mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "huging yourself|hugging urself|hugging your self",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Rẻ quá chừng!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "what a bargain|what a bargin",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

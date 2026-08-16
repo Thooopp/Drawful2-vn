@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mất mạng vì bóng len",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "death by hackeysack|death by hackysack|death by hacky-sack",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

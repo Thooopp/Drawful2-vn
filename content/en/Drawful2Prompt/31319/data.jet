@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nói liên hồi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "verbal diarrea|verbal darhea|verbal diarhea",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

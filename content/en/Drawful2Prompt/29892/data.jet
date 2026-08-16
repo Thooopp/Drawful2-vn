@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nam châm gãy",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "broke magnet|busted magnet|a broken magnet",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

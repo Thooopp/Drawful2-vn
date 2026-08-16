@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lén theo dõi hàng xóm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "spying on a nieghbor|spying on a naybor|spy on neighbor|spy on a neighbor|spying on neighbor",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

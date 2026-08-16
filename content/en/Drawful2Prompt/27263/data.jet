@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi ỉa ra từ nách",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "I poo out my armpit|I poo out my arm pit|I poop out my arm pit|I poo out of my armpit|I poo out of my arm pit|I poop out of my arm pit",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Okay, no. Let’s not dwell on this one.",
+            "t": "A",
+            "v": "439547_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

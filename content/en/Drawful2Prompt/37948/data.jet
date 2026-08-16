@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nông dân cày đêm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a night farmer|night farm|a night farm",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

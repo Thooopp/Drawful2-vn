@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đấu thìa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "spon fight|spoon fite|a spoon fight",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Remember, never bring a fork to a spoon fight.",
+            "t": "A",
+            "v": "452690_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

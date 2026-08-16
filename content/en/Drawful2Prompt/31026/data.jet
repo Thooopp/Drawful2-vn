@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "anh chàng ngầu lòi thổi sáo một mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cool guy playing whistle solo|a cool guy playing a whistle solo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

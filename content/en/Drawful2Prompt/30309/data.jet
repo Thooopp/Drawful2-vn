@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thời điểm kỳ lạ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "wierd time|a weird time",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

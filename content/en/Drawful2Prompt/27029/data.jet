@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sư tử với vòng ba chảy xệ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lion with saggy butt|lion with sagy butt|lion with saggy ass|lion with sagy ass|lion with a sagy butt|lion with a saggy ass|lion with a sagy ass",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

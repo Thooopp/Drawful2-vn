@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sóc bay sợ bay",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "flying squirel afraid to fly|a Flying squirrel afraid to fly",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

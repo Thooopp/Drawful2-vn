@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nước ngâm cá ngừ hộp",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tunacan water",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Mmmm... gross!",
+            "t": "A",
+            "v": "452465_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

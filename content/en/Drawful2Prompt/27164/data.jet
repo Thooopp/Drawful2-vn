@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người chị em thất lạc lâu năm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "long-lost sister|longlost sister|a long lost sister",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

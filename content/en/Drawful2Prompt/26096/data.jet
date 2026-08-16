@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cây đàn guitar bị nguyền rủa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cursed gutar|cursed gitar|a cursed guitar|curse guitar",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

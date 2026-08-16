@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xuất huyết nội",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "internal bleding",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

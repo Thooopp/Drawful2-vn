@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gà tây khô",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dry turky|a dry turkey",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Quick! Someone draw some gravy!",
+            "t": "A",
+            "v": "440807_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

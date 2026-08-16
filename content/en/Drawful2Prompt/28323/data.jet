@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Shakespeare ăn một chiếc hot dog",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "shakespear eating a hot dog|shakespeare eating a hotdog|Shakespere eating a hot dog",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Khớp ngón tay",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "nuckles|knukles|knucles|nuckles",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

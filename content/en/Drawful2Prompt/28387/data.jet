@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bắn súng góc nhìn thứ nhất",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "firstperson shooter|first-person shooter|1st person shooter|1st-person shooter",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

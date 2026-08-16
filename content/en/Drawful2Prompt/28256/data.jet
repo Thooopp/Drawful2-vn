@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Anh em chí cốt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "broes being broes|Bros bein bros|Bros bein’ bros",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Slender Man",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "slenderman|the slender Man",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

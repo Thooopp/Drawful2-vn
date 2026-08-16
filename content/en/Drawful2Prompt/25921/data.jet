@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đụng chạm sờ mó",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "làm trò đụng chạm sờ mó|làm trò đụng chạm|đụng chạm|làm trò sờ mó|sờ mó",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Gross.",
+            "t": "A",
+            "v": "435441_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhà trọ sinh viên",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "New York apartment|NY apartment|NYC apartment|a New York City apartment",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I think we gave way too much drawing space for that one.",
+            "t": "A",
+            "v": "449324_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

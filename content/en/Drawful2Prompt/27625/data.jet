@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Làm việc từ xa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "telcommuting|telecomuting|telecommutting",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

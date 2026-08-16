@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Song sinh độc ác",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "evil twins|an evil twin",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

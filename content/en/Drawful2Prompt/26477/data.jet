@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sợ cái bóng của chính mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "scared of you’re own shadow",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

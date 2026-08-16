@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "thích hít thở",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "i like breatheing",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I like heavy breathing, but the judge made me stop doing it over the phone.",
+            "t": "A",
+            "v": "453005_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

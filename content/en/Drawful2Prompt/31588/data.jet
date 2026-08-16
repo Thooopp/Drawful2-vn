@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xman tệ nhất",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the worst x-man|worst xman|worst x-man|worst x man",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "There should probably be a hyphen in there, right? Maybe? Eh, let’s get on with our lives.",
+            "t": "A",
+            "v": "453020_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

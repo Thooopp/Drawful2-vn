@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bùa yêu thất bại",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "failed luv spell|a failed love spell",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

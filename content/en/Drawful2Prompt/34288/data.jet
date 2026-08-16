@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "con cá trong hình vuông",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fish in a square|fish in square|a fish in a sqare|fish in a sqare",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Các ngón chân dài bằng nhau",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "toes that are the same size",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

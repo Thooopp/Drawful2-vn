@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bị bồ đá ở Công viên Kỷ Jura",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "getting broken up with at Jurassic Park|dumped at Jurassic Park",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "At least it wasn’t Jurassic World.",
+            "t": "A",
+            "v": "437267_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

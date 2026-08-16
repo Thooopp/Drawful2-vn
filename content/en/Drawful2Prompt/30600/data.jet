@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người phán xử",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "N.C.I.S.|N.C.I.S",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

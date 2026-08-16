@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bộ răng giả mới",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "brand new dentures",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

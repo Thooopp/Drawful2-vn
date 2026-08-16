@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Khăn quàng khổng lồ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "big scarf|a huge scarf",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

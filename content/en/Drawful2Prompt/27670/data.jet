@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mặt trời bắn Trái Đất",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the sun shooting earth|the sun shooting the earth|sun shooting the earth",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

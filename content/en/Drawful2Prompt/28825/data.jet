@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tìm kiếm tình yêu sai nơi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "looking for love in all wrong places",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "So many jokes I could make right now, but you know, we gotta keep our teen rating!",
+            "t": "A",
+            "v": "444720_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

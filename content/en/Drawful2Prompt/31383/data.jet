@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ghế bay lơ lửng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hover chair|a hoverchair",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

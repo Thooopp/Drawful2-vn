@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thông báo đẩy",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a push notification",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

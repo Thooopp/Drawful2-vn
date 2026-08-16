@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi ăn một cục ắc quy",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ate a car battery|I ate a car batery",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "A great way to jumpstart your day.",
+            "t": "A",
+            "v": "446106_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

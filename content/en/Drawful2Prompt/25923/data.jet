@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "bơ đậu phộng trong rốn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "bơ lạc trong rốn|bơ đậu phộng trong lỗ rốn|bơ lạc trong lỗ rốn",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

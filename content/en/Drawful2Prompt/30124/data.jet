@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ban nhạc toàn đàn banjo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "banjo band|an all banjo band",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

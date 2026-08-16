@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "đừng ăn kẹo đã bóc vỏ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "do not eat opened candy|don’t eat open candy|do not eat open candy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "That’s great advice... if you’re a coward!",
+            "t": "A",
+            "v": "467740_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

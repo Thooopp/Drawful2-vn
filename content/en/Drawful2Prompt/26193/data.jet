@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phân khô",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dihydrated poop|dehidrated poop",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

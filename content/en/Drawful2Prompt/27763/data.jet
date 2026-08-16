@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gã cơ bắp với đôi chân gầy gò",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "strongman with skinny legs|strong man with skinnie legs|a strong man with skinny legs",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

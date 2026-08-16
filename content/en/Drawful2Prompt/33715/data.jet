@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "thức uống ác mộng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "nitemare drink|a nightmare drink",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Nightmare drink is what I call drinking warm milk while walking in on a naked relative.",
+            "t": "A",
+            "v": "467743_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

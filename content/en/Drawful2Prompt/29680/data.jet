@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cải xoăn này ăn là mê luôn!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "this kale is adictive|this kale is addictive|this kale is addictive.|this kale’s addictive",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nước có ga",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fizzy watter|fizzy water",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

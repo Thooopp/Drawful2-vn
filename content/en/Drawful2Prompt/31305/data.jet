@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bút tàng hình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "vanish pen|vanishing pin|a vanishing pen",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người giao hàng trong mơ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "delivry guy in a dream|delivry guy in a dream|a delivery guy in a dream|delivery guy in dream|a delivery guy in dream",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

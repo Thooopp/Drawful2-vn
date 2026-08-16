@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sinh viên khoa Triết học",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "philsophy majors",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

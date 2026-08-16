@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hai bố con im lặng xem trận bóng chày",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "father & son silently watching a baseball game|son and father silently watching a baseball game|son & father silently watching a baseball game|father & son silently watching baseball game|son and father silently watching baseball game|son & father silently watching baseball game|father and son silently watching baseball game",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

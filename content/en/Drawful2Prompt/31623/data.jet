@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "chết vì kèn trombone",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "death by trommbone|deth by trombone|trombone death",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

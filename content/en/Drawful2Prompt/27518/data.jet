@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chân tôi biến thành cái cào!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "my feet are rakes|feet are rakes",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

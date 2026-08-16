@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sinh tố protein",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "protien shake|a protein shake",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

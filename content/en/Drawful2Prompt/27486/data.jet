@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Máy đấm vào mặt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "punch in face machine|punch-in-the-face machine|a punch in the face machine",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

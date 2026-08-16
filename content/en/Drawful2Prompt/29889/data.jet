@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bóng đái chứa rượu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "blatter of wine|a bladder of wine",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

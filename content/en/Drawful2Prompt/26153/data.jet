@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "ăn phô mai tươi trên giường",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "eating cotage cheese in bed|eating cottagecheese in bed",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

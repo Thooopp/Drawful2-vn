@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chữ Z nằm trên hình tròn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a z on top of a circle",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

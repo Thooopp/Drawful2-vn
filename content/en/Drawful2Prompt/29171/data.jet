@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "tên này là một kẻ hèn nhát",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "guy is a coward|this guys a coward|this guy’s a coward|guys a coward|guy’s a coward",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

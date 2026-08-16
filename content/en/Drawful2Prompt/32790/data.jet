@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "những gì đã làm trong kỳ nghỉ hè",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "what I did on summer vacation",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

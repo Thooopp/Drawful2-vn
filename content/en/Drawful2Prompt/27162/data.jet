@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Công thức bí mật",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "secret recpe|secrt recipe|secrt recpe|a secret recipe",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

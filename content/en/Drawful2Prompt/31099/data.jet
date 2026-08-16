@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "cà rốt quyền năng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "powerful carots|powerful carrot|power carrot|power carrots",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

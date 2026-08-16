@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bạn cùng phòng kỳ quặc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Weird roomate|Weird room mate|Wierd roommate|Wierd roomate|Wierd room mate",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

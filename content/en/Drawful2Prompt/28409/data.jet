@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi là một tín đồ ẩm thực!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "I’m a foody|i’m a foodie|Im a foody|im a foodie|im a foodie!",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

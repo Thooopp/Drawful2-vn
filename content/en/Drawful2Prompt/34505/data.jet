@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Không biết đây là mùi thơm hay mùi thối nữa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "can’t tell if its a good smell or a bad smell|can not tell if it is a good smell or a bad smell|can’t tell if it’s a bad smell or a good smell|can not tell if it’s a bad smell or a good smell|can’t tell if it’s a good smell or bad smell",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

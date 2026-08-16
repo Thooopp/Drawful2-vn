@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chiếc hộp xấu hổ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a box of shame|the box of shame",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

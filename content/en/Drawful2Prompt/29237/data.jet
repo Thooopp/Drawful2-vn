@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi sẽ không trả tiền cho cái đùi gà này!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "i’m not going to pay for this turkey leg!|i’m not going to pay for this turkey leg|i am not going to pay for this turkey leg|I wont pay for this turkey leg|I won’t pay for this turkey leg.|I will not pay for this turkey leg|I will not pay for this turkey leg!",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

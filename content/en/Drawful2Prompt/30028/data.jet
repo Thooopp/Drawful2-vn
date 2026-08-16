@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tổng thống mặc đồ ngủ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pajamma president|pj president|pajama pres|pajama prez|pj pres|pj prez",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Pajama President’s first action was to veto night gowns.",
+            "t": "A",
+            "v": "448337_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

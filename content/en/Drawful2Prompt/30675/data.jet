@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "liên hệ công ty truyền hình cáp",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "callin the cable company|calling cable company|call the cable company",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tô súp vô tận",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "never-ending soup|neverending soup",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

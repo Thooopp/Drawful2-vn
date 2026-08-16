@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bảo tàng mùi hôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "musuem of stinks|museum of stink|the museum of stinks",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

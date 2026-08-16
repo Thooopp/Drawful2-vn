@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tung hứng lát thịt nguội",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "jugglin hams|jugling hams|juggling ham",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

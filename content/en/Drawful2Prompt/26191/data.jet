@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xe đạp cho sáu người",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a bike for six|a bike for 6|a bicycle for 6",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

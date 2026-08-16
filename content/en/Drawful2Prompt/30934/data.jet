@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sợi tóc xoăn trên bánh mì",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "curly hair on sandwhich|curley hair on a sandwich|A curly hair on a sandwhich|curly hair on a sandwich",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Ugh. No. No. No.",
+            "t": "A",
+            "v": "451055_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

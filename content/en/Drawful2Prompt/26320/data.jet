@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chó con lớn nhanh như thổi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fast-growing puppy|a fast growing puppy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

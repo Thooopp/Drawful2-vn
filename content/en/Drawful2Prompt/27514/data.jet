@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Em bé tiều phu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "baby lumber jack|baby lumber-jack|a baby lumberjack",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

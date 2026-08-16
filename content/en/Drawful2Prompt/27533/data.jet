@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bị đuổi sau đêm mặn nồng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a walk of shame|the walk of shame",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

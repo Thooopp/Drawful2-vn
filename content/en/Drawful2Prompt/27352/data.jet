@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nhạc jazz nhẹ nhàng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "smoothe jazz|smooth jaz|smoth jazz|smoth jaz",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

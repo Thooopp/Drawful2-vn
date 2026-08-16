@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tắm bùn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mud bathe|mudd bath",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

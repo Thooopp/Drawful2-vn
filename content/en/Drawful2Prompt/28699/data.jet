@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cái chết sẽ đến với tất cả chúng ta",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "death comes for all of us",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Yikes, that’s a downer. But we’re all having fun! Ha... ugh.",
+            "t": "A",
+            "v": "444342_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

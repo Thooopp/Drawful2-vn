@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thu hồi xe",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "auto recall|car re-call",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

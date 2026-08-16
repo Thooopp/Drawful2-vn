@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Nghe giọng nói của chính mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "hearing you’re own voice|hearing youre own voice",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

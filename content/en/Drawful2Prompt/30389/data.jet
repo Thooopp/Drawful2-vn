@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Giao dịch nội gián",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "inside trading",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

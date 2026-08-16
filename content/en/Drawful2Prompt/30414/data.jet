@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chim ưng bịt mắt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "eagle with eye patch|an eagle with eyepatch|eagle with an eyepatch|an eagle with an eyepatch|an eagle with eye patch|eagle with an eye patch|an eagle with an eye patch|eagle with eye-patch|an eagle with eye-patch|eagle with an eye-patch|an eagle with an eye-patch",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

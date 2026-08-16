@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "bà già nghe đài phát thanh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "grandmother listening to talk radio|grandma listining to talk radio",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

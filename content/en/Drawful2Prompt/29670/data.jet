@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quan tài trơn trượt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "slipery coffin|a slippery coffin",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

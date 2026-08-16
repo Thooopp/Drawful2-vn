@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Giai đoạn nước rút",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "crunchtime",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "bị những thanh kiếm bay chém làm đôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cut in half with tiny flying swords|cut in half by tiny swords|cut in half by small flying swords",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

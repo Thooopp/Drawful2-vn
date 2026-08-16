@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ác mộng về gấu ma cà rồng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "nightmare about bear vampires|nitemare about vampire bears|a nightmare about vampire bears",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

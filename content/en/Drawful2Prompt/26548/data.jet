@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Độc tấu kèn harmonica",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "harmonca solo|a harmonica solo",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

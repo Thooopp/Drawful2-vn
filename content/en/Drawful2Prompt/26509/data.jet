@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quỷ phát điên vì hóa đơn điện thoại",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the devil freaking out over his cellphone bill|devil freaking out over his cell phone bill|the devil freaking out about his cell phone bill|devil freaking out over his cellphone bill|the devil freaking out about his cellphone bill",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "He should know the devil’s in the details.",
+            "t": "A",
+            "v": "437285_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

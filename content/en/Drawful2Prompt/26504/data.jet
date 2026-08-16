@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phẫu thuật trong ngày cưới",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "wedding day surgary|a wedding day surgery",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

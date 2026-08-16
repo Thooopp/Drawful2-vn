@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Túi đựng vật chứng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "evadence bag|evedence bag|evudence bag|an evidence bag",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

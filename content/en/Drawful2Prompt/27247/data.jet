@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bảo tàng lạc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "penut museum|a peanut museum|the peanut museum",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Ugh... I’m allergic to museums.",
+            "t": "A",
+            "v": "439499_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

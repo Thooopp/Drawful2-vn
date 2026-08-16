@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Doanh nhân phong cách Punk",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "punk buisnesman|punk businesman|a punk businessman|punk business man",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I bet he doesn’t even look at the Outlook calendar!",
+            "t": "A",
+            "v": "438680_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Có khoảng thời gian tuyệt vời nhất",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "had the time of my life",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "And I owe it all to you.",
+            "t": "A",
+            "v": "439676_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "một cảnh trong vở kịch Macbeth",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a scene from Mcbeth|scene from macbeth|macbeth|macbeth scene|mcbeth",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "A scene from... The Scottish Play. I call it that because I’m... an actor!",
+            "t": "A",
+            "v": "452576_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

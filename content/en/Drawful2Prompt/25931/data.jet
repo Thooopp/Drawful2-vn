@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chiếc lưỡi nhỏ xíu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cái lưỡi nhỏ xíu|chiếc lưỡi nhỏ|cái lưỡi nhỏ|chiếc lưỡi bé xíu|cái lưỡi bé xíu|luõi nhỏ xíu|luõi bé xíu",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

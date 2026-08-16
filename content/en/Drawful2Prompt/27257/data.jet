@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "đồng hồ có vết khâu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a clock with stichs|clock with stitches",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

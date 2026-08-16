@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngày làm bơ vui vẻ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "very happy churning butter|very happy day chrning butter|a very happy day churning butter|happy day churning butter|very happy day of churning butter|very happy day butter churning|a very happy day butter churning|happy day butter churning",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

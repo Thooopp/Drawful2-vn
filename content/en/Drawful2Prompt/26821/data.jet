@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lò mổ lãng mạn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "romantic slaghterhouse|romantic slaughter house|a romantic slaughterhouse|a romantic slaughter house",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

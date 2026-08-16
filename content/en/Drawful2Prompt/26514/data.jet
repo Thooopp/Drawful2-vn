@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Rùa đi cà kheo",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tutrle on stilts|a turtle on stilts",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

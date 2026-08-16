@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "gian lận khi đánh bạc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cheating at gambleing",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

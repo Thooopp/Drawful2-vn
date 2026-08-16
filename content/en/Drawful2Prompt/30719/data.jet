@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ba miếng thịt gà ướp nhẹ gia vị",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "3 lightly seasoned pieces of chicken|three lightly season pieces of chicken|three pieces of chicken lightly seasoned",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ông già Noel cưỡi tàu lượn siêu tốc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "old guy from 6 flags|the old guy from 6 flags|the old guy from Six Flags",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

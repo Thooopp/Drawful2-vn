@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chú chó uốn tóc mặt xị",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "angry dog with a perm|an unhappy dog with a perm|unhappy dog with perm",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chú hề ngã lăn ra ghế sofa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a clown crashing on a couch|clown crashing into a couch",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

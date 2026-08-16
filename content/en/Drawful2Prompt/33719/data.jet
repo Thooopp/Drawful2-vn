@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hộ chiếu của <RANDOM_PLAYER_NAME>",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Good luck entering any country with that.",
+            "t": "A",
+            "v": "467759_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

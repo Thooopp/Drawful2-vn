@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đấu kiếm bằng bánh mì que",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "sword fighting with bread sticks|swordfighting with breadsticks",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

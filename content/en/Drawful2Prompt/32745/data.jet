@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "đừng hoảng nhưng tôi nghĩ chúng ta đang bị bám đuôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dont panic but I think were being followed|dont panic but I think we’re being followed|don’t panic but I think were being followed",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

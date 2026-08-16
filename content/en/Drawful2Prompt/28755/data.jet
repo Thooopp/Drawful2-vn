@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hoàng hôn u ám",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "an ugly sunset",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hóa đơn siêu dài",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "really long receit|long receipt|long receit|a really long receipt",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

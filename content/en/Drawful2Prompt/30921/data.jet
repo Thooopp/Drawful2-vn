@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Khoai tây chiên phủ sốt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Loaded tater tots",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Aaahh, loaded tots: the first sign of depression.",
+            "t": "A",
+            "v": "451016_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

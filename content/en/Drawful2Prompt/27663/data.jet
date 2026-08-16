@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Pháo hoa bị xịt",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "fire work duds|fire-work duds",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

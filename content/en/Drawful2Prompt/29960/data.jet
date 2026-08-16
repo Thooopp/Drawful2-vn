@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "trận chiến gối ở cửa hàng tạp hóa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "grocery store pilow fight|store pillow fight|groshery store pillow fight|grocery store pillowfight|a grocery store pillow fight",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

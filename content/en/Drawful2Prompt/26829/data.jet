@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Phi hành gia lười biếng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lasy astronauts|lazy astrnauts",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

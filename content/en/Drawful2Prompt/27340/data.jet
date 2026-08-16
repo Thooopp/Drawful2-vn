@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cục phân trong bát lớn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "terd in a punch bowl|turd in a punchbowl|a turd in a punch bowl|a turd in a punchbowl",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

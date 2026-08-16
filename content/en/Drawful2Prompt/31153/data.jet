@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "mọi người tức giận trong buổi họp",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "everyone is angry at this board meeting|everyone’s mad at the board meeting|everybody’s angry at this board meeting|everybody is angry at this board meeting",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

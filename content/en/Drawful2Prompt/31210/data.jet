@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Xét nghiệm dị ứng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "alergy test|an allergy test",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "For once we’re actually asking you to draw pricks. Because of... how uh... how... allergy tests work.",
+            "t": "A",
+            "v": "451886_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

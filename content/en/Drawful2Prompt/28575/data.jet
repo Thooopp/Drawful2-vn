@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tom Hanks dưới gầm giường của tôi",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tom hanks under a bed|tom hanks is under my bed",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

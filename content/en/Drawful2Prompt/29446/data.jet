@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Áo choàng cỡ XL",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "extra large cape|extra-large cape|an extra large cape|an xl cape|a xl cape",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bối rối bởi mặt trời",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Yeah, the sun is confusing. First it’s up, then it’s down. It’s like, come on! Make up your mind, sun!",
+            "t": "A",
+            "v": "442271_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

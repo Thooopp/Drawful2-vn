@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trường đại học sóc",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "squirel college|squirel colege|squirrel colege|squirel college|a squirrel college",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

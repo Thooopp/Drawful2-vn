@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tắm giùm cái đi?",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "can you shower|can you shower allready|can u shower already",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "If I had a nickel for every time my college roommate wrote that on our dry-erase board.",
+            "t": "A",
+            "v": "453212_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

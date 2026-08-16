@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Andy Warhol",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "andy warhal",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

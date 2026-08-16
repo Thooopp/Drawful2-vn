@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Rình rập trong bụi cây",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "creep in the bushes|creeping in bushes",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

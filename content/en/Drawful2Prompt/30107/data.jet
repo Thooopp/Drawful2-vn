@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đường chân trời xấu xí",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ugly sky line|an ugly skyline",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ngũ cốc ỉu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mushy cereal|sogy cereal|soggey cereal|soggy serial",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

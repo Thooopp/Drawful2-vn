@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hội nghị những kẻ thất bại",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "looser convention",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Is it that time of year already?",
+            "t": "A",
+            "v": "446079_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

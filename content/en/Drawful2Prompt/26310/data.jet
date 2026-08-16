@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "xác ướp mang thai",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "pregnant mumy|pregnant mummie|a pregnant mummy",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

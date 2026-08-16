@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Bộ tuxedo bốc cháy",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "tuxedo fire|tux fire|tux on fire|a tuxedo on fire|a tuxedo that’s on fire",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

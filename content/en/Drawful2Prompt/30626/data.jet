@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cứu hộ đường bộ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "roadside assist|road side assistance|road side assist|road-side assistance",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

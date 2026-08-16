@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chiếc xe chạy bằng tình yêu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "car that runs on luv",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

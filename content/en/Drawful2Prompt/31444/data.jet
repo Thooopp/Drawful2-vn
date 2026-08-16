@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Mưa axit!!!",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "acid rain|acid rain!|acid rain!!",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

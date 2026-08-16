@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sống trong mơ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "living teh dream|livin the dream|livin’ the dream",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

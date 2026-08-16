@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "May mắn còn sống",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "lucky to be a live",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

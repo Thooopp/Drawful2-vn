@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chuyên gia mạng xã hội",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "a social media expert",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

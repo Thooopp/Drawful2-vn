@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thẻ tín dụng của bạn đã bị từ chối",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "Your card was declined|Your credit cards declined|Your credit card’s declined|Your card’s declined",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

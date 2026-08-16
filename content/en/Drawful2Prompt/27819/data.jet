@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người hướng nội",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "an introvert",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

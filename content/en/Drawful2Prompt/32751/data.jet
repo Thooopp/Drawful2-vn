@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "giả vờ bận rộn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "preteding to be busy|pretend to be busy",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "It’s like you’ve seen me work in an office.",
+            "t": "A",
+            "v": "461968_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hầm trú ẩn hạt nhân",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "falout shelter|fall out shelter|a fallout shelter",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

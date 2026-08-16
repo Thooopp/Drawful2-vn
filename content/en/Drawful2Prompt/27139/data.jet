@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Cỗ máy thời gian hỏng",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "broken time-machine|broke time machine",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

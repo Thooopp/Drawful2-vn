@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Ăn một quả thông",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "eating a pin cone|eatin a pine cone|eating pine cone|eating pinecone",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

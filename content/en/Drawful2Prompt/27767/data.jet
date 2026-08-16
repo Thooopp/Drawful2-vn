@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Diễn viên đóng thế tệ hại của The Rock",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the rock’s awful bodydouble|the rocks awful body double|rock’s awful body double|rock’s awful bodydouble|rocks awful body double|rocks awful bodydouble|awful body double for the rock|awful bodydouble for the rock",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

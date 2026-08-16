@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tôi sẽ bảo vệ chiếc kèn của mình",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "defend my trumpet|I defend my trumpet|will defend my trumpet",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Sờ soạng từ phía sau",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "reacharound|reach-around",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

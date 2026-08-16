@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quả dứa phát nổ",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "exploding pine apple|exploding pinapple",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

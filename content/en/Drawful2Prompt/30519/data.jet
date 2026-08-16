@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tuồng cải lương",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mellodrama",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

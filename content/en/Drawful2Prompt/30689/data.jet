@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chết trong mê cung ngô",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "dead in a corn mase|dead in corn maze",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

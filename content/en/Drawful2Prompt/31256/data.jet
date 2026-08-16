@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Trời hơi âm u",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "slight overcast|slighly over cast",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

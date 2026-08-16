@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "kẹo ngô ngon lành",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "delicious candycorn|delicious candy-corn",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "Delicious candy corn, huh? Well that must exist in some weird alternate universe.",
+            "t": "A",
+            "v": "450401_1f",
+            "n": "JokeAudio"
+        }
+    ]
+}

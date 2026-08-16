@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "ôm một con dê",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "huggin a goat|hug a goat|goat hug|hugging goat",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Đêm thứ Bảy ở Sài Gòn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "satrday night in Iowa|a saturday night in Iowa",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

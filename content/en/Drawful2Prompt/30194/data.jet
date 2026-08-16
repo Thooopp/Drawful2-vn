@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Quần đùi ngắn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "short-shorts|shortshorts",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

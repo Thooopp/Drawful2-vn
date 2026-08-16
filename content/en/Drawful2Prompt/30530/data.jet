@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lao công kỳ diệu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "mgic janitor|magic janiter|a magic janitor",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

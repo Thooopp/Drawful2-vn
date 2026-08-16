@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Con cá ngoại cảm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "psycic fish|psycick fish|a psychic fish",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

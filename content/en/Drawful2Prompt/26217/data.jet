@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "em còn thức không?",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "U up?",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "That’s what I always text Nasdaq.",
+            "t": "A",
+            "v": "436409_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Gấu bông gian ác",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "evil teddybear|an evil teddy bear",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

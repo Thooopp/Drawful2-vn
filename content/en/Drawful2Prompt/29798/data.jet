@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "không thể ngừng nghĩ về bò khô",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cant stop thinking about beef jerky|can not stop thinking about beef jerky|I can’t stop thinking about beef jerky",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "I know. It’s tough.",
+            "t": "A",
+            "v": "447647_0f",
+            "n": "JokeAudio"
+        }
+    ]
+}

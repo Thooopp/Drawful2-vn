@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "một ngày nữa nghỉ hưu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "one day til retirement|1 day until retirement|1 day til retirement",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Khoảnh khắc yên bình bên bố",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "quite time with dad|quiet time with father|quiet time with my dad",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

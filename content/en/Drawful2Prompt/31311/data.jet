@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tóc bò liếm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "cow lick|a cowlick",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Hoảng loạn ở tiệm tạp hóa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "panic attack at the grocerystore|grocery store panic store",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

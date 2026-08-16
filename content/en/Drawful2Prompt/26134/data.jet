@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "bực mình vì những chiếc thìa",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "angry at a spoon|angry at the spoons",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

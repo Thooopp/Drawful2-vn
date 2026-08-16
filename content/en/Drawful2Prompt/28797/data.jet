@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chuyên gia phân tích vết máu",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "blood-spatter expert|a blood splatter expert|bloodspatter expert",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

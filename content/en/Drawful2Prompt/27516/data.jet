@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Tỷ phú lập dị",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "ecentric millionaire|an eccentric millionaire|eccentric milionaire",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Thiên đường loài chuột",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "rat heven|rat haven",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

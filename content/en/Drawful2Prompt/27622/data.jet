@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Chia tay công khai",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "public break up|a public breakup|public break-up",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

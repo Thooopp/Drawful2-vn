@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Kết thúc một thời đại",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "the end of an era",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

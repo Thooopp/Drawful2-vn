@@ -1,0 +1,25 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Người đưa thư nhảy breakdance",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "người đưa thư breakdance|người đưa thư nhảy breaking|người đưa thư breaking|bưu tá nhảy breakdance|bưu tá breakdance|bưu tá nhảy breaking|bưu tá breaking",
+            "n": "AlternateSpellings"
+        },
+        {
+            "s": "You know, it’s a federal offense if you steal his moves.",
+            "t": "A",
+            "v": "435417_1f",
+            "n": "JokeAudio"
+        }
+    ]
+}

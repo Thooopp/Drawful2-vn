@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Súng trang điểm",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "make up gun|a makeup gun|make-up gun",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Giai đoạn lớn nhanh",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "growthspurt",
+            "n": "AlternateSpellings"
+        }
+    ]
+}

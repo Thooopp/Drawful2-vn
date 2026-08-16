@@ -1,0 +1,19 @@
+﻿{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Lắng nghe hoàng hôn",
+            "n": "QuestionText"
+        },
+        {
+            "t": "S",
+            "v": "listning to the sunset|listening to sunset|listening to sun set|listening to the sun set",
+            "n": "AlternateSpellings"
+        }
+    ]
+}
