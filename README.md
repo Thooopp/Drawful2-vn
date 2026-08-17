@@ -1,2 +1,2 @@
 # Drawful2-vn
-VIetnamese translation for Drawful2
+Unofficial VIetnamese translation for Drawful2
