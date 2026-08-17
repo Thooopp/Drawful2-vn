@@ -7,16 +7,16 @@
         },
         {
             "t": "S",
-            "v": "Đánh rắm ra laser",
+            "v": "Đánh rắm ra sơn",
             "n": "QuestionText"
         },
         {
             "t": "S",
-            "v": "đánh rắm ra tia laser|xì hơi ra laser|xì hơi ra tia laser|địt ra laser|địt ra tia laser",
+            "v": "",
             "n": "AlternateSpellings"
         },
         {
-            "s": "It’s the only way I can win at laser tag.",
+            "s": "Đây là cách duy nhất để tôi thắng trò bắn súng sơn.",
             "t": "A",
             "v": "435450_1f",
             "n": "JokeAudio"

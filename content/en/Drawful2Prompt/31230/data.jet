@@ -12,7 +12,7 @@
         },
         {
             "t": "S",
-            "v": "Your card was declined|Your credit cards declined|Your credit card’s declined|Your card’s declined",
+            "v": "",
             "n": "AlternateSpellings"
         }
     ]
